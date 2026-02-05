@@ -20,6 +20,8 @@ ALPR-RECORDS/
 ├── bso/
 │   └── README.md    # Context and notes specific to Broward Sheriff's Office records
 │
+├── southwest_ranches/
+│   └── README.md    # Context and notes specific to Southwest Ranches records
 └── README.md        # (this file)
 ```
 
