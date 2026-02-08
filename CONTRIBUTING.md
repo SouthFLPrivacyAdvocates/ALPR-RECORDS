@@ -46,10 +46,12 @@ If a contribution does not meet these principles, it should not be submitted.
 
 Each government entity must have its **own directory** with the following structure:
 
+```
 entity-name/
 ├── originals/ # Unmodified PDFs as received
 ├── hashes/ # Cryptographic hashes for originals
 └── README.md # Context specific to this entity
+```
 
 Do not mix documents from different entities in the same directory.
 
