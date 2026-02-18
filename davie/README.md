@@ -1,5 +1,27 @@
-# Davie Public Records Request
+# Town of Davie (FL) public records - ALPR documents
 
-This request is still open. We have not received any documents yet. We will update this folder with the documents as we receive them.
+These PDF documents were obtained from the Town of Davie, Florida in response to a public records request.
 
-**Records requested on:** February 6, 2026
+## What's in this folder
+
+- `originals/` - PDFs in original form and filenames (no edits)
+- `hashes/sha256.txt` - SHA-256 checksums for integrity verification
+
+## How records were obtained
+
+- Public records request submitted to the Town of Davie.
+
+## Date range
+
+- Request submitted: February 6, 2026
+- Current files include agreements/MOUs related to ALPR/LPR systems, including records referencing 2022.
+
+## Known gaps / request status
+
+- The request remains open for any additional responsive records not yet produced.
+
+## Verify file integrity (PowerShell)
+
+```powershell
+Get-FileHash .\originals\<filename>.pdf -Algorithm SHA256
+```
