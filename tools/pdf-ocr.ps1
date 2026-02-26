@@ -34,7 +34,6 @@ foreach ($f in $files) {
       --rotate-pages `
       --deskew `
       --output-type pdf `
-      --invalidate-digital-signatures `
       --sidecar $outTxt `
       $tempInput `
       $outPdf
