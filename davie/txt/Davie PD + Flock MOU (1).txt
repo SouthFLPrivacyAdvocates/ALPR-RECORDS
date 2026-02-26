@@ -1,0 +1,245 @@
+DocuSign Envelope ID: FD52D683-B0E0-4C34-A36A-1A4761E0F962
+
+ffock safety
+
+MEMORANDUM OF UNDERSTANDING
+
+This Data Sharing Memorandum of Understanding (hereinafter “MOU”) is entered into
+by and between Flock Group, Inc., with a place of business at 2588 Winslow Drive,
+Atlanta, GA 30305 (“Flock”) and Davie Police Department with a place of business at
+1230 S. Nob Hill Rd., Davie, FL 33324 (“Agency”) (each a “Party”, and together, the
+“Parties’).
+
+Whereas, Agency desires to access Flock’s technology platform and Flock Safety
+dashboard (together, the “Flock Service’) for investigative purposes, in order to view
+and search photos and videos recorded by Flock (“Recordings”) which are stored for
+no longer than thirty (30) days, utilizing its software for automatic license plate
+detection;
+
+Whereas, Flock desires to share such Recordings and supplemental data with Agency
+pursuant to the following terms and conditions:
+
+1. Purpose. To allow the Agency to utilize the Flock Services for the following purpose:
+to gain awareness with respect to the communities for which they serve to protect and
+facilitate investigations (the “Purpose’).
+
+2. Access Rights to Flock Services. Subject to the terms and conditions contained in
+this MOU, Flock hereby grants to Agency a non-exclusive, non-transferable right to
+access the features and functions of the Flock Service during the Term (as defined
+below), solely for use by Authorized Users in accordance with the terms and conditions
+herein, and only through Agency’s official email account. For purposes of this MOU,
+“Authorized Users” will mean employees, agents, or officers of Agency accessing or
+using the Flock Services for the Purpose. Agency acknowledges and agrees that, as
+between Agency and Flock, Agency shall be responsible for all acts and omissions of
+Authorized Users, and any act or omission by an Authorized User which would
+constitute a breach of this MOU, shall be deemed a breach of this MOU by
+
+Agency. Agency shall undertake reasonable efforts to make all Authorized Users aware
+of the provisions of this MOU as applicable to such Authorized User's use of the Flock
+Service, and shall cause Authorized Users to comply with such provisions.
+
+3. Restrictions on Use. Agency will not, and will not permit any Authorized Users or
+any third party to, (i) copy or duplicate any of the Flock Service; (ii) decompile,
+disassemble, reverse engineer or otherwise attempt to obtain or perceive the source
+code from which any software component of any of the Flock Service is compiled or
+interpreted; (iii) modify, alter, or tamper with any of the Flock Service, or create any
+derivative product from any of the foregoing; (iv) interfere or attempt to interfere in any
+manner with the functionality or proper working of any of the Flock Service; (v) remove,
+obscure, or alter any notice of any intellectual property or proprietary right appearing on
+or contained within any of the Flock Service; (vi) assign, sublicense, sell, resell, lease,
+rent or otherwise transfer or convey, or pledge as security or otherwise encumber,
+
+vz 6.22
+DocuSign Envelope ID: FD52D683-B0E0-4C34-A36A-1A4761E0F962
+
+ffock safety
+
+Agency's rights under Sections 2; or (vii) access Flock Service through any unofficial
+(i.e., personal, or non-Agency authorized) email account. Agency may only access
+Recordings and Flock Service to perform the Purpose, as described in Section 1.
+Agency shall not use the Flock Service in any manner not permitted by appropriate
+governing Federal and State regulations or laws; Agency represents and warrants that,
+in receiving access to Flock Services, such Recordings and supplemental data shall be
+used solely for purposes authorized by law and described in this MOU.
+
+4. Suspension of Service. Flock may immediately suspend and/or revoke Agency’s
+and any Authorized End User’s access to any portion or all of the Flock Service if Flock
+determines that (a) there is a threat or attack on any of the Flock Service by Agency; (b)
+Agency’s or any Authorized End User's use of the Flock Service disrupts or poses a
+security risk to the Flock Service or any other customer or vendor of Flock; (c) Agency
+or any Authorized End User is/are using the Flock Service for fraudulent or illegal
+activities; (d) any unauthorized user has accessed to Flock Services through Agency's
+account; or (e) Agency has violated any term of this MOU, including, but not limited to,
+utilizing the Flock Services for anything other than the Purpose.
+
+5. Ownership. As between the Parties, subject to the rights granted in this MOU, Flock
+and its licensors retain all right, title and interest in and to the Flock Service, and its
+components and any Recordings or data provided by Flock through the Flock Service,
+and Agency acknowledges that it neither owns nor acquires any additional rights in and
+to the foregoing not expressly granted by this MOU. Agency further acknowledges that
+Flock retains the right to use the foregoing for any purpose in Flock’s sole
+
+discretion. There are no implied rights.
+
+6. Warranty. Flock and its licensors make no express or implied warranty as to the
+conditions of the Recordings, or fitness for a particular research, data, investigative
+purpose or resulting actions or omissions resulting from Recordings and supplemental
+data obtained by Agency through the use of Flock Services.
+
+7. Financial Implications to Agency. No financial commitment by Agency is required
+to access the Flock Services or Recordings.
+
+8. Term; Termination.
+
+A. Term. This MOU will commence once executed by both parties and shall
+continue for a period of five (5) years.
+
+B. Termination. Prior to expiration of the Term, Flock may terminate this MOU for its
+convenience, and in its sole discretion, by providing Agency thirty (30) days prior
+written notice of termination. Agency may terminate this MOU for its convenience,
+and in its sole discretion, by providing Flock thirty (30) days prior written notice of
+termination. Either party may terminate this MOU upon written notice if the other
+party has breached a material term of this MOU and has not cured such breach
+
+vz 6.22
+DocuSign Envelope ID: FD52D683-B0E0-4C34-A36A-1A4761E0F962
+
+ffock safety
+
+within thirty (30) days of receipt of notice from the non-breaching party specifying the
+breach. Upon termination of this MOU, Agency will immediately cease all use of
+Flock Services. This MOU is subject to termination without written notice after
+expiration of the Term.
+
+9. Indemnification. Each Party to this MOU shall assume the responsibility and liability
+for the acts and omissions of its own employees, deputies, officers, or agents, in
+connection with the performance of their official duties under this MOU. Parties shall
+indemnify and hold harmless each other against any suits, claims, actions, complaints,
+or liability of any kind, which relate to the use of or reliance on Flock Service. For tort
+liability purposes, no participating Party shall be considered the agent of the other
+participating Party. Each Party to this MOU shall be liable (if at all) only for the torts of
+its own officers, agents, or employees that occur within the scope of their official duties.
+Under no circumstances shall this MOU be interpreted to create a partnership or agency
+relationship between the Parties.
+
+10. Limitation of Liability.
+
+A. Limitation on Direct Damages. TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE LAW, IN NO EVENT SHALL FLOCK, ITS OFFICERS, DIRECTORS,
+AGENTS, EMPLOYEES OR REPRESENTATIVES BE LIABLE FOR ANY AMOUNT
+GREATER THAN THE FEES PAID TO FLOCK UNDER THIS MOU, OR $100 IN
+UNITED STATES CURRENCY, WHICHEVER IS GREATER, WITHOUT REGARD
+TO WHETHER SUCH CLAIM IS BASED IN CONTRACT, TORT (INCLUDING
+NEGLIGENCE OR STRICT LIABILITY), PRODUCT LIABILITY OR OTHERWISE.
+
+B. Waiver of Consequential Damages. INNO EVENT SHALL FLOCK OR ITS
+LICENSORS OR SUPPLIERS BE LIABLE FOR ANY INDIRECT, SPECIAL,
+PUNITIVE OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT
+LIMITATION, LOSS OF DATA OR LOSS OF PROFITS, WITHOUT REGARD TO
+WHETHER SUCH CLAIM IS BASED IN CONTRACT, TORT (INCLUDING
+NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF FLOCK HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+11. Confidentiality.
+
+A. Obligations. During the performance of services and Agency's use of the Flock
+Service under this Agreement it may be necessary for a party to provide the other
+with certain information considered to be proprietary or confidential by the disclosing
+party. The disclosure of such confidential information shall be subject to the following
+terms and conditions.
+
+i. The term "Agency Confidential Information" shall mean any material, data,
+
+systems, procedures and other information of or with respect to Agency that is not be
+accessible or known to the general public, including information concerning its
+
+vz 6.22
+DocuSign Envelope ID: FD52D683-B0E0-4C34-A36A-1A4761E0F962
+
+ffock safety
+
+hardware, software, business plans or opportunities, business strategies, finances,
+employees, and third-party proprietary or other information that Agency treats as
+confidential. Flock shall not use, publish or divulge any Agency Confidential
+Information except (i) in connection with Flock's provision of Software and services
+pursuant to this Agreement, (ii) to Flock's officers, directors, employees, agents and
+contractors who need to know such information to enable Flock to provide Software
+and services pursuant to this Agreement, or (iii) with the prior written consent of
+Agency, which consent Agency may withhold in its sole discretion.
+
+ii. The term "Flock Confidential Information" means any material, data, systems,
+procedures and other information of or with respect to Flock that is not accessible to
+or known to the general public, including, without limitation, the software, object code,
+source code, formulae, algorithms, financial data, clients, employees, software
+development plans, software support third-party proprietary or other information that
+Flock treats as confidential. Agency shall not use, publish or divulge any Flock
+Confidential Information except (i) to its employees, agents and officers who need to
+know such information to enable Agency to use the Flock Services, or (ii) with the
+prior written consent of Flock, which consent Flock may withhold in its sole discretion.
+
+iii. Each party shall protect the other's confidential information with the same degree
+of care normally used to protect its own similar confidential information, but in no
+event less than that degree of care that a reasonably prudent business person would
+use to protect such information. The obligations of each party to protect confidential
+information received from the other party shall not apply to information that is publicly
+known or becomes publicly known through no act or failure to act on the part of the
+recipient.All provisions of this MOU concerning the Confidentiality section herein,
+shall survive any termination of this MOU.
+
+B. Exclusions. Confidential Information shall not include any information that is (i)
+already known to the receiving party at the time of the disclosure; (ii) publicly known
+at the time of the disclosure or becomes publicly known through no wrongful act or
+failure of the receiving party; (iii) subsequently disclosed to the receiving party on a
+non-confidential basis by a third-party not having a confidential relationship with the
+other party hereto that rightfully acquired such information; or (iv) communicated to a
+third party by the receiving party with the express written consent of the other party
+hereto. A disclosure of Confidential Information that is legally compelled to be
+disclosed pursuant to a subpoena, summons, order or other judicial or governmental
+process or the Freedom of Information Act shall not be considered a breach of this
+MOU; provided the receiving party provides prompt notice of any such subpoena,
+order, or the like to the other party so that such party will have the opportunity to
+obtain a protective order or otherwise oppose the disclosure.
+
+12. Entire Agreement. This MOU is complete and contains the entire understanding
+between the Parties relating to the sharing of Recordings and Confidential Data by and
+
+vz 6.22
+DocuSign Envelope ID: FD52D683-B0E0-4C34-A36A-1A4761E0F962
+
+ffock safety
+
+between Flock and Agency. This MOU supersedes any and all other agreements
+between the Parties. This Agreement is non-assignable by both Parties.
+
+13. Severability. Nothing is this MOU is intended to conflict with or violate State or
+Federal laws, regulations, policies, etc. If a term or provision of this MOU is inconsistent
+with a law or authority, then that term or provision shall be invalid, but the remaining
+terms and provisions shall remain in full force and effect. If any provision of this MOU is
+found to be unenforceable, unlawful, or void, the provision shall be deemed severable
+from the MOU and shall not affect the validity of the remaining provisions.
+
+14. Miscellaneous. All notices, requests, demands, or other communications required
+or permitted to be given hereunder must be in writing and must be addressed to the
+parties at their respective addresses set forth below and shall be deemed to have been
+duly given when (a) delivered in person; (b) sent by facsimile transmission To the
+facsimile number below and indicating receipt at the facsimile number where sent; (c)
+one (1) business day after being deposited with a reputable overnight air courier
+service; or (d) three (3) business days after being deposited with the United States
+Postal Service, for delivery by certified or registered mail, postage pre-paid and return
+receipt requested. This MOU shall be governed by the laws of the state in which the
+Agency is located, excluding its conflict of laws rules. The parties agree that the United
+Nations Convention for the International Sale of Goods is excluded in its entirety from
+this MOU.
+
+IN WITNESS WHEREOF, Flock and the Agency have caused this MOU to be signed on
+the date set forth below and be effective on the last date specified below.
+
+Flock Group, Inc. Agency Name: Davie Police Department
+B DocuSigned by: B ann oe
+1 Marke Smith y RQ
+Name: Mark Smith Name: Srer (eyo Kn cy
+Title: General Counsel Title (© { 1eF OF fOUCEe
+
+Date: 8/30/2022 Date: v. 25 22
+
+vz 6.22
