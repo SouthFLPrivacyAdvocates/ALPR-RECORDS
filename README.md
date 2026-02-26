@@ -12,17 +12,22 @@ Documents may contain names and contact information of public officials or vendo
 
 ```
 ALPR-RECORDS/
-├── weston/
-│   ├── originals/   # Original PDFs received from the City of Weston
-│   ├── hashes/      # Cryptographic hashes for file verification
-│   └── README.md    # Context and notes specific to Weston
-│
-├── bso/
-│   └── README.md    # Context and notes specific to Broward Sheriff's Office records
-│
-├── southwest_ranches/
-│   └── README.md    # Context and notes specific to Southwest Ranches records
-└── README.md        # (this file)
+|-- examplecity/
+|   |-- originals/
+|   |   |-- agreements/   # Optional source categories
+|   |   |-- budget/
+|   |   |-- meetings/
+|   |   |-- policies/
+|   |   |-- purchasing/
+|   |   |-- reports/
+|   |   `-- hashes/
+|   |       `-- sha256.txt
+|   |-- ocr/              # OCR-generated PDF copies (when needed)
+|   |-- txt/              # OCR sidecar text output (when needed)
+|   `-- README.md         # Context and acquisition notes for this entity
+|-- anotherentity/
+|   `-- README.md
+`-- README.md             # (this file)
 ```
 
 Each subdirectory corresponds to a **separate government entity** and should be read independently.
@@ -33,7 +38,7 @@ Each subdirectory corresponds to a **separate government entity** and should be 
 
 These files are:
 
-- Original PDFs as provided by government agencies
+- Original PDFs as provided by government agencies, either through public record requests or through searching on the agency website
 - Unedited and preserved with original filenames
 - Accompanied by cryptographic hashes for integrity verification
 - Intended to support informed public discussion
@@ -71,14 +76,13 @@ Compare the output to the corresponding entry in `hashes/sha256.txt`.
 
 ## Provenance
 
-All documents were received directly from:
+All documents were received directly from one or more of the following:
 
-- Municipal clerks, or
+- Municipal clerks
 - Law enforcement agencies
+- Municipal/agency websites
 
-in response to public records requests under Florida law.
-
-No documents were scraped, leaked, or obtained through non-public means.
+No documents were leaked or obtained through non-public means.
 
 ---
 

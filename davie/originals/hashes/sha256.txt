@@ -1,0 +1,21 @@
+5437e6f9767893daf366d10261ce6c99e151ecdbc8512579a3124b655e59b2ec  originals/501 - License Plate Recognition (LPR) Systems (1).pdf
+b5d3ccb624c9b9fb492d0951ef57bde6498c5103a5d90895f312103cc8931ce1  originals/Davie PD + Flock MOU (1).pdf
+36753ef4ae367d9387a0e29bd57398f131d383e9ecca6c7c3c0c155b11ce45d7  originals/Davie PD _Panama City Bch PD MOU.pdf
+fd737993d159c8a8decc72e1daf76213d16c4cfa378cce7b7a0d654485b9d737  originals/Flock Agreement with adddendum 9-26-22 FINAL.pdf
+99c04aabfac748663a36594b7fe0c4cc4bdc1c367d9dd4a9354b293cb95d641c  originals/agreements/Verra_Mobility_Agreement-_1-4-2024_Verra_signed.pdf
+8bd5534177735a0ab075acc8b5456514d112563fe93ffbd9b81585e4b838aa74  originals/budget/FY 2026 Adopted Expenditures Budget - CRA.pdf
+0176595cfc34cdc15dc77d7318a056aaf62731a384ef4728637653e05e651893  originals/budget/July 23, 2025 Budget Workshop Packet.pdf
+d2a2bc209fd0781bf54300a3a91d77de92156e82c6f1c4e17605917e7dcdf3b9  originals/budget/Proposed FY 2026 CRA Annual Expenditures.pdf
+107997339e75d1d52991a5b8da2a889f5085ab9200aed489775b9237c6db0416  originals/meetings/April 5, 2017_1.pdf
+7181bb1466f44875281c506be95eb9578c8a51d63daaaac4c663953946983dfa  originals/meetings/BAC Agenda 01-28-2021.pdf
+37cbfb08ccaab0a7689c9d9811ae8f12c90fb1a5d75a09269fe7318e389bfd93  originals/meetings/June 8, 2016.pdf
+ed7eecb66742f63673d0f9f11d6edbf491b401bce8bd853f1114df83ba25fbd2  originals/policies/Davie Procurement Code of Ordinances.pdf
+2596377918086576a12732c0bfd25f14bb5354eb7be53730bef06843f9b8bb49  originals/policies/Town of Davie Procurement Policies and Procedures Manual FV 12-05-22.pdf
+e56035dcef3bd71abee5bb6c38edd3b59cdf3c6355633605618aa163618bbc1b  originals/purchasing/Insight Public Sector.pdf
+545db3c411d68f70af6d9d556294d9a117f69b3397ff1095556198813fc7d615  originals/purchasing/Millenium Products.pdf
+9d9ffc6147869b7e5ad971470c807db893ca1148d1402dd39625fcccc313075d  originals/purchasing/Notice of Intent NTSS-JA-21-09 Software Maintenance and Access to Data.pdf
+fe2f03828b25f569de7dd9c5d82de0f6ea8bd27a833615914cbcc5aacee1c4cd  originals/reports/2025-cra-redevelopment-plan_final.pdf
+ab6e0bd5a1907be87f969f0dd3355def21ff287bdebd374a3cc8a58abf733e91  originals/reports/cra-2022-annual-report.pdf
+252a0ded8504f09865b17eba9d81c7c2fc9915e34b882bb3532e8298fa882fca  originals/reports/FY 2022-2023 CRA  Annual Report (ADA).pdf
+4666b1b85967faa69dca5c990a23abe5464c13a7a9381a4348bc89c97735ff5e  originals/reports/FY2024 CRA Annual Report_ADA Compliant_202503311802058883.pdf
+6e052b0ad037608be92b0f1d49ff124d95f5043bdc2f9d179ac818259ebcd5bb  originals/reports/Performance Measures_Final.pdf
