@@ -1,0 +1,994 @@
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+flock safety
+
+E sec FLOCK SAFETY FLOWDOWN GOVERNMENT AGENCY TERMS
+
+This Flock Safety Flowdown Government Agency Terms (this “Agreement’’) is entered into by and
+between Flock Group, Inc. with a place of business at 1170 Howell Mill Rd NW Suite 210, Atlanta, GA 30318
+(‘Flock’) and the police department or government agency identified in the signature block of the Order Form
+(“Agency”) (each a “Party,” and together, the “Parties’’).
+
+RECITALS
+
+WHEREAS, Flock offers a software and hardware situational awareness solution for automatic license
+plates, video and audio detection through Flock’s technology platform (the “Flock Service’’), and upon detection,
+the Flock Services are capable of capturing audio, video, image, and recording data and can provide notifications to
+Agency upon the instructions of Non-Agency End User (as defined below) (“Notifications’’);
+
+WHEREAS, Agency desires access to the Flock Service on existing cameras, provided by Agency, or
+Flock provided Flock Hardware (as defined below) in order to create, view, search and archive Footage and receive
+Notifications, including those from Non-Agency End Users of the Flock Service (where there is an investigative or
+bona fide lawful purpose) such as schools, neighborhood homeowners associations, businesses, and individual users;
+
+WHEREAS, Flock deletes all Footage on a rolling thirty (30) day basis, excluding Wing Replay which is
+deleted after seven (7) days. Agency is responsible for extracting, downloading and archiving Footage from the
+Flock System on its own storage devices for auditing for prosecutorial/administrative purposes; and
+
+WHEREAS, Flock desires to provide Agency the Flock Service and any access thereto, subject to the
+terms and conditions of this Agreement, solely for the awareness, prevention, and prosecution of crime, bona fide
+investigations by police departments, and archiving for evidence gathering (“Permitted Purpose’).
+
+AGREEMENT
+
+NOW, THEREFORE, Flock and Agency agree that this Agreement, and any addenda attached hereto or
+referenced herein, constitute the complete and exclusive statement of the Agreement of the Parties with respect to
+the subject matter of this Agreement, and replace and supersede all prior agreements, term sheets, purchase orders,
+correspondence, oral or written communications and negotiations by and between the Parties.
+
+1. DEFINITIONS
+
+Certain capitalized terms, not otherwise defined herein, have the meanings set forth or cross-referenced in this
+
+Section 1.
+
+1.1 “Agency Data” means the data, media and content provided by Agency through the Services. For the avoidance
+
+of doubt, the Agency Data will include the Footage.
+
+1.2 “Agency Generated Data” means the messages, text, illustrations, files, images, graphics, photos, comments,
+sounds, music, videos, information, content, ratings, reviews, data, questions, suggestions, other information or
+materials posted, uploaded, displayed, published, distributed, transmitted, broadcasted, or otherwise made available
+
+on or submitted through the Wing Suite.
+
+vz.5.20.22
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+1.3. “Agency Hardware” means the third-party camera owned or provided by Agency and any other physical
+
+elements that interact with the Embedded Software and the Web Interface to provide the Services.
+
+1.4. “Aggregated Data” means information that relates to a group or category of individuals, from which any
+potential individuals’ personal identifying information has been permanently “anonymized” by commercially
+available standards to irreversibly alter data in such a way that a data subject (1.e., individual person or impersonal
+
+entity) can no longer be identified directly or indirectly.
+
+1.5 “Authorized End User(s)” means any individual employees, agents, or contractors of Agency accessing or using
+
+the Services through the Web Interface, under the rights granted to Agency pursuant to this Agreement.
+
+1.6 “Deployment Plan” means the strategic geographic mapping of the location(s) and implementation of Flock
+
+Hardware, and/or other relevant Services required under this Agreement.
+
+1.7 “Documentation” means text and/or graphical documentation, whether in electronic or printed format, that
+describe the features, functions and operation of the Services which are provided by Flock to Agency in accordance
+
+with the terms of this Agreement.
+
+1.8 “Embedded Software” means the software and/or firmware embedded or preinstalled on the Flock Hardware or
+
+Agency Hardware.
+
+1.9 “Falcon Flex” means an infrastructure-free, location-flexible license plate reader camera that enables the
+
+Agency to self-install.
+
+1.10 “Flock Hardware” means the Flock cameras or device, pole, clamps, solar panel, installation components, and
+any other physical elements that interact with the Embedded Software and the Web Interface to provide the Flock
+
+Services.
+
+1.11 “Flock IP” means the Services, the Documentation, the Embedded Software, the Installation Services, and any
+and all intellectual property therein or otherwise provided to Agency and/or its Authorized End Users in connection
+
+with the foregoing.
+
+1.12 “Flock Safety Falcon™” means an infrastructure-free license plate reader camera that utilizes Vehicle
+
+Fingerprint™ technology to capture vehicular attributes.
+
+VZ6.22
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+1.13 “Flock Safety Raven™” means an audio detection device that provides real-time alerting to law enforcement
+
+based on programmed audio events such as gunshots, breaking glass, and street racing.
+
+1.14 “Flock Safety Sparrow®™”’ means an infrastructure-free license plate reader camera for residential roadways
+
+that utilizes Vehicle Fingerprint™ technology to capture vehicular attributes.
+
+1.16 “Footage” means still images, video, audio and other data captured by the Flock Hardware or Agency Hardware
+
+in the course of and provided via the Services.
+
+1.17 “Hotlist(s)” means a digital file containing alphanumeric license plate related information pertaining to
+vehicles of interest, which may include stolen vehicles, stolen vehicle license plates, vehicles owned or associated
+with wanted or missing person(s), vehicles suspected of being involved with criminal or terrorist activities, and other
+legitimate law enforcement purposes. Hotlist also includes, but is not limited to, national data (i.e. NCIC) for similar
+categories, license plates associated with AMBER Alerts or Missing Persons/Vulnerable Adult Alerts, and includes
+
+manually entered license plate information associated with crimes that have occurred in any local jurisdiction.
+
+1.18 “Implementation Fee(s)”’ means the monetary fees associated with the Installation Services, as defined in
+
+Section 1.19 below.
+
+1.19 “Installation Services” means the services provided by Flock for installation of Agency Hardware and/or
+
+Flock Hardware, including any applicable installation of Embedded Software on Agency Hardware.
+
+1.20 “Non-Agency End User(s)” means any individual, entity, or derivative therefrom, authorized to use the
+Services through the Web Interface, under the rights granted to pursuant to the terms (or to those materially similar)
+
+of this Agreement.
+
+1.21 “Services” or “Flock Services” means the provision, via the Web Interface, of Flock’s software applications for
+
+automatic license plate detection, alerts, audio detection, searching image records, video and sharing Footage.
+
+1.22 “Support Services” means Monitoring Services, as defined in Section 2.10 below.
+
+1.23 “Usage Fee” means the subscription fees to be paid by the Agency for ongoing access to Services.
+
+VzZ6.22
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+1.24 “Web Interface” means the website(s) or application(s) through which Agency and its Authorized End Users
+
+can access the Services, in accordance with the terms of this Agreement.
+
+1.25 “Wing Suite’ means the Flock interface which provides real-time access to the Flock Services, location of
+Flock Hardware, Agency Hardware, third-party cameras, live-stream video, Wing Livestream, Wing LPR, Wing
+
+Replay, alerts and other integrations.
+
+1.26 “Wing Livestream” means real-time video integration with third-party cameras via the Flock interface.
+
+1.27 “Wing LPR” means software integration with third-party cameras utilizing Flock’s Vehicle Fingerprint
+
+Technology™ for license plate capture.
+
+1.28 “Wing Replay” means enhanced situational awareness encompassing Footage retention, replay ability, and
+
+downloadable content from Hot Lists integrated from third-party cameras.
+
+1.29 “Vehicle Fingerprin®™” means the unique vehicular attributes captured through Services such as: type, make,
+
+color, state registration, missing/covered plates, bumper stickers, decals, roof racks, and bike racks.
+
+2. SERVICES AND SUPPORT
+
+2.1 Provision of Access. Subject to the terms of this Agreement, Flock hereby grants to Agency a non-exclusive,
+non-transferable right to access the features and functions of the Services via the Web Interface during the Term,
+solely for the Authorized End Users. The Footage will be available for Agency’s designated administrator, listed on
+the Order Form, and any Authorized End Users to access and download via the Web Interface for thirty (30) days.
+Authorized End Users will be required to sign up for an account and select a password and username (“User ID’’).
+Flock will also provide Agency with the Documentation to be used in accessing and using the Services. Agency
+shall be responsible for all acts and omissions of Authorized End Users, and any act or omission by an Authorized
+End User which, if undertaken by Agency, would constitute a breach of this Agreement, shall be deemed a breach of
+this Agreement by Agency. Agency shall undertake reasonable efforts to make all Authorized End Users aware of
+the provisions of this Agreement as applicable to such Authorized End User’s use of the Services and shall cause
+Authorized End Users to comply with such provisions. Flock may use the services of one or more third parties to
+deliver any part of the Services, (such as using a third party to host the Web Interface for cloud storage or a cell
+phone provider for wireless cellular coverage) which makes the Services available to Agency and Authorized End
+
+Users. Warranties provided by said third Party service providers are the agency’s sole and exclusive remedy and
+
+VZ6.22
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B57 1-9C3C546AB92A
+
+Flock’s sole and exclusive liability with regard to such third-Party services, including without limitation hosting the
+web interface. Agency agrees to comply with any acceptable use policies and other terms of any third-Party service
+
+provider that are provided or otherwise made available to Agency from time to time.
+
+2.2 Embedded Software License. Subject to all terms of this Agreement, Flock grants Agency a limited, non-
+exclusive, non-transferable, non-sublicensable (except to the Authorized End Users), revocable right to use the
+Embedded Software as installed on the Flock Hardware or Agency Hardware; in each case, solely as necessary for
+
+Agency to use the Services.
+
+2.3 Documentation License. Subject to the terms of this Agreement, Flock hereby grants to Agency a non-
+exclusive, non-transferable right and license to use the Documentation during the Term in connection with its use of
+
+the Services as contemplated herein, and under Section 2.5 below.
+
+2.4 Wing Suite License. Subject to all terms of this Agreement, Flock grants Agency a limited, non-exclusive, non-
+transferable, non-sublicensable (except to the Authorized End Users), revocable right to use the Wing Suite software
+
+and interface.
+
+2.5 Usage Restrictions.
+
+2.5.1 Flock IP. The Permitted Purpose for usage of the Flock Hardware, Agency Hardware,
+Documentation, Services, support, and Flock IP are solely to facilitate gathering evidence that could be used in a
+lawful criminal investigation by the appropriate government agency. Agency will not, and will not permit any
+Authorized End Users to, (i) copy or duplicate any of the Flock IP; (ii) decompile, disassemble, reverse engineer, or
+otherwise attempt to obtain or perceive the source code from which any software component of any of the Flock IP
+is compiled or interpreted, or apply any other process or procedure to derive the source code of any software
+included in the Flock IP; (ii1) attempt to modify, alter, tamper with or repair any of the Flock IP, or attempt to create
+any derivative product from any of the foregoing; (iv) interfere or attempt to interfere in any manner with the
+functionality or proper working of any of the Flock IP; (v) remove, obscure, or alter any notice of any intellectual
+property or proprietary right appearing on or contained within any of the Services or Flock IP; (vi) use the Services,
+support, Flock Hardware, Documentation, or the Flock IP for anything other than the Permitted Purpose; or (vil)
+assign, sublicense, sell, resell, lease, rent, or otherwise transfer, convey, pledge as security, or otherwise encumber,
+
+Agency’s rights under Sections 2.1, 2.2, 2.3, or 2.4.
+
+VzZ6.22
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B57 1-9C3C546AB92A
+
+2.5.2. Flock Hardware. Agency understands that all Flock Hardware is owned exclusively by Flock, and
+that title to any Flock Hardware does not pass to Agency upon execution of this Agreement. Except for Falcon Flex
+products, which are designed for self-installation, Agency is not permitted to remove, reposition, re-install, tamper
+with, alter, adjust or otherwise take possession or control of Flock Hardware. Notwithstanding the notice and cure
+period set for in Section 6.3, Agency agrees and understands that in the event Agency is found to engage in any of
+the restricted actions of this Section 2.5.2, all warranties herein shall be null and void, and this Agreement shall be
+
+subject to immediate termination (without opportunity to cure) for material breach by Agency.
+
+2.6 Retained Rights; Ownership. As between the Parties, subject to the rights granted in this Agreement, Flock
+and its licensors retain all right, title and interest in and to the Flock IP and its components, and Agency
+acknowledges that it neither owns nor acquires any additional rights in and to the foregoing not expressly granted by
+this Agreement. Agency further acknowledges that Flock retains the right to use the foregoing for any purpose in
+
+Flock’s sole discretion. There are no implied rights.
+
+2.7 Suspension.
+
+2.7.1 Service Suspension. Notwithstanding anything to the contrary in this Agreement, Flock may
+temporarily suspend Agency’s and any Authorized End User’s access to any portion or all of the Flock IP or Flock
+Service if Flock reasonably determines that (a) there is a threat or attack on any of the Flock IP by Agency; (b)
+Agency’s or any Authorized End User’s use of the Flock IP disrupts or poses a security risk to the Flock IP or any
+other customer or vendor of Flock; (c) Agency or any Authorized End User is/are using the Flock IP for fraudulent
+or illegal activities; (d) Agency has violated any term of this provision, including, but not limited to, utilizing the
+Services for anything other than the Permitted Purpose (“Service Suspension”). AgencyAgency shall not be entitled
+
+to any remedy for the Service Suspension period, including any reimbursement, tolling, or credit.
+
+2.7.2 Service Interruption. Services may be interrupted in the event that: (a) Flock’s provision of the
+Services to Agency or any Authorized End User is prohibited by applicable law; (b) any third-party services
+required for Services are interrupted; (c) if Flock reasonably believe Services are being used for malicious, unlawful,
+or otherwise unauthorized use; (d) there is a threat or attack on any of the Flock IP by a third party; or (e) scheduled
+or emergency maintenance (“Service Interruption’’). Flock will make commercially reasonable efforts to provide
+written notice of any Service Interruption to Agency and to provide updates regarding resumption of access to Flock
+Services. Flock will use commercially reasonable efforts to resume providing access to the Service as soon as
+
+reasonably possible after the event giving rise to the Service Interruption is cured. Flock will have no liability for
+
+vz6.22
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+any damage, liabilities, losses (including any loss of data or profits), or any other consequences that Agency or any
+Authorized End User may incur as a result of a Service Interruption. To the extent that the Service Interruption is not
+caused by Agency’s direct actions or by the actions of parties associated with the Agency, the expiration of the Term
+will be tolled by the duration of the Service Interruption (for any continuous suspension lasting at least one full day)
+prorated for the proportion of cameras on the Agency’s account that have been impacted. For example, in the event
+of a Service Interruption lasting five (5) continuous days, Agency will receive a credit for five (5) free days at the
+
+end of the Term.
+
+2.8 Installation Services.
+
+2.8.1 Designated Locations. For installation of Flock Hardware, excluding Falcon Flex products, prior to
+performing the physical installation of the Flock Hardware, Flock shall advise Agency on the location and
+positioning of the Flock Hardware for optimal license plate image capture, as conditions and location allow. Flock
+may consider input from Agency regarding location, position and angle of the Flock Hardware (“Designated
+Location’’) and collaborate with Agency to design the Deployment Plan confirming the Designated Locations. Flock
+shall have final discretion on location of Flock Hardware. Flock shall have no liability to Agency resulting from any
+poor performance, functionality or Footage resulting from or otherwise relating to the Designated Locations or delay
+in installation due to Agency’s delay in confirming Designated Locations, in ordering and/or having the Designated
+Location ready for installation including having all electrical work preinstalled and permits ready, if necessary. After
+installation, any subsequent changes to the Deployment Plan (‘“‘Reinstalls’’) will incur a charge for Flock’s then-
+current list price for Reinstalls, as listed in the then-current Reinstall policy (available at
+https://www.flocksafety.com/reinstall-fee-schedule) and any equipment fees. For clarity, Agency will receive prior
+notice and provide approval for any such fees. These changes include but are not limited to re-positioning, adjusting
+of the mounting, re-angling, removing foliage, replacement, changes to heights of poles, regardless of whether the
+need for Reinstalls related to vandalism, weather, theft, lack of criminal activity in view, and the like. Flock shall
+
+have full discretion on decision to reinstall Flock Hardware.
+
+2.8.2 Agency Installation Obligations. Agency agrees to allow Flock and its agents reasonable access in
+and near the Designated Locations at all reasonable times upon reasonable notice for the purpose of performing the
+installation work. Although Flock Hardware is designed to utilize solar power, certain Designated Locations may
+require a reliable source of 120V or 240V AC power. In the event adequate solar power is not available, Agency is
+solely responsible for costs associated with providing a reliable source of 120V or 240V AC power to Flock
+Hardware. Flock will provide solar options to supply power at each Designated Location. If Agency refuses
+
+recommended solar options, Agency waives any reimbursement, tolling, or credit for any suspension period of Flock
+
+VzZ6.22
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B57 1-9C3C546AB92A
+
+Services due to low solar power. Additionally, Agency is solely responsible for (i) any permits or associated costs,
+and managing the permitting process of installation of cameras or AC power; (11) any federal, state, or local taxes
+including property, license, privilege, sales, use, excise, gross receipts, or other similar taxes which may now or
+hereafter become applicable to, measured by or imposed upon or with respect to the installation of the Flock
+
+Hardware, its use (excluding tax exempt entities), or (iii) any other supplementary cost for services performed in
+
+connection with installation of the Flock Hardware, including but not limited to contractor licensing, engineered
+drawings, rental of specialized equipment, or vehicles, third-party personnel (1.e. Traffic Control Officers,
+Electricians, State DOT-approved poles, etc., if necessary), such costs to be approved by the Agency (“Agency
+Installation Obligations’). In the event that a Designated Location for Flock Hardware requires permits, Flock may
+provide the Agency with a temporary alternate location for installation pending the permitting process. Once the
+required permits are obtained, Flock will relocate the Flock Hardware from the temporary alternate location to the
+permitted location at no additional cost. Without being obligated or taking any responsibility for the foregoing,
+Flock may pay and invoice related costs to Agency if Agency did not address them prior to the execution of this
+Agreement or a third party requires Flock to pay. Agency represents and warrants that it has, or shall lawfully
+obtain, all necessary right title and authority and hereby authorizes Flock to install the Flock Hardware at the
+
+Designated Locations and to make any necessary inspections or tests in connection with such installation.
+
+2.8.3 Flock’s Obligations. Installation of Flock Hardware shall be installed in a workmanlike manner in
+accordance with Flock’s standard installation procedures, and the installation will be completed within a reasonable
+time from the time that the Designated Locations are confirmed. Upon removal of Flock Hardware, Flock shall
+restore the location to its original condition, ordinary wear and tear excepted. Following the initial installation of the
+Flock Hardware and any subsequent Reinstalls or maintenance operations, Flock’s obligation to perform installation
+work shall cease; however, for the sole purpose of validating installation, Flock will continue to monitor the
+performance of Flock Hardware for the length of the Term and will receive access to the Footage for a period of
+seven (7) business days after the initial installation for quality control and provide any necessary maintenance. Labor
+may be provided by Flock or a third-party. Flock is not obligated to install, reinstall, or provide physical
+maintenance to Agency Hardware. Notwithstanding anything to the contrary, Agency understands that Flock will
+not provide installation services for Falcon Flex products.
+
+2.8.4 Ownership of Hardware. Flock Hardware shall remain the personal property of Flock and will be
+removed upon the natural expiration of this Agreement at no additional cost to Agency. Agency shall not perform
+any acts which would interfere with the retention of title of the Flock Hardware by Flock. Should Agency default on
+
+any payment of the Flock Services, Flock may remove Flock Hardware at Flock’s discretion. Such removal, if made
+
+vz6.22
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+by Flock, shall not be deemed a waiver of Flock’s rights to any damages Flock may sustain as a result of Agency’s
+
+default and Flock shall have the right to enforce any other legal remedy or right.
+
+2.9 Hazardous Conditions. Unless otherwise stated in the Agreement, Flock’s price for its services under this
+Agreement does not contemplate work in any areas that contain hazardous materials, or other hazardous conditions,
+including, without limit, asbestos, lead, toxic or flammable substances. In the event any such hazardous materials
+are discovered in the designated locations in which Flock is to perform services under this Agreement, Flock shall
+
+have the right to cease work immediately in the area affected until such materials are removed or rendered harmless.
+
+2.10 Support Services. Subject to the payment of fees, Flock shall monitor the performance and functionality of
+Flock Services and may, from time to time, advise Agency on changes to the Flock Services, Installation Services,
+or the Designated Locations which may improve the performance or functionality of the Services or may improve
+the quality of the Footage. The work, its timing, and the fees payable relating to such work shall be agreed by the
+Parties prior to any alterations to or changes of the Services or the Designated Locations (“Monitoring Services’’).
+Flock will use commercially reasonable efforts to respond to requests for support. Flock will provide Agency with
+
+reasonable technical and on-site support and maintenance services (“On-Site Services’) in-person or by email
+
+at support@flocksafety.com, at no additional cost. Notwithstanding anything to the contrary, Agency is solely
+responsible for installation of Falcon Flex products. Agency further understands and agrees that Flock will not
+
+provide monitoring services or on-site services for Falcon Flex.
+
+2.11 Special Terms. From time to time, Flock may offer certain Special Terms related to guarantees, service and
+support which are indicated in the proposal and on the Order Form and will become part of this Agreement, upon
+
+Agency’s prior written consent. To the extent that any terms of this Agreement are inconsistent or conflict with the
+
+Special Terms, the Special Terms shall control.
+
+2.12 Upgrades to Platform. Flock may, in its sole discretion, make any upgrades to system or platform that it
+deems necessary or useful to (1) maintain or enhance (a) the quality or delivery of Flock’s products or services to its
+agencies, (b) the competitive strength of, or market for, Flock’s products or services, (c) such platform or system’s
+cost efficiency or performance, or (ii) to comply with applicable law. Parties understand that such upgrades are
+
+necessary from time to time and will not materially change any terms or conditions within this Agreement.
+
+3. RESTRICTIONS AND RESPONSIBILITIES
+
+VzZ6.22
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+3.1 Agency Obligations. Flock will assist Agency Authorized End Users in the creation of a User ID. Agency
+agrees to provide Flock with accurate, complete, and updated registration information. Agency may not select as its
+User ID a name that Agency does not have the right to use, or another person’s name with the intent to impersonate
+that person. Agency may not transfer its account to anyone else without prior written permission of Flock. Agency
+will not share its account or password with anyone and must protect the security of its account and password. Unless
+otherwise stated and defined in this Agreement, Agency may not designate Authorized End Users for persons who
+are not officers, employees, or agents of Agency. Authorized End Users shall only use Agency-issued email
+addresses for the creation of their User ID. Agency is responsible for any activity associated with its account.
+Agency shall be responsible for obtaining and maintaining any equipment and ancillary services needed to connect
+to, access or otherwise use the Services. Agency will, at its own expense, provide assistance to Flock, including, but
+not limited to, by means of access to, and use of, Agency facilities, as well as by means of assistance from Agency
+personnel to the limited extent any of the foregoing may be reasonably necessary to enable Flock to perform its
+obligations hereunder, including, without limitation, any obligations with respect to Support Services or any
+
+Installation Services.
+
+3.2 Agency Representations and Warranties. Agency represents, covenants, and warrants that Agency will use
+the Services only in compliance with this Agreement and all applicable laws and regulations, including but not
+limited to any laws relating to the recording or sharing of video, photo, or audio content. Although Flock has no
+obligation to monitor Agency ’s use of the Services, Flock may do so and may prohibit any use of the Services it
+
+believes may be (or alleged to be) in violation of the foregoing.
+
+4. CONFIDENTIALITY; AGENCY DATA
+
+4.1 Confidentiality. To the extent allowable by applicable FOIA and state-specific Public Records Acts, each Party
+(the “Receiving Party”) understands that the other Party (the “Disclosing Party’) has disclosed or may disclose
+business, technical or financial information relating to the Disclosing Party’s business (hereinafter referred to as
+“Proprietary Information” of the Disclosing Party). Proprietary Information of Flock includes non-public
+information regarding features, functionality and performance of the Services. Proprietary Information of Agency
+includes non-public data provided by Agency to Flock or collected by Flock via the Flock Hardware or Agency
+Hardware, to enable the provision of the Services, which includes but is not limited to geolocation information and
+environmental data collected by sensors . The Receiving Party agrees: (i) to take the same security precautions to
+protect against disclosure or unauthorized use of such Proprietary Information that the Party takes with its own
+
+proprietary information, but in no event will a Party apply less than reasonable precautions to protect such
+
+VzZ6.22
+
+10
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+Proprietary Information, and (ii) not to use (except in performance of the Services or as otherwise permitted herein)
+or divulge to any third person any such Proprietary Information. Flock’s use of the Proprietary Information may
+include processing the Proprietary Information to send Agency alerts, or to analyze the data collected to identify
+motion or other events. The Disclosing Party agrees that the foregoing shall not apply with respect to any
+information that the Receiving Party can document (a) is or becomes generally available to the public, or (b) was in
+its possession or known by it prior to receipt from the Disclosing Party, or (c) was rightfully disclosed to it without
+restriction by a third Party, or (d) was independently developed without use of any Proprietary Information of the
+Disclosing Party. Nothing in this Agreement will prevent the Receiving Party from disclosing the Proprietary
+Information pursuant to any judicial or governmental order, provided that the Receiving Party gives the Disclosing
+Party reasonable prior notice of such disclosure to contest such order. For clarity, Flock may access, use, preserve
+and/or disclose the Footage to law enforcement authorities, government officials, and/or third Parties, if legally
+required to do so or if Flock has a good faith belief that such access, use, preservation or disclosure is reasonably
+necessary to: (a) comply with a legal process or request; (b) enforce this Agreement, including investigation of any
+potential violation thereof; (c) detect, prevent or otherwise address security, fraud or technical issues; or (d) protect
+the rights, property or safety of Flock, its users, a third Party, or the public as required or permitted by law, including
+respond to an emergency situation. Flock may store deleted Footage in order to comply with certain legal
+
+obligations, but such retained Footage will not be retrievable without a valid court order.
+
+4.2 Agency Data. As between Flock and Agency, all right, title and interest in the Agency Data, belong to and are
+retained solely by Agency. Agency hereby grants to Flock a limited, non-exclusive, royalty-free, worldwide license
+to (i) use the Agency Data and perform all acts with respect to the Agency Data as may be necessary for Flock to
+provide the Flock Services to Agency, including without limitation the Support Services set forth in Section 2.10
+above, and a non-exclusive, perpetual, irrevocable, worldwide, royalty-free, fully paid license to use, reproduce,
+modify, display, and distribute the Agency Data as a part of the Aggregated Data, (ii) disclose the Agency Data
+(both inclusive of any Footage) to enable law enforcement monitoring for elected law enforcement Hotlists as well
+as provide Footage search access to law enforcement for investigative purposes only, and (iii) and obtain
+Aggregated Data as set forth below in Section 4.4. As between Agency and Non-Agency End Users that have
+prescribed access of Footage to Agency, each of Agency and Non-Agency End Users will share all right, title and
+interest in the Non-Agency End User Data. This Agreement does not by itself make any Non-Agency End User Data
+the sole property or the Proprietary Information of Agency. Flock will automatically delete Footage older than thirty
+(30) days. Agency has a thirty (30) day window to view, save and/or transmit Footage to the relevant government
+agency prior to its deletion. Notwithstanding the foregoing, Flock automatically deletes Wing Replay after seven (7)
+
+VZ6.22
+
+11
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B57 1-9C3C546AB92A
+
+days, during which time Agency may view, save and/or transmit such data to the relevant government agency prior
+
+to deletion. Flock does not own and shall not sell Agency Data.
+
+4.3 Agency Generated Data in Wing Suite. Parties understand that Flock does not own any right, title, or interest
+to third-party video integrated into the Wing Suite. Flock may provide Agency with the opportunity to post, upload,
+display, publish, distribute, transmit, broadcast, or otherwise make available on or submit through the Wing Suite,
+messages, text, illustrations, files, images, graphics, photos, comments, sounds, music, videos, information, content,
+ratings, reviews, data, questions, suggestions, or other information or materials produced by Agency. Agency shall
+retain whatever legally cognizable right, title, and interest that Agency has in Agency Generated Data. Agency
+understands and acknowledges that Flock has no obligation to monitor or enforce Agency’s intellectual property
+rights to Agency Generated Data. To the extent legally permissible, Agency grants Flock a non-exclusive,
+perpetual, irrevocable, worldwide, royalty-free, fully paid license to use, reproduce, modify, display, and distribute
+
+the Agency Generated Data for the sole purpose of providing Flock Services. Flock does not own and shall not sell
+
+Agency Generated Data.
+
+4.4 Feedback. If Agency provides any suggestions, ideas, enhancement requests, feedback, recommendations or
+other information relating to the subject matter hereunder, Agency hereby assigns (and will cause its agents and
+representatives to assign) to Flock all right, title and interest (including intellectual property rights) with respect to or
+
+resulting from any of the foregoing.
+
+4.5 Aggregated Data. Flock shall have the right to collect, analyze, and anonymize Agency Data and Agency
+Generated Data to create Aggregated Data to use and perform the Services and related systems and technologies,
+including the training of machine learning algorithms. Agency hereby grants Flock a non-exclusive, worldwide,
+perpetual, royalty-free right (during and after the Term hereof) to use and distribute such Aggregated Data to
+improve and enhance the Services and for other development, diagnostic and corrective purposes, other Flock
+offerings, and crime prevention efforts. Parties understand that the aforementioned license is required for continuity
+
+of Services. No rights or licenses are granted except as expressly set forth herein. Flock does not sell Aggregated
+
+Data.
+
+5. PAYMENT OF FEES
+
+[Reserved]
+
+6. TERM AND TERMINATION
+
+vz6.22
+
+12
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+6.1 Term. The initial term of this Agreement shall be for the period of time set forth on the Order Form (the
+“Term’). Following the Term, unless otherwise indicated on the Order Form, this Agreement will automatically
+renew for successive renewal terms of the greater of one year or the length set forth on the Order Form (each, a
+“Renewal Term’) unless either Party gives the other Party notice of non-renewal at least thirty (30) days prior to the
+
+end of the then-current term.
+
+a. For Wing Suite products: the Term shall commence upon execution of this Agreement and continue for one
+
+(1) year, after which, the Term may be extended by mutual consent of the Parties, unless terminated by
+
+either Party.
+
+b. For Falcon and Sparrow products: the Term shall commence upon first installation and validation of Flock
+Hardware.
+
+c. For Raven products: the Term shall commence upon first installation and validation of Flock Hardware.
+
+d. For Falcon Flex products: the Term shall commence upon execution of this Agreement.
+
+6.2 Termination for Convenience. At any time during the agreed upon Term, either Party may terminate this
+Agreement for convenience. Termination for convenience of the Agreement by the Agency will be effective
+immediately. Termination for convenience by Agency will result in a one-time removal fee of $500 per Flock
+Hardware. Termination for convenience by Flock will not result in any removal fees. Upon termination for
+convenience, a refund will be provided for Flock Hardware, prorated for any fees for the remaining Term length set
+forth previously. Wing Suite products are not subject to refund for early termination. Flock will provide advanced
+written notice and remove all Flock Hardware at Flock’s own convenience, within a commercially reasonable period
+
+of time upon termination.
+
+6.3 Termination. Notwithstanding the termination provisions in Section 2.5.2, in the event of any material breach of
+this Agreement, the non-breaching Party may terminate this Agreement prior to the end of the Term by giving thirty
+(30) days prior written notice to the breaching Party; provided, however, that this Agreement will not terminate if
+the breaching Party has cured the breach prior to the expiration of such thirty (30) day period. Either Party may
+terminate this Agreement, without notice, (i) upon the institution by or against the other Party of insolvency,
+receivership or bankruptcy proceedings, (i1) upon the other Party's making an assignment for the benefit of creditors,
+or (iii) upon the other Party's dissolution or ceasing to do business. Upon termination for Flock’s material breach,
+
+Flock will refund to Agency a pro-rata portion of the pre-paid fees for Services not received due to such termination.
+
+vz6.22
+
+13
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+6.4 No-Fee Term. Flock will provide Agency with complimentary access to Hotlist alerts, as further described in
+Section 4.2 (“No-Fee Term’). In the event a Non-Agency End User grants Agency access to Footage and/or
+notifications from a Non-Agency End User, Agency will have access to Non-Agency End User Footage and/or
+notifications until deletion, subject to a thirty (30) day retention policy for all products except Wing Replay, which
+is subject to a seven (7) day retention policy. Flock may, in their sole discretion, provide access or immediately
+terminate the No-Fee Term. The No-Fee Term will survive the Term of this Agreement. Flock, in its sole discretion,
+can determine to impose a price per No-Fee Term upon thirty (30) days’ notice to Agency. Agency may terminate
+
+any No-Fee Term or access to future No-Fee Terms upon thirty (30) days’ notice.
+
+6.5 Survival. The following Sections will survive termination: 2.5, 2.6, 3, 4, 5, 6.4, 7.3, 7.4, 8.1, 8.2, 8.3,
+8.4, 9.1 and 9.6.
+
+7. REMEDY; WARRANTY AND DISCLAIMER
+
+7.1 Remedy. Upon a malfunction or failure of Flock Hardware or Embedded Software (a ““Defecr’), Agency must
+notify Flock’s technical support as described in Section 2.10 above. If Flock is unable to correct the Defect, Flock
+shall, or shall instruct one of its contractors to repair or replace the Flock Hardware or Embedded Software suffering
+from the Defect. Flock reserves the right in their sole discretion to refuse or delay replacement or its choice of
+remedy for a Defect until after it has inspected and tested the affected Flock Hardware provided that such inspection
+and test shall occur within a commercially reasonable time, but no longer than seven (7) business days after Agency
+notifies the Flock of a known Defect. In the event of a Defect, Flock will repair or replace the defective Flock
+Hardware at no additional cost to Agency. Absent a Defect, in the event that Flock Hardware is lost, stolen, or
+damaged, Agency may request that Flock replace the Flock Hardware at a fee according to the then-current Reinstall
+policy (https://www.flocksafety.com/reinstall-fee-schedule). Agency shall not be required to replace subsequently
+lost, damaged or stolen Flock Hardware, however, Agency understands and agrees that functionality, including
+Footage, will be materially affected due to such subsequently lost, damaged or stolen Flock Hardware and that Flock
+will have no liability to Agency regarding such affected functionality nor shall the Usage Fee or Implementation
+
+Fees owed be impacted. Flock is under no obligation to replace or repair Flock Hardware or Agency Hardware.
+
+7.2 Exclusions. Flock will not provide the remedy described in Section 7.1 if Agency has misused the Flock
+
+Hardware, Agency Hardware, or Service in any manner.
+
+VzZ6.22
+
+14
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+7.3 Warranty. Flock shall use reasonable efforts consistent with prevailing industry standards to maintain the
+Services in a manner which minimizes errors and interruptions in the Services and shall perform the Installation
+Services in a professional and workmanlike manner. Services may be temporarily unavailable for scheduled
+maintenance or for unscheduled emergency maintenance, either by Flock or by third-party providers, or because of
+other causes beyond Flock’s reasonable control, but Flock shall use reasonable efforts to provide advance notice in
+
+writing or by e-mail of any scheduled service disruption.
+
+7.4 Disclaimer. THE REMEDY DESCRIBED IN SECTION 7.1 ABOVE IS AGENCY’S SOLE REMEDY, AND
+FLOCK’S SOLE LIABILITY, WITH RESPECT TO DEFECTIVE EMBEDDED SOFTWARE. FLOCK DOES
+NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR FREE; NOR DOES IT
+MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE
+SERVICES. EXCEPT AS EXPRESSLY SET FORTH IN THIS SECTION, THE SERVICES ARE PROVIDED
+“AS IS” AND FLOCK DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE AND NON-INFRINGEMENT. THIS DISCLAIMER OF SECTION 7.4 ONLY APPLIES TO THE
+EXTENT ALLOWED BY THE GOVERNING LAW OF THE STATE MENTIONED IN SECTION 9.6.
+
+7.5 Insurance. Flock will maintain commercial general liability policies with policy limits reasonably
+
+commensurate with the magnitude of Flock’s business risk. Certificates of Insurance can be provided upon request.
+
+7.6 Force Majeure. Parties are not responsible or liable for any delays or failures in performance from any cause
+beyond their control, including, but not limited to acts of God, changes to law or regulations, embargoes, war,
+terrorist acts, acts or omissions of third-Party technology providers, riots, fires, earthquakes, floods, power
+blackouts, strikes, supply chain shortages of equipment or supplies, weather conditions or acts of hackers, internet
+service providers or any other third Party acts or omissions. Force Majeure includes the novel coronavirus Covid-19
+
+pandemic, and the potential spread of variants, which is ongoing as of the date of the execution of this Agreement.
+
+8. LIMITATION OF LIABILITY; NO FEE TERM; INDEMNITY
+
+8.1 Limitation of Liability. NOTWITHSTANDING ANYTHING TO THE CONTRARY, FLOCK AND ITS
+SUPPLIERS (INCLUDING BUT NOT LIMITED TO ALL HARDWARE AND TECHNOLOGY SUPPLIERS),
+OFFICERS, AFFILIATES, REPRESENTATIVES, CONTRACTORS AND EMPLOYEES SHALL NOT BE
+RESPONSIBLE OR LIABLE WITH RESPECT TO ANY SUBJECT MATTER OF THIS AGREEMENT OR
+
+VZ6.22
+
+15
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+TERMS AND CONDITIONS RELATED THERETO UNDER ANY CONTRACT, NEGLIGENCE, STRICT
+LIABILITY, PRODUCT LIABILITY, OR OTHER THEORY: (A) FOR ERROR OR INTERRUPTION OF USE
+OR FOR LOSS OR INACCURACY, INCOMPLETENESS OR CORRUPTION OF DATA OR FOOTAGE OR
+COST OF PROCUREMENT OF SUBSTITUTE GOODS, SERVICES OR TECHNOLOGY OR LOSS OF
+BUSINESS; (B) FOR ANY INDIRECT, EXEMPLARY, INCIDENTAL, SPECIAL OR CONSEQUENTIAL
+DAMAGES; (C) FOR ANY MATTER BEYOND FLOCK’S ACTUAL KNOWLEDGE OR REASONABLE
+CONTROL INCLUDING REPEAT CRIMINAL ACTIVITY OR INABILITY TO CAPTURE FOOTAGE OR
+IDENTIFY AND/OR CORRELATE A LICENSE PLATE WITH THE FBI DATABASE; (D) FOR ANY PUBLIC
+DISCLOSURE OF PROPRIETARY INFORMATION MADE IN GOOD FAITH; (E) FOR CRIME
+PREVENTION; OR (F) FOR ANY AMOUNTS THAT, TOGETHER WITH AMOUNTS ASSOCIATED WITH
+ALL OTHER CLAIMS, EXCEED THE FEES PAID AND/OR PAYABLE BY AGENCY FOR THE SERVICES
+UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS PRIOR TO THE ACT OR OMISSION THAT
+GAVE RISE TO THE LIABILITY, IN EACH CASE, WHETHER OR NOT FLOCK HAS BEEN ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION OF LIABILITY OF SECTION 8 ONLY
+APPLIES TO THE EXTENT ALLOWED BY THE GOVERNING LAW OF THE STATE MENTIONED IN
+SECTION 9.6.
+
+8.2 Additional No-Fee Term Requirements. INNO EVENT SHALL FLOCK’S AGGREGATE LIABILITY, IF
+ANY, ARISING OUT OF OR IN ANY WAY RELATED TO THE COMPLIMENTARY NO-FEE TERM AS
+DESCRIBED IN SECTION 6.4 EXCEED $100, WITHOUT REGARD TO WHETHER SUCH CLAIM IS BASED
+IN CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE. Parties
+acknowledge and agree that the essential purpose of this Section 8.2 is to allocate the risks under the No-Fee Term
+described in Section 6.4 and limit potential liability given the aforementioned complimentary service, which would
+have been substantially higher if Flock were to assume any further liability other than as set forth herein. Flock has
+relied on these limitations in determining whether to provide the complementary No-Fee Term. The limitations set
+forth in this Section 8.2 shall not apply to claims or damages resulting from Flock’s other obligations under this
+
+Agreement.
+
+8.3 Responsibility. Each Party to this Agreement shall assume the responsibility and liability for the acts and
+omissions of its own employees, deputies, officers, or agents, in connection with the performance of their official
+duties under this Agreement. Each Party to this Agreement shall be liable (if at all) only for the torts of its own
+
+officers, agents, or employees.
+
+VzZ6.22
+
+16
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+8.4 Indemnity. Agency hereby agrees to indemnify and hold harmless Flock against any damages, losses, liabilities,
+settlements and expenses in connection with any claim or action that arises from an alleged violation of Section 3.1,
+a breach of this Agreement, Agency’s Installation Obligations, Agency’s sharing of any data in connection with the
+Flock system, Flock employees or agent or Non-Agency End Users, or otherwise from Agency’s use of the Services,
+Flock Hardware, Agency Hardware and any Embedded Software, including any claim that such actions violate any
+applicable law or third Party right. Although Flock has no obligation to monitor Agency’s use of the Services, Flock
+may do so and may prohibit any use of the Services it believes may be (or alleged to be) in violation of Section 3.1
+
+or this Agreement.
+
+9. MISCELLANEOUS
+
+9.1 Compliance With Laws. The Agency agrees to comply with all applicable local, state and federal laws,
+regulations, policies and ordinances and their associated record retention schedules, including responding to any
+subpoena request(s). In the event Flock is legally compelled to comply with a judicial order, subpoena, or
+
+government mandate, to disclose Agency Data or Agency Generated Data, Flock will provide Agency with notice.
+
+9.2 Severability. If any provision of this Agreement is found to be unenforceable or invalid, that provision will be
+limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and
+
+effect.
+
+9.3 Assignment. This Agreement is not assignable, transferable or sublicensable by either Party, without prior
+consent. Notwithstanding the foregoing, either Party may assign this Agreement, without the other Party's consent,
+(i) to any parent, subsidiary, or affiliate entity, or (ii) to any purchase of all or substantially all of such Party's assets
+
+or to any successor by way of merger, consolidation or similar transaction.
+
+9.4 Entire Agreement. This Agreement, together with the Order Form(s), the then-current Reinstall policy
+(https://www.flocksafety.com/reinstall-fee-schedule), Deployment Plan(s), and any attached addenda are the
+complete and exclusive statement of the mutual understanding of the Parties and supersedes and cancels all previous
+written and oral agreements, communications and other understandings relating to the subject matter of this
+Agreement, and that all waivers and modifications must be in a writing signed by both Parties, except as otherwise
+
+provided herein. None of Agency’s purchase orders, authorizations or similar documents will alter the terms of this
+vVz6.22
+
+17
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+Agreement, and any such conflicting terms are expressly rejected. In the event of any conflict of terms found in this
+
+Agreement or any other terms and conditions, the terms of this Agreement shall prevail.
+
+9.5 Relationship. No agency, partnership, joint venture, or employment is created as a result of this Agreement and
+Agency does not have any authority of any kind to bind Flock in any respect whatsoever. Flock shall at all times be
+
+and act as an independent contractor.
+
+9.6 Governing Law; Venue. This Agreement shall be governed by the laws of the State in which the Agency is
+located. The Parties hereto agree that venue would be proper in the chosen courts of the State of which the Agency
+is located. The Parties agree that the United Nations Convention for the International Sale of Goods is excluded in
+
+its entirety from this Agreement.
+
+9.7 Publicity. Upon prior consent from Agency, Flock has the right to reference and use Agency’s name and
+
+trademarks and disclose the nature of the Services provided hereunder in each case in business and development and
+
+marketing efforts, including without limitation on Flock’s website.
+
+9.8 Export. Agency may not remove or export from the United States or allow the export or re-export of the Flock
+IP or anything related thereto, or any direct product thereof in violation of any restrictions, laws or regulations of the
+United States Department of Commerce, the United States Department of Treasury Office of Foreign Assets
+Control, or any other United States or foreign agency or authority. As defined in Federal Acquisition Regulation
+(“FAR”), section 2.101, the Services, the Flock Hardware and Documentation are “commercial items” and
+according to the Department of Defense Federal Acquisition Regulation (“DFAR”) section 252.2277014(a)(1) and
+are deemed to be “commercial computer software” and “commercial computer software documentation.” Flock is
+compliant with FAR Section 889 and does not contract or do business with, use any equipment, system, or service
+that uses the enumerated banned Chinese telecommunication companies, equipment or services as a substantial or
+essential component of any system, or as critical technology as part of any Flock system. Consistent with DFAR
+section 227.7202 and FAR section 12.212, any use, modification, reproduction, release, performance, display, or
+
+disclosure of such commercial software or commercial software documentation by the U.S. Government will be
+
+Vvz6.22
+
+18
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+
+governed solely by the terms of this Agreement and will be prohibited except to the extent expressly permitted by
+
+the terms of this Agreement.
+
+9.9 Headings. The headings are merely for organization and should not be construed as adding meaning to the
+
+Agreement or interpreting the associated sections.
+
+9.10 Authority. Each of the below signers of this Agreement represent that they understand this Agreement and
+
+have the authority to sign on behalf of and bind the Parties they are representing.
+
+9.11 Notices. All notices under this Agreement will be in writing and will be deemed to have been duly given when
+received, if personally delivered; when receipt is electronically confirmed, if transmitted by email; the day after it is
+sent, if sent for next day delivery by recognized overnight delivery service; and upon receipt, if sent by certified or
+registered mail, return receipt requested.
+
+FLOCK NOTICES ADDRESS:
+
+1170 HOWELL MILL ROAD, NW SUITE 210
+ATLANTA, GA 30318
+
+ATTN: LEGAL DEPARTMENT
+
+EMAIL: legal@flocksafety.com
+
+AGENCY NOTICES ADDRESS:
+
+ADDRESS:
+
+ATTN:
+EMAIL:
+
+VzZ6.22
+
+19
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B57 1-9C3C546AB92A
+
+By executing this Agreement, Agency represents and warrants that it has read and agrees to all of the terms
+and conditions contained herein.
+
+FLOCK GROUP, INC. Agency: FL - Davie PD - Town of Davie
+
+DocuSigned by:
+By. Mark Smitle By. .
+Mark Smith ° .
+Name name: Brian K. by Brian k.
+
+O'Connor
+
+Title: General Counsel Title: O'Connor c 2022.09.26
+
+9/26/2022 08:45:36 -04'00'
+
+Date:
+
+Date:
+
+VzZ6.22
+
+20
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B571-9C3C546AB92A
+Flock Group Inc
+9/26/2022
+
+Addendum to Contract between Town of Davie and Hereinafter Referred to
+
+as “Contractor” dated
+
+Required Government Terms and Conditions
+
+Town: As used in the Contract, “Town” shall mean the Town of Davie, including its districts, authorities, separate units of
+government established by law, ordinance or resolution, partners, elected and non-elected officials, employees, agents and
+volunteers.
+
+Non-Appropriation. Notwithstanding any other term or provision of this Contract, the continuation of this Contract beyond a
+single fiscal year of the Town is subject to the appropriation and availability of funds in accordance with Chapter 129, Florida
+Statutes. Termination by the Town due to non-appropriation shall be subject to Section 6.2 of the Contract.
+
+Subcontractors. The Contractor agrees to bind specifically every Subcontractor to the applicable terms and conditions of this
+Contract for the benefit of the Town.
+
+Indemnification. The Contractor shall indemnify, defend and hold harmless the Town, its boards, authorities, separate units
+of government established by law, ordinance or resolution, partners, elected and non-elected officials, employees, agents and
+volunteers and the State of Florida from and against all liabilities, damages, losses and costs, including, but not limited to,
+reasonable attorneys’ fees, on account of: (i) any copyrighted material, patented or unpatented invention, articles, device or
+appliance manufactured or used in the performance of this Contract, and (11) any damage or injury to property or person
+directly caused by Contractor’s installation of Hardware on Town’s property, except for where such damage or injury was
+caused solely by the negligence of the Town or its agents, officers or employees..
+
+Sovereign Immunity. The Town expressly retains all rights, benefits and immunities of sovereign immunity in accordance
+with section 768.28, Florida Statutes, as amended. Notwithstanding anything set forth in the Contract to the contrary, nothing
+in this Contract shall be deemed as a waiver of immunity or limits of liability of the Town beyond any statutory limited waiver
+of immunity or limits of liability which may have been or may be adopted by the Florida Legislature and the cap on the amount
+and liability of the Town for damages, regardless of the number or nature of claims in tort, equity, or Contract, shall not exceed
+the dollar amount set by the legislature for tort. Nothing in this Contract shall inure to the benefit of any third party for the
+purpose of allowing any claim against the Town, which claim would otherwise be barred under the doctrine of sovereign
+immunity or by operation of law.
+
+Insurance: The Contractor shall purchase and maintain at its own expense, during the term of this Contract the following: 1)
+General Liability Insurance on a comprehensive basis in an amount not less than $1,000,000 per person per occurrence
+for bodily injury and property damage, listing the Town of Davie as an additional insured.
+
+2) Business Automobile Liability Insurance covering all owned, non-owned, and hired vehicles used in connection with
+the Services, in an amount not less than $1,000,000 per person per occurrence, listing the Town of Davie as an
+additional insured.
+
+3) Worker's Compensation Insurance for all employees of the Contractor as required by Florida Statute 440. Should the
+Contractor be exempt from Worker’s Compensation, the Contractor and each employee hold the Town harmless from
+any injury incurred during performance of the Contract.
+
+Public Records Law. Pursuant to section 119.0701(2)(a), Florida Statutes, the Town is required to provide Contractor with
+this statement and establish the following requirements as Contractual obligations pursuant to the Contract:
+
+IF THE CONTRACTOR HAS QUESTIONS REGARDING THE APPLICATION OF CHAPTER 119, FLORIDA
+STATUTES, TO THE CONTRACTOR’S DUTY TO PROVIDE PUBLIC RECORDS RELATING TO THIS
+CONTRACT, CONTACT THE CUSTODIAN
+
+OF PUBLIC RECORDS AT (954) 797 1000, Evelyn _Roig@davie-fl.gov, by mail, Attn: Public Records Custodian,
+6591 Orange Drive, Davie, FL 33314.
+
+By entering into this Contract, Contractor acknowledges and agrees that any records maintained, generated, received, or kept
+in connection with, or related to the performance of services provided under, this Contract are public records subject to the
+public records disclosure requirements of section 119.07(1), Florida Statutes, and Article I, section 24 of the Florida
+Constitution. Pursuant to section 119.0701, Florida Statutes, any Contractor entering into a Contract for services with the Town
+is required to:
+
+Keep and maintain public records required by the Town to perform the services and work provided pursuant to this Contract.
+
+Upon request from the Town’s custodian of public records, provide the Town with a copy of the requested records or allow the
+records to be inspected or copied within a reasonable time at a cost that does not exceed the cost provided in Chapter 119,
+Florida Statutes, or as otherwise provided by law.
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B57 1-9C3C546AB92A
+
+Ensure that public records that are exempt or confidential and exempt from public records disclosure requirements are not
+disclosed except as authorized by law for the duration of the Contract term and following completion of the Contract if the
+Contractor does not transfer the records to the Town.
+
+Upon completion of the Contract, transfer, at no cost, to the Town all public records in the possession of the Contractor or
+keep and maintain public records required by the Town to perform the service. If the Contractor transfers all public records to
+the Town upon completion of the Contract, the Contractor shall destroy any duplicate public records that are exempt or
+confidential and exempt from public records disclosure requirements. If the Contractor keeps and maintains public records
+upon completion of the Contract, the Contractor shall meet all applicable requirements for retaining public records. All
+records stored electronically must be provided to the Town, upon request from the Town’s custodian of public records, in a
+format that is compatible with the information technology systems of the Town.
+
+Requests to inspect or copy public records relating to the Town’s Contract for services must be made directly to the Town. If
+Contractor receives any such request, Contractor shall instruct the requestor to contact the Town. If the Town does not
+possess the records requested, the Town shall immediately notify the Contractor of such request, and the Contractor must
+provide the records to the Town or otherwise allow the records to be inspected or copied within a reasonable time.
+
+Contractor acknowledges that failure to provide the public records to the Town within a reasonable time may be subject to
+penalties under section 119.10, Florida Statutes. Contractor further agrees not to release any records that are statutorily
+confidential or otherwise exempt from disclosure without first receiving prior written authorization from the Town.
+
+Applicable Law, Venue and Waiver of Jury Trial. This Contract shall be construed in accordance with and governed by the
+laws of the state of Florida. Jurisdiction over and venue for any controversies or legal issues arising out of this Contract shall
+be exclusively in the state courts of the 17" Judicial Circuit in and for Broward County, Florida, unless one or more causes of
+action are solely cognizable in federal court, in which case, venue for and jurisdiction over such dispute(s) shall be in the
+Southern District of Florida. By entering into this Contract, the Contractor and Town hereby expressly waive any rights to a
+trial by jury of any civil litigation related to this Contract, and each agrees to bear its own costs and attorney’s fees relating to
+any dispute arising under this Contract.
+
+Scrutinized Companies. Pursuant to Sections 287.135 and 215.473, Florida Statutes, the Contractor certifies by signing below
+that the company is not participating in a boycott of Israel. For contracts for goods or services of one million dollars or more,
+Contractor also certifies that it is not on the Scrutinized Companies that Boycott Israel List, not on the Scrutinized Companies
+with Activities in Sudan List, and not on the Scrutinized Companies with Activities in the Iran Petroleum Energy Sector List
+or has not been engaged in business operations in Cuba or Syria. Subject to limited exceptions provided in state law, the Town
+will not Contract for the provision of goods or services with (i) any company participating in a boycott of Israel, and, (11) for
+Contracts for goods or services of one million dollars or more, any other scrutinized company as described above. Breach of
+this section constitutes a material breach of this Contract.
+
+No Code Violation or Past Due Debt. Contractor warrants and represents that neither the business, nor any officer or
+significant stakeholder of the business is in violation of the Town of Davie Code of Ordinances and does not owe the Town
+any past due debt. Any breach of the foregoing warranty and representation shall be a material breach of this Contract and the
+Town shall have the right to terminate this Contract as set forth herein.
+
+Compliance with Applicable Laws. Contractor shall perform its obligations hereunder in accordance with all applicable
+federal, state and local laws, ordinances, rules, regulations, and all orders and decrees of bodies or tribunals having jurisdiction
+or authority which in any manner affect the performance of this Contract. Additionally, Contractor shall obtain and maintain
+all applicable licenses and permits to conduct business pursuant to this Contract from the federal government, State of Florida,
+Broward County or Town of Davie when legally required and maintain same in full force and effect during the term of this
+Contract.
+
+Nondiscrimination and Americans with Disabilities Act. Contractor shall not unlawfully discriminate against any person in
+the operations and activities in the use or expenditure of the funds or any portion of the funds provided by this Contract.
+Contractor agrees it shall affirmatively comply with all applicable provisions of the Americans with Disabilities Act (ADA) in
+the course of providing all Services funded by Town, including Titles I and II of the ADA (regarding nondiscrimination on the
+basis of disability), and all applicable regulations, guidelines, and standards. In performing under this Contract, Contractor
+agrees that it shall not commit an unfair employment practice in violation of any state or federal law and that it shall not
+discriminate against any member of the public, employee or applicant for employment for work under this Contract because of
+race, color, religion, gender or gender identity, sexual orientation, age, national origin, political affiliation, or disability and
+will take affirmative steps to ensure that applicants are employed and employees are treated during employment without regard
+to race, color, religion, gender, sexual orientation, age, national origin, political affiliation, or disability.
+
+In accordance with the American Disabilities Act and Section 286.26, Florida Statutes (as amended), persons with disabilities
+needing a special accommodation to participate in the proceedings, or an interpreter to participate in any proceedings, should
+DocuSign Envelope ID: 4BA7EE8F-6252-4D76-B57 1-9C3C546AB92A
+
+contact the Town’s ADA Coordinator at 386-248-1760 for assistance, at least two business days before any meeting date.
+
+Priority. The Contractor and Town agree that in the event of conflict between this Addendum and the underlying Contract
+and any exhibits thereto referenced above, the terms and conditions of this Addendum shall govern and control.
+
+E-Verify. The Contractor certifies he/she utilizes the U.S. Department of Homeland Security’s E-Verify system to verify
+the employment eligibility of all persons employed by Contractor, or subcontractors, in relation to the Contractors
+performance of duties under the Scope of Services in relation to this Agreement.
+
+DocuSigned by:
+
+Mark Smite
+
+Sn ACOCIST404024F 5...
+
+Contractor Name: Mark smith Contractor Authorized Signature:
+
+Date Signed: 9/26/2022 Printed Name & Title: Mark Smith General Counsel
+

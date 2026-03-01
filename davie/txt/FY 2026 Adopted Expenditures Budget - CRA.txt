@@ -1,0 +1,356 @@
+FY 2026 Adopted Budget (Expenditures)
+
+Budget Year 2026
+Effective: 10/1/2025 - 9/30/2026
+
+FY 2026 Adopted
+Account Account Description Budget
+Fund 100 - Community Redevelopment Agency
+Department 54 - Community Redevelopment Agency
+Division 100 - General Operations
+Activity 517 - Debt Service Payments
+Debt Service
+57100 Principal Payments 832,460.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget CRA Bonds Refunding Series 2013A 1.0000 479,014.00 479,014.00
+Final Budget CRA Bonds Refunding Series 2013B 1.0000 353,446.00 353,446.00
+Final Budget Totals $832,460.00
+57200 Interest Payments 12,617.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget CRA Bonds Refunding Series 2013A 1.0000 7,310.00 7,310.00
+Final Budget CRA Bonds Refunding Series 2013B 1.0000 5,307.00 5,307.00
+Final Budget Totals $12,617.00
+Debt Service Totals $845,077.00
+Activity 517 - Debt Service Payments Totals $845,077.00
+Activity 552 - Industry Development
+Personnel Services
+Personnel - Position Budgeted
+51201 Salaries- Regular 271,957.00
+51202 Salaries- Longevity 3,600.00
+51208 Salaries- Service Awards 125.00
+51209 Salaries- Auto Allowances 1,200.00
+51210 Salaries- Phone Allowances 360.00
+52101 FICA Taxes 20,097.00
+52205 Ret. Contr- DB Plan, Gen.Empl & Exec 37,514.00
+52301 Life & Health Ins- Health 24,918.00
+52401 Workers' Compensation 415.00
+Personne! - Position Budgeted Totals $360,186.00
+Personnel Services Totals $360,186.00
+Operating Expenditures
+53101 Prof Svc- Legal Expense 55,000.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget External legal services 1.0000 25,000.00 25,000.00
+
+Account Description
+
+FY 2026 Adopted
+Budget
+
+FY 2026 Adopted Budget (Expenditures)
+
+Budget Year 2026
+Effective: 10/1/2025 - 9/30/2026
+
+Fund 100 - Community Redevelopment Agency
+Department 54 - Community Redevelopment Agency
+Division 100 - General Operations
+
+Activity 552 - Industry Development
+Operating Expenditures
+
+Final Budget Town Attorney legal expenses 1.0000 30,000.00 30,000.00
+Final Budget Totals $55,000.00
+Prof Svc- Special Projects 570,000.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Community art program 1.0000 20,000.00 20,000.00
+Final Budget Misc. special projects 1.0000 100,000.00 100,000.00
+Final Budget Old Davie School Master Plan 1.0000 150,000.00 150,000.00
+Final Budget Potter's Park/PAL Master Plan 1.0000 150,000.00 150,000.00
+Final Budget Rodeo Grounds Master Plan 1.0000 150,000.00 150,000.00
+Final Budget Totals $570,000.00
+Prof Svc- Other Professional Svcs 129,500.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Appraisals and environmentals 1.0000 35,000.00 35,000.00
+Final Budget CRA financial audit 1.0000 10,000.00 10,000.00
+Final Budget Environmental reports, studies, etc. 1.0000 45,000.00 45,000.00
+Final Budget Recording fees 1.0000 1,500.00 1,500.00
+Final Budget Surveys 1.0000 25,000.00 25,000.00
+Final Budget Title, lien searches, etc. 1.0000 8,000.00 8,000.00
+Final Budget Vacation of easements, ROW, etc. 1.0000 5,000.00 5,000.00
+Final Budget Totals $129,500.00
+Prof Svc- Investment Advisory Fees 5,000.00
+Other Svc- Contractual Services 459,500.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Bee removal 1.0000 1,500.00 1,500.00
+Final Budget Demolition and removal services 1.0000 250,000.00 250,000.00
+Final Budget Misc. contractual services 1.0000 175,000.00 175,000.00
+Final Budget Misc. printing (annual report,brochures,flyers,ADA remed, etc) 1.0000 3,000.00 3,000.00
+Final Budget Wayfinding sign repairs 1.0000 30,000.00 30,000.00
+Final Budget Totals $459,500.00
+
+FY 2026 Adopted Budget (Expenditures)
+
+Budget Year 2026
+Effective: 10/1/2025 - 9/30/2026
+
+FY 2026 Adopted
+Account Account Description Budget
+
+Fund 100 - Community Redevelopment Agency
+Department 54 - Community Redevelopment Agency
+Division 100 - General Operations
+
+Activity 552 - Industry Development
+Operating Expenditures
+
+53426 Other Svc- Internal Charges IT 26,370.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Enterprise hardware depreciation 1.0000 2,381.00 2,381.00
+Final Budget General hardware/software maintenance 1.0000 11,994.00 11,994.00
+Final Budget Indiv. dept computer & network laser- doc scanner depreciation 1.0000 1,463.00 1,463.00
+Final Budget Salaries and operational 1.0000 10,532.00 10,532.00
+Final Budget Totals $26,370.00
+53440 Other Svc- Administrative Fees 173,048.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Administrative fees per cost allocation study 1.0000 173,048.00 173,048.00
+Final Budget Totals $173,048.00
+53449 Other Svc- CRA Policing Program 479,000.00
+54101 Communications Services Expense 2,135.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget AT&T 1.0000 235.00 235.00
+Final Budget Verizon 1.0000 1,900.00 1,900.00
+Final Budget Totals $2,135.00
+54302 Utility Svc- Water & Sewer 146,790.00
+54303 Utility Svc- Electric 26,250.00
+54401 Rentals & Leases 9,888.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget CRA warehouse lease 12.0000 824.00 9,888.00
+Final Budget Totals $9,888.00
+54501 Ins- Insurance Premiums 50,000.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget CRA insurance 1.0000 50,000.00 50,000.00
+Final Budget Totals $50,000.00
+
+FY 2026 Adopted Budget (Expenditures)
+
+Budget Year 2026
+Effective: 10/1/2025 - 9/30/2026
+
+FY 2026 Adopted
+Account Account Description Budget
+Fund 100 - Community Redevelopment Agency
+Department 54 - Community Redevelopment Agency
+Division 100 - General Operations
+Activity 552 - Industry Development
+Operating Expenditures
+54601 Repairs&Maint- Vehicle Usage 10,344.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Fleet charges 1.0000 10,344.00 10,344.00
+Final Budget Totals $10,344.00
+54613 Repairs&Maint- Contractual Maint. 386,000.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Davie Road repairs (banners, pavers, irrigation, general, etc) 1.0000 60,000.00 60,000.00
+Final Budget Landscape and maintenance of CRA properties 1.0000 115,000.00 115,000.00
+Final Budget Light maintenance 1.0000 75,000.00 75,000.00
+Final Budget Maintenance of parking lots, fences, signs, general 1.0000 30,000.00 30,000.00
+Final Budget Plant replacement 1.0000 35,000.00 35,000.00
+Final Budget Refurbish BCTE decorative wraps 1.0000 21,000.00 21,000.00
+Final Budget Street light repairs (parts and supplies) 1.0000 50,000.00 50,000.00
+Final Budget Totals $386,000.00
+54617 Repairs&Maint- Directed Work/Non-Contract 2,500.00
+54906 Other Cur Chg - Emergency Response 50,000.00
+55101 Office Supply Expenses 11,980.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Business cards 6.0000 80.00 480.00
+Final Budget Misc. office supplies 3.0000 500.00 1,500.00
+Final Budget Office supplies 12.0000 500.00 6,000.00
+Final Budget Postage 1.0000 1,000.00 1,000.00
+Final Budget Records retention storage 12.0000 250.00 3,000.00
+Final Budget Totals $11,980.00
+55208 Oper Sup- Emerg. Preparedness 10,000.00
+55209 Oper Sup- Fuel 600.00
+55253 Oper Sup- Software 11,050.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Canva subscription 1.0000 400.00 400.00
+
+FY 2026 Adopted
+Account Account Description Budget
+
+FY 2026 Adopted Budget (Expenditures)
+
+Budget Year 2026
+Effective: 10/1/2025 - 9/30/2026
+
+Fund 100 - Community Redevelopment Agency
+Department 54 - Community Redevelopment Agency
+Division 100 - General Operations
+
+Activity 552 - Industry Development
+Operating Expenditures
+
+Final Budget Dunn and Bradstreet research database 1.0000 600.00 600.00
+Final Budget Flock Safety (3) 3.0000 3,000.00 9,000.00
+Final Budget GrackleDocs 1.0000 550.00 550.00
+Final Budget Monday.com 1.0000 500.00 500.00
+Final Budget Totals $11,050.00
+55501 Training- Training & Education 10,576.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget CRA Director - FRA conference 1.0000 495.00 495.00
+Final Budget CRA Director - FRA education 1.0000 495.00 495.00
+Final Budget CRA Executive Director - FRA conference 1.0000 495.00 495.00
+Final Budget Economic Dev Manager - APA membership 1.0000 995.00 995.00
+Final Budget Economic Development Mgr - AICP 1.0000 711.00 711.00
+Final Budget Economic Development Mgr - Economic dev. training 1.0000 1,250.00 1,250.00
+Final Budget Economic Development Mgr - FRA conference 1.0000 495.00 495.00
+Final Budget FEDC memberships (Asst TA, Program Mgr, Econ Dev Mgr) 1.0000 600.00 600.00
+Final Budget Florida DEO Special District 1.0000 175.00 175.00
+Final Budget FRA annual membership renewal 1.0000 2,495.00 2,495.00
+Final Budget IEDC membership (Asst TA, Program Mgr, Econ Dev Mgr) 1.0000 1,375.00 1,375.00
+Final Budget Program Manager - FRA conference 1.0000 495.00 495.00
+Final Budget Program Manager - FRA education 1.0000 500.00 500.00
+Final Budget Totals $10,576.00
+Operating Expenditures Totals $2,625,531.00
+Capital Outlay
+56103 Land- Land Acquisition 1,152,052.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget FY 2026 CIP 1.0000 1,152,052.00 1,152,052.00
+Final Budget Totals $1,152,052.00
+
+FY 2026 Adopted Budget (Expenditures)
+
+Budget Year 2026
+Effective: 10/1/2025 - 9/30/2026
+
+FY 2026 Adopted
+Account Account Description Budget
+Fund 100 - Community Redevelopment Agency
+Department 54 - Community Redevelopment Agency
+Division 100 - General Operations
+Activity 552 - Industry Development
+Capital Outlay
+563126 Infrast- SW 61 Ave Bridge Widening 1,874,000.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget FY 2026 CIP 1.0000 1,874,000.00 1,874,000.00
+Final Budget Totals $1,874,000.00
+Capital Outlay Totals $3,026,052.00
+Grants and Aids
+58207 Grants&Aids- Property Improvmt Grants 700,000.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget CPIPG Grant 5.0000 100,000.00 500,000.00
+Final Budget Dine and Design 1.0000 200,000.00 200,000.00
+Final Budget Totals $700,000.00
+58208 Grants&Aids- Development Incentives 1,595,219.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget CRA Incentives - El-Ad Development (land) 1.0000 1,126,000.00 1,126,000.00
+Final Budget Nob Hill Partners - property tax credit 1.0000 122,381.00 122,381.00
+Final Budget Zona Village - property tax credit - FY2026 and FY2027 1.0000 346,838.00 346,838.00
+Final Budget Totals $1,595,219.00
+Grants and Aids Totals $2,295,219.00
+Activity 552 - Industry Development Totals $8,306,988.00
+Activity 581 - Interfund Transfer
+Other Uses
+59100 Intragov Trans- General Fund 2,000,000.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget CRA loan repayment to Town of Davie (FY22 loan) (payment 4 of 4) 1.0000 1,000,000.00 1,000,000.00
+Final Budget CRA loan repayment to Town of Davie (FY25 loan) (payment 1) 1.0000 1,000,000.00 1,000,000.00
+Final Budget Totals $2,000,000.00
+Other Uses Totals $2,000,000.00
+Activity 581 - Interfund Transfer Totals $2,000,000.00
+
+Division 100 - General Operations Totals $11,152,065.00
+FY 2026 Adopted Budget (Expenditures)
+
+Budget Year 2026
+Effective: 10/1/2025 - 9/30/2026
+
+FY 2026 Adopted
+Account Account Description Budget
+Fund 100 - Community Redevelopment Agency
+Department 54 - Community Redevelopment Agency
+Division 649 - CRA Reserves
+Activity 552 - Industry Development
+Operating Expenditures
+53459 Other Svc- Burying Power Lines 1,642,002.00
+Operating Expenditures Totals $1,642,002.00
+Capital Outlay
+56103 Land- Land Acquisition 1,676,084.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Est. CIP project balance as of 9/30/25 (prior year operating) 1.0000 1,676,084.00 1,676,084.00
+Final Budget Totals $1,676,084.00
+56249 Buildings- Rodeo Grounds/Arena Upgrades 400,000.00
+Budget Transactions
+Leve/ Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Est. CIP project balance as of 9/30/25 1.0000 400,000.00 400,000.00
+Final Budget Totals $400,000.00
+563016 Infrast- Davie Rd Downtown Improv. 564,349.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Est. CIP project balance as of 9/30/25 1.0000 564,349.00 564,349.00
+Final Budget Totals $564,349.00
+563126 Infrast- SW 61 Ave Bridge Widening 430,685.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget Est. CIP project balance as of 9/30/25 1.0000 430,685.00 430,685.00
+Final Budget Totals $430,685.00
+Capital Outlay Totals $3,071,118.00
+Grants and Aids
+58208 Grants&Aids- Development Incentives 1,474,000.00
+Budget Transactions
+Level Transaction Number of Units Cost Per Unit Total Amount
+Final Budget CRA Incentives - El-Ad Development (land) 1.0000 1,474,000.00 1,474,000.00
+Final Budget Totals $1,474,000.00
+
+Grants and Aids Totals $1,474,000.00
+Account Account Description
+
+FY 2026 Adopted
+Budget
+
+FY 2026 Adopted Budget (Expenditures)
+
+Budget Year 2026
+Effective: 10/1/2025 - 9/30/2026
+
+Fund 100 - Community Redevelopment Agency
+Department 54 - Community Redevelopment Agency
+Division 649 - CRA Reserves
+Activity 552 - Industry Development Totals
+Division 649 - CRA Reserves Totals
+
+Department 54 - Community Redevelopment Agency
+Totals
+
+Fund 100 - Community Redevelopment Agency Totals
+Net Grand Totals
+
+$6,187,120.00
+
+$6,187,120.00
+
+$17,339,185.00
+
+$17,339,185.00
+
+$17,339,185.00
