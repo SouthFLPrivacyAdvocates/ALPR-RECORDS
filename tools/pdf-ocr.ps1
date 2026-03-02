@@ -6,7 +6,10 @@ param(
   [string]$OutPdfDir,
 
   [Parameter(Mandatory = $true)]
-  [string]$OutTxtDir
+  [string]$OutTxtDir,
+
+  [switch]$ForceOcr,
+  [switch]$InvalidateSignature
 )
 
 $files = $InputFiles
@@ -29,14 +32,27 @@ foreach ($f in $files) {
   Copy-Item -LiteralPath $f -Destination $tempInput -Force
 
   try {
-    ocrmypdf `
-      --skip-text `
-      --rotate-pages `
-      --deskew `
-      --output-type pdf `
-      --sidecar $outTxt `
-      $tempInput `
-      $outPdf
+    $ocrArgs = @(
+      '--rotate-pages',
+      '--deskew',
+      '--output-type', 'pdf',
+      '--sidecar', $outTxt
+    )
+
+    if ($ForceOcr) {
+      $ocrArgs += '--force-ocr'
+    }
+    else {
+      $ocrArgs += '--skip-text'
+    }
+
+    if ($InvalidateSignature) {
+      $ocrArgs += '--invalidate-digital-signatures'
+    }
+
+    $ocrArgs += @($tempInput, $outPdf)
+
+    & ocrmypdf @ocrArgs
   }
   finally {
     if (Test-Path -LiteralPath $tempInput) {
