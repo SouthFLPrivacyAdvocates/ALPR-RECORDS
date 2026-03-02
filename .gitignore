@@ -1,3 +1,4 @@
 .tmp/
 .venv/
 tools/ocr-driver.ps1
+**/analysis
