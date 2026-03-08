@@ -1,0 +1,159 @@
+cd118dcc67b22b452599fd7b0b2003813f5e5da350c5c93f79578f2d028c5edf  originals/agreements/2012-02-01/(A) IFB PD-11-08 Police Motorcycles - 2012 Harley Davidson Road King (FLHP).pdf
+7743ae319b44253195af7bda4239113d0c84d9f12dfba4229b7e3ea5b57cc085  originals/agreements/2012-02-01/(B) IFB PD-12-01 Portable Automatic License Reader.pdf
+1d7d31a09e2acc811dcc527ff47d5cb7ba6d1894d88159c58e62b85ec437d9e7  originals/agreements/2012-02-01/(F) IFB PSPW-12-02 Police Pursuit Administrative Non-Pursuit Utility Vehicles Trucks and Vans.pdf
+505660fd626e050d32a0d05dda400d0667a0f63667b3cbb477aa79810a9b8895  originals/agreements/2014-12-03/1. AD-14-10 Red Light Camera LPR Monitoring.pdf
+5972d6f3a64a2fe4785718461e89ba319899fd64e536ac624e2bd38a5c49e651  originals/agreements/2015-09-16/1. Vigilant Enterprise Service Agreement.pdf
+b312329c34e3315e44c21b1039862d8da7452b675d6818dabedc8caec1ea604f  originals/agreements/2015-09-16/2. Vetted Security Solutions Sole Source Letter from Vigilant Solutions Inc.pdf
+f6ba304e33a09fa83dd0e22baa5946a8b35ec8000d766c644566099b915952ff  originals/agreements/2015-09-16/3. Quote from Vetted Security Solutions.pdf
+61ef03d02be99ecb641355b14c303a967ad603eb5978b935b63734a89c239e5b  originals/agreements/2016-04-20/1. Commission Approval (2016-03-16).pdf
+b352c7c72b4f328522b90b7906ec43dd9b8916030bf724e069dc3a9730aecc68  originals/agreements/2016-05-04/1. Quote from Vetted Security Solutions.pdf
+b312329c34e3315e44c21b1039862d8da7452b675d6818dabedc8caec1ea604f  originals/agreements/2016-05-04/2. Vetted Security Solutions Sole Source Letter from Vigilant Solutions Inc.pdf
+ba427dfca6dfc5ff6d6151ad06da08bb8eb892ad3465b6a23f5f4c44f7fd7c3c  originals/agreements/2016-05-04/3. Annual Cost Options.pdf
+9ed625caee3ae65205e2499918daf269ffd421a752a41b4aa0a71e937405f4c5  originals/agreements/2016-05-04/4. Annual Cost Summary.pdf
+cf56fb17d1c9557b4ea7d072d9dd78f35b6b634c1a00de9aeb70d86190574ba1  originals/agreements/2016-05-04/5. 1st Amendment to Enterprise Service Agreement - Vigilant Solutions Inc.pdf
+3e320f917fcfe3938b64f63a652f1cc748bc21ad19462626b3465c5c6cdd1e4e  originals/agreements/2016-05-04/6. Enterprise Service Agreement - Vigilant Solutions Inc.pdf
+465115566526c017ebb70e0fcfbca41c25892495c7e7ef04d554050910fc62d6  originals/agreements/2016-05-04/7. Agenda (2015-09-16).pdf
+318653ab109e07748d7d89c106fa23ef5c332b5ea43bd3db6c494a8bfd2735d8  originals/agreements/2017-01-11/1. Quote from Vetted Security Solutions.pdf
+b312329c34e3315e44c21b1039862d8da7452b675d6818dabedc8caec1ea604f  originals/agreements/2017-01-11/2. Vetted Security Solutions Sole Source Letter from Vigilant Solutions Inc.pdf
+73fec58435a29f0f876b487826684e3846d8a807fb31905d96af4bfc5d9f058c  originals/agreements/2017-01-11/3. Annual Cost Options.pdf
+f67e87611cf1a077c7fd5d2b6d0f32770484e15ae112d8be570c1ff28ad5eb1e  originals/agreements/2017-01-11/4. Annual Cost Summary.pdf
+48745c5cb5f11741f7a5bd78552ec8baca5ca3c3325d86321d7e511e70aee690  originals/agreements/2017-01-11/5. 2nd Amendment to Enterprise Service Agreement.pdf
+e3fc2d7175050eabd6a0f4edc80585fe491cb474daba2ec8ea893a192d64dedd  originals/agreements/2017-01-11/6. 1st Amendment to Enterprise Service Agreement.pdf
+3e320f917fcfe3938b64f63a652f1cc748bc21ad19462626b3465c5c6cdd1e4e  originals/agreements/2017-01-11/7. Original Enterprise Service Agreement.pdf
+1f29c3e6a47e6bad9fe646b529cae97458c7b2052eaf4e734a68fd4ad207dbcf  originals/agreements/2017-01-11/8. Agenda (2016-05-04).pdf
+465115566526c017ebb70e0fcfbca41c25892495c7e7ef04d554050910fc62d6  originals/agreements/2017-01-11/9. Agenda (2015-09-16).pdf
+6d4f13ff744c77ca62a040c2c8f51102cff193332496b206b7651f4620ea3462  originals/agreements/2018-06-06/1. Vetted Solutions LPR Quote 5-29-18.pdf
+b1befe7dc5a8cb02f78fc49d4ec8976a0773e0b370193d557705cdc281718151  originals/agreements/2018-06-06/10. Agenda (2017-01-11).pdf
+b312329c34e3315e44c21b1039862d8da7452b675d6818dabedc8caec1ea604f  originals/agreements/2018-06-06/2. Vetted Security Solutions Sole Source Letter from Vigilant Solutions Inc.pdf
+cb86e3439720c2316480920635478b85b90f75c908f16862372187f026f6786c  originals/agreements/2018-06-06/3. LPR Summary (2018-5-30).pdf
+7ccbd497b284a42eb98c3907485ad6f9e5b722b16206f9eb7dca7bd3947a256f  originals/agreements/2018-06-06/4. 3rd Amendment to the Enterprise Service Agreement - Vigilant Solutions Inc.pdf
+48745c5cb5f11741f7a5bd78552ec8baca5ca3c3325d86321d7e511e70aee690  originals/agreements/2018-06-06/5. 2nd Amendment to Enterprise Service Agreement - Vigilant Solutions Inc.pdf
+e3fc2d7175050eabd6a0f4edc80585fe491cb474daba2ec8ea893a192d64dedd  originals/agreements/2018-06-06/6. 1st Amendment.pdf
+3e320f917fcfe3938b64f63a652f1cc748bc21ad19462626b3465c5c6cdd1e4e  originals/agreements/2018-06-06/7. Original Enterprise Service Agreement - Vigilant Solutions Inc.pdf
+465115566526c017ebb70e0fcfbca41c25892495c7e7ef04d554050910fc62d6  originals/agreements/2018-06-06/8. Agenda (2015-09-16).pdf
+1f29c3e6a47e6bad9fe646b529cae97458c7b2052eaf4e734a68fd4ad207dbcf  originals/agreements/2018-06-06/9. Agenda (2016-05-04).pdf
+a27155daa25ae16ba459b0dce32545f2dadd18ba57d1e89c8eb8285cd5cf5408  originals/agreements/2019-02-19/1. Vetted_-_PEMBROKE_PINES_Service_Agreement_2025 (v).pdf
+0938181372fa134a14ba863f33f6ca4b8f236874cb755e60df218a98d3128df8  originals/agreements/2019-02-19/2. Vetted Security Solutions - Quotation.pdf
+578c18d493899ee35a4db5377203dcef0b389b1704e75b09226f5cd9f1432e97  originals/agreements/2019-02-19/3. Vetted Security Solutions Trailer Retrofit Services Agreement.pdf
+2181f8cdea6514d6b2f356b7bd62b707ff07c985dec6c9cfc401522ed6fe5ae5  originals/agreements/2019-06-19/1. Sole Source Letter.pdf
+79eadc96cb462e56b3207b88d1371e47f5cf8068d3a618c9ab92b0c7e18cf45f  originals/agreements/2019-06-19/2. Vetted Security Solutions Quote for Trailer Retrofit.pdf
+7024f693283f49e3c875f8fb50a68126b75982ef1ed46b88af82374c6de5f010  originals/agreements/2019-06-19/3. Vetted Security Solutions Quote for Two Camera Mobile LPR Kit.pdf
+465115566526c017ebb70e0fcfbca41c25892495c7e7ef04d554050910fc62d6  originals/agreements/2019-06-19/4. Original Commission Approval (2015-09-16).pdf
+9afd05c432c1b325b0d302af3a760da12c3b3dcea09e6cfb922c9a94ad10e2a4  originals/agreements/2020-06-17/1. Vetted ILP Package Trailer Retrofit Quote.pdf
+c2735f3e3dbd2562987a53e5a72364d8e7d8a5882c685b5082fbde287aecd51c  originals/agreements/2020-06-17/2. Vetted Mobile LPR Quote.pdf
+afae2fd923822c11a3641b4d6a8474d28753ae8c4bec42eb1371db3b59bcae9a  originals/agreements/2020-06-17/3. Vigilant Solutions - ESA CLK Invoice.pdf
+f8ae00e2561d462958e35792e31ba133ea20f2c531e79c0644edf8fd24fe11e7  originals/agreements/2020-06-17/4. Vigilant Solutions - ESA - 4th Amendment (Vendor Executed).pdf
+0978bf0fb165a3b6b3049e6edeb0b9b601aae6f4c71dc6215c7ebb07ae613b5a  originals/agreements/2020-06-17/5. Vetted Security Solutions LLC Sole Source Letter.pdf
+a340f97a079f4be49f71bed5956f0f8fbb78858e5867fb689f15880969e0ce43  originals/agreements/2020-06-17/6. Vigilant Solutions Inc. -Contract - Amendment 1-2-3.pdf
+703008f94f073859aa4e6986ec78ad07ecd18092ae97b53dabc6c637f7eb9130  originals/agreements/2020-06-17/7. Vigilant Solutions - Contract Performance Report Card.pdf
+7b29000ec9f2e2825a496a79fe8326588804c4208673a93ef67176684ce9e0b7  originals/agreements/2021-03-17/1. Vigilant Solutions Inc Enterprise Service Agreement -All Backup.pdf
+777ee17ed563d30227e2c617433ed51588cc8ec897641a85e0ce5b204546dab9  originals/agreements/2021-03-17/2. Vetted Quote - 2 LPR Speed Trailers.pdf
+4c95c8fe6058808abf3c93d983bcd7a3e8620c906ef70789c24d55bcc0936e1a  originals/agreements/2021-03-17/3. Vetted Quote - 2 Trailer Retrofits.pdf
+4eeca3d500a781c679b55bda5c11d55b1c5306ea6b3d20ad96af2f8a7a558bbb  originals/agreements/2021-12-15/1. Vetted Security Solutions - Quotation 1.pdf
+02be4c22e66f75d8bcfcd1ba8b5d1856a6a2f594fe484790b8839040da0cecd4  originals/agreements/2021-12-15/2. Vetted Security Solutions - Quotation 2.pdf
+4e2dd7fac37615df6634672ee2e22639f91a4c480687f7c14a0d127a9e453336  originals/agreements/2021-12-15/3. Vigilant Sole Source.pdf
+67da5d9395d12e92219a1cf37b79996e6821daa69020141a0beeeb5e7de4589c  originals/agreements/2021-12-15/4. Vetted Security Solutions Justification Letter.pdf
+a922c4c9ab4e20a02413ebce13875ecc04d8ddee14ae54ade7915bc49a1c8f91  originals/agreements/2021-12-15/5. Vigilant Solutions Inc Enterprise Service Agreement (Orig-6th Amendment).pdf
+de7c793c7ae19e908a77ca22c72eed81cd661f9105418b41c9ebe09bd4185b09  originals/agreements/2022-02-02/1. Flock Safety Agreement.pdf
+52ab084c98efd2777f467a7741337f1e3e8cbb0bbf4c5e8e0ba10cf840d161dc  originals/agreements/2022-02-02/2. Greenville RFP Contract FINAL GPD - Flock Group Inc. Services Agreement and Order Form - 2.18.2021.pdf
+cc5e804ee86a4b178de0854be2e00bf1a12d21b5b64889320fb38fee43bdf2c0  originals/agreements/2022-02-02/3. Greenville RFP Final PDF.pdf
+02647a91193e5e346adc1092025737f46ebffd562645855d45cd45bbd04a5c84  originals/agreements/2022-02-02/4. Greenville SC PD Award Letter - Flock Safety.pdf
+07197779a39aae8971b7b13870499ca526a5900df4538e3694d0b9d1789a8621  originals/agreements/2022-02-02/5. Certificate of Liability.pdf
+ac784b2dbe24da24384047d312adea6653bcc13f433ed4452add428c622ff506  originals/agreements/2023-03-15/1. Pembroke Pines - Panama City PD LPR Interagency Agreement UPDATED 2022.pdf
+06f281ddddbfea0460740ddc78818cb65712a390894cf4355f7eee80c5795169  originals/agreements/2024-05-01/1. Flock Group Agreement.pdf
+92458fb0838dbf62000e25772e5ca29c3a50bceb1111064c40fe72cba81b5f77  originals/agreements/2024-05-01/2. Order Form for 64 units and Flock Safety TC (r2) (1) (1) (3).pdf
+dcb67bd9de3a9b4e0ba3333e05db19c42e41c4a396aefcd03c6f826d36787995  originals/agreements/2024-05-01/3. Agreement between City of Coral Springs and Flock Group Inc.pdf
+a27155daa25ae16ba459b0dce32545f2dadd18ba57d1e89c8eb8285cd5cf5408  originals/agreements/2025-02-19/1. Vetted_-_PEMBROKE_PINES_Service_Agreement_2025 (v).pdf
+0938181372fa134a14ba863f33f6ca4b8f236874cb755e60df218a98d3128df8  originals/agreements/2025-02-19/2. Vetted Security Solutions - Quotation.pdf
+578c18d493899ee35a4db5377203dcef0b389b1704e75b09226f5cd9f1432e97  originals/agreements/2025-02-19/3. Vetted Security Solutions Trailer Retrofit Services Agreement.pdf
+3c30839fd17de1171cca5ece1a488842e0c5625ff40d398eeb28fe9fd047b508  originals/analysis/2012-02-01.md
+cf25083ae70b0cb15d9e16a89a6ab62ed6a5f1cbab80564d72cfec19b49f461b  originals/analysis/2014-12-03.md
+2cef9c94b3551aac85116b70d374b8bef575ef13dc4d82945e544a4ad079d4c6  originals/analysis/2015-09-16.md
+64d93f391400450feebf1fe55380e147fe805ab8bb6f3f16fd9045a029dac968  originals/analysis/2016-04-20.md
+84fcce5276e9f4e3f9640611ba368fa59e24a8fb34eff772dc08336556dc2295  originals/analysis/2016-05-04.md
+e5eff5ff42a1138483b44365ff2dccde28e1cbb26b76a7f0428ce08fe83816f9  originals/analysis/2017-01-11.md
+97bb16f48c8a9a939ab6600fb36ce298a84073c098e61dbc17c21cdc5456af81  originals/analysis/2018-06-06.md
+3eddf2a7eabab897d5a357fee9f151942510d0dc3b9a1e51e9fbf81114bd6755  originals/analysis/2019-06-19.md
+0345fa1ec46384372374343b3c9e42c2e8f0313c65c4ecbbf224d09de0c573c5  originals/analysis/2020-06-17.md
+2d14e5b0058f6b615f0f4944f9937c96732910c9f76e7f4a460f3b6b847072bb  originals/analysis/2021-03-17.md
+43682caad3dffc8f5820759a226106e5322469d88d1c503e53159de6994f3c45  originals/analysis/2021-12-15.md
+fc6ee436526adb93012f019f16e757346f5ff939875c58831bc15c196ae27d29  originals/analysis/2022-02-02.md
+060b1638b9407caa2cc5971249b63b7811462dc3d69da6c29747e42b87b48cc7  originals/analysis/2023-03-15.md
+d702e754853900074462ff1c474ac41ba05aa684026ab43889286bfd367ecdf0  originals/analysis/2024-05-01-meeting.md
+3ec0e3316ed8ef8331f26fedd85d1e8f0851566b2e62487ad0f9303b8431e06d  originals/analysis/2024-05-01.md
+1f71b34b49a4479b574c41c5a37a5b86734958fede5302bf44db9ab1e2a58fa6  originals/analysis/2025-02-19.md
+b97f73c57b53ce05389c4a4872f6d54ef1f341cca7ea23216f9b592193a0c180  originals/analysis/MASTER.md
+f59eda23923f4a92f45cd881a419611f7fd034d5f012a6a7422a6067d10dfc23  originals/legislation/2012-02-01/Approval of Solicitations.pdf
+544c07ee7d0a6b499557714e620e98c7c3dec8f536567470670cfd51ce775bfe  originals/legislation/2012-02-01/Legislation Text.pdf
+0c5bb6394375e053e0b280b7b0aa993070f3636c35ee020e914e66b1f8548e70  originals/legislation/2014-12-03/Legislation Text.pdf
+be587f696dc41b8eb6dc43a4d3dc6ec27b759843eb0d9107c2db93c3114e13a9  originals/legislation/2014-12-03/Motion to approve solicitation # AD-14-10 RLC Enforcement & LPR Monitoring System.pdf
+790efd6bd2c4b28639093f18eda495d756210ed7b6bc33aa5df7342cc49c974c  originals/legislation/2015-09-16/Legislation Text.pdf
+e54ddb0bebb468f69a82888aca96465572f45ed8301023a8f4a968ded06faa00  originals/legislation/2015-09-16/Sole Source Purchase of LPR Cameras, Software, Data Subscription and Mobile Trailers.pdf
+ad2d6e406fca6019477f09a7eeabb1b8f5b6036bebce34f51c91d3fe98864a78  originals/legislation/2016-04-20/Legislation Text.pdf
+172b2b260aca0d7190c61f9a25a8a9c68c72ae101db76ebe2ad2d5cd94ae1b22  originals/legislation/2016-04-20/Reject Bids for RFP # AD-14-10 Reject Sole Proposal Red Light Camera Enforcement Licence Plate Reader.pdf
+e5550a642f84b9040a21799f8bd0d6b9c0ce1defc679eca4eae2131d9969d41c  originals/legislation/2016-05-04/Legislation Text.pdf
+1c51806c1efee5569cfb5037176419d82bdd5d556ebcf76bf1caecc99f99e278  originals/legislation/2016-05-04/Sole Source Purchase of LPR Cameras, Software, Data Subscription and Mobile Trailers.pdf
+5136d0b25230e0c4736ffb548b174e78992b7c25f44ffd744aef4ebbe5ac3026  originals/legislation/2017-01-11/Legislation Text.pdf
+36cc8e72b5f5a144c5e036e739e33c00cfd7e54325b271485ab2de2de37d75ad  originals/legislation/2017-01-11/Sole Source Purchase of LPR Cameras, Software, Data Subscription and Mobile Trailers.pdf
+5bdb1ac948251d1900736b7d341372c910dd70cf32bdd942036c0b1fec791a1e  originals/legislation/2018-06-06/Legislation Text.pdf
+84bbe510d226e9a963461030682ce86d1d68a8a379b0437507312b9df93bfe8f  originals/legislation/2018-06-06/Vigilant Intelligence-LED Policing Package.pdf
+c915a13f174cd75a54848854befe858b91e5248c7785623806942a2dcabc5f5a  originals/legislation/2019-02-19/Legislation Text.pdf
+64d48d7ebc376b9c5d4a2bcc0173b8e168b8b72fbca543ff19d8be019a386751  originals/legislation/2019-02-19/Security Solutions Retrofit.pdf
+e47ae109a6c8781941275dab6f86e18f4bb479705bd6dfaf926a080081ee4150  originals/legislation/2019-06-19/Legislation Text.pdf
+51406f2c3a7d7ad43b1095bd5b044504d9df6cf6bbbbcaab2605bd4b23259c70  originals/legislation/2019-06-19/Purchase of LPR 2 Camera Kit and Retrofit Kit.pdf
+af7ae3c9ff685aa4abec09809069efd0097391443e928e50c9cccc5ffa020761  originals/legislation/2020-06-17/Legislation Text.pdf
+69e03475434b08e9d31c6e0492d57796fce19e9201e8a482ba693f46877d2c3c  originals/legislation/2020-06-17/Vigilant Trailer Retrofit Kit and Mobile License Plate Reader.pdf
+48db8fd816eda33f5db9b05ceae4e3af5b4713de0ed3623db9e49560f90405af  originals/legislation/2021-03-17/Legislation Text.pdf
+57b018e4180744246198f5359b5dc578d970b859a95744a6f4b4b6250e34aa20  originals/legislation/2021-03-17/Purchase of Mobile LPR.pdf
+4da61112dee072844dff83c039942b44dd5e0a1af3f41c549d64681e7a496e46  originals/legislation/2021-12-15/Legislation Text.pdf
+473e02258ca437540a6c4e063be3cff401447a55c922184e51ac71ac88e5ac6e  originals/legislation/2021-12-15/Vigilant License Plate Reader (LPR).pdf
+df0aaadcca1b6dd8aa6bd12156d33819f336dfa1ced197ac28107dd63f0cada7  originals/legislation/2022-02-02/Flock LPR System Agreement.pdf
+b4ad0382df21d14146a6ab3148942421c79da18ad0ae28827986cf7432dcce27  originals/legislation/2022-02-02/Legislation Text.pdf
+2b1b1695f45d7ec37b6e57a4f55e4909c5f6d4aa3bbc9d4c8186a691e163ca76  originals/legislation/2023-03-15/Legislation Text.pdf
+de2c426e5bd2fd2b93927e5506fd94d921b83ac6bebdafff61685f90d2624de2  originals/legislation/2023-03-15/Panama City Interagency Agreement.pdf
+08a877b1eb73b16f4ac5de56d5b0ae100e0d7d5e1e8e53488dc3b972380197bb  originals/legislation/2024-05-01/Flock Group - 64 LPR Readers.pdf
+dc242ac6843805b5e9a12f314f988ec381641d4e39872e00c36dd2ad96b6e608  originals/legislation/2024-05-01/Legislation Text.pdf
+c915a13f174cd75a54848854befe858b91e5248c7785623806942a2dcabc5f5a  originals/legislation/2025-02-19/Legislation Text.pdf
+7a627c4b57b5c9378c9586fc3a1fbc26d1abaf155eeaa0b11dacd4bc935c6908  originals/legislation/2025-02-19/Security Solutions Retrofit.pdf
+d924877ffa7ae1985e5b3ab32290322b687918566d705bfc35dc15c038fcd031  originals/meetings/2012-02-01/Agenda.pdf
+af9a910a4a445b498c3ed0162f477afb94a8a2d2dda539c7c150f446a0fb24c7  originals/meetings/2012-02-01/Minutes.pdf
+d203142a442aacf9041ee660432f2d9382f15e64574dff218731edec36e964d4  originals/meetings/2014-12-03/Agenda.pdf
+27e44e71e68beba3161abd617f57e9d36444bd5bf12ecfc6c48df19349841311  originals/meetings/2014-12-03/Minutes.pdf
+5528a0620dfa9917ec291ee5ca2733c02d1e9afdc2c1c038b835bf3bdec6e86c  originals/meetings/2015-09-16/Agenda.pdf
+0c8dc2efd27058c70184be4e0c7d1ac91c274157bd918a9eee399ffb91e64ef9  originals/meetings/2015-09-16/Minutes.pdf
+c5aeabff8ff47eda65fd9b788d4244e223e65f9f26b78f0ac901d25390310959  originals/meetings/2016-05-04/Agenda.pdf
+1eca77040237dd8077da751cd209c9f22b23f9ce0875fd12ebb53494118bc490  originals/meetings/2016-05-04/Minutes.pdf
+044c252e25a15b3886616f969954354a89856957e028257f61e59484f8f9006d  originals/meetings/2017-01-11/Agenda.pdf
+15179483d0d61f98c6442934daece72ea9e775195ff1e63c072f92960c9d60e2  originals/meetings/2017-01-11/Minutes.pdf
+a1268782b5e452b5893af874592d032694abee144644cfa4e370bf5716754b3d  originals/meetings/2018-06-06/Agenda.pdf
+2bbdb6f46052389501f974f38b25224a40cc984d8f9f018a5e38b68cc3d4dd99  originals/meetings/2018-06-06/Minutes.pdf
+9fb08f9b6c72d154df77035f01158d77536faffda17cfe551775f09dfc539e54  originals/meetings/2019-02-19/Agenda.pdf
+37d9b7ea4373567f8a7d4d80c7e96270e3b6deee8426056ae6fef6f193c3e000  originals/meetings/2019-02-19/Minutes.pdf
+a64a94fb934af150c2281e6cdaa67520ca9c6a72be3d8b78fa138b501744e5fd  originals/meetings/2019-06-19/Agenda.pdf
+07b5f837e83ab4f3bcaf0e9dc3aac97dcc85ed0130b2364a37b82eb275c516b0  originals/meetings/2019-06-19/Minutes.pdf
+81c316d07108c147009068e0a200fd047d606dd8da1306882895abc50e81202c  originals/meetings/2020-06-17/Agenda.pdf
+d4a58d44ddabe60d05ab6ed929525e9ee983afe74ca5fc26a6b1e08ebe2c09f7  originals/meetings/2020-06-17/Minutes.pdf
+a752f4c7c827dc09e4360646fc43d8ae4f22d55ea161462cc9ff16390acc9123  originals/meetings/2021-03-17/Agenda.pdf
+5bfe0d03674216464e92df2b207a268e98477f97e47ae56fde24b5c622dea01c  originals/meetings/2021-03-17/Minutes.pdf
+be6b44370e6ee11a8551903ae27eb0cd4703a86e1aa2542fe5b4ddcc74a1669c  originals/meetings/2021-12-15/Agenda.pdf
+022cb719a81e97424a1f7d186a43d051f1d26b516a516ce6446ac5723bb83aab  originals/meetings/2021-12-15/Minutes.pdf
+ced748d5fc0d1567efa1a99af76ef4fa51e091513f38a08a88e16443b8e64ccf  originals/meetings/2022-02-02/Agenda.pdf
+bf2b5aa049f1c9187edd2c8289df33859c49f8039711de53eb5d24456a05a4df  originals/meetings/2022-02-02/Minutes.pdf
+513d1d1e4cd9bc120847cda3393fa0d505a076a92cb715ba73de4c864fd994ef  originals/meetings/2023-03-15/Agenda.pdf
+e8486dd59871d9fc16d927667f314bb95497497f2979fc3c9cc29145825dff30  originals/meetings/2023-03-15/Minutes.pdf
+3b1f0aede0b2b50a164e7a6204838ee53590cc812de200e2da8a09bf9ca658ca  originals/meetings/2025-05-01/Agenda.pdf
+627d49607a4e0587c5f67c8ca6ef86781d772410c5722c793ed20c2d4bc17a38  originals/meetings/2025-05-01/Minutes.pdf
+c36c7c5ad1de00195688965d5fe0f9bb1f50bc30fd85e6958ebd091dbea9e133  originals/spotlight/2012-03-21-Spotlight.pdf
+815fe0529c478e4db2f980355337854e9069586df2e4b7d1838ae6e3b2eba5ad  originals/spotlight/2014-12-03-Spotlight.pdf
+c3d12c17530d43e1178ed7ab5dff1681bc32dbf58680ac9c322c84ef38ee4e86  originals/spotlight/2015-09-16-Spotlight.pdf
+be3853b554650cb757ef1b5d7337a6364012669d05f40a11589443e317d60028  originals/spotlight/2016-04-20-Spotlight.pdf
+bb62bb7786a924e2f3ffb804a95efb24d517b65460d7dc9ed15de92d9fb942da  originals/spotlight/2016-05-04-Spotlight.pdf
+86d3544e611f9b1a85ac195e26ea99a7ef169da7ac8b16170f980d7eff7a4f06  originals/spotlight/2017-01-11-Spotlight.pdf
+4dd64800d91f6f671b439995050b7090633f8690387deae11175d0edb1f78108  originals/spotlight/2018-06-06-Spotlight.pdf
+1accb5628455604a583f80b0a4d109a887812be88ea845d7bec682a16f9fa8bd  originals/spotlight/2019-06-19-Spotlight.pdf
+f3e99c75ec5aa3962abdc4169e92edd17d67e584cb0fae974780a97c6416aa28  originals/spotlight/2021-03-17-Spotlight.pdf
+13f18c3ab42f8fa1ad97f246850fb10013bf90af7f2c75f0739ff53078ebd085  originals/spotlight/2022-02-02-Spotlight.pdf
+e6cc25d3f17da2971336728544117019e6c6d124fb958c909d816e37f89f55dd  originals/spotlight/2023-03-15-Spotlight.pdf
+1fb92ab5a735fc7f4ee07fc8457a26eeda0512d101b7ece377b543c57af4e598  originals/spotlight/2024-05-01-Spotlight.pdf
+6d6e8ac6c3aeca67959337db0d5574f71e0b93aa7bdcd8ac7ab3ee26f52cdc8e  originals/spotlight/2025-02-19-Spotlight.pdf
+
