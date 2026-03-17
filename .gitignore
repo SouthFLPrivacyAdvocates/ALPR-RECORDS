@@ -2,3 +2,4 @@
 .venv/
 tools/ocr-driver.ps1
 **/analysis
+doc/
