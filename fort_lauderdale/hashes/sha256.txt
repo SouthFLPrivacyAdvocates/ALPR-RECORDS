@@ -1,0 +1,148 @@
+cb9268c6a29563e0257b1b661e00b2cb803d96af5ce87428bf1cddccd635fe6c  agreements/Contract 260 PP222643 Millenium Products, Inc..pdf
+57728da932196c0583eee4890948ae92f20c1561ff93ab35ec01adc4fa15329e  agreements/Contract 477 License Plate Recognition.pdf
+bd49e46c20c4120cbdc30c2d6e7544459fd1ca4dc5a8acdcf9c4cf236acd409d  agreements/Software Service Program - Vigilant Solutions.pdf
+f65dd1a1a597165e44d23afc9d4f493a010ef8dd9d44afbe2e8a683099288c9d  budgets/2022/FY 2022 - FY 2026 License Plate Reader (LPR) Replacement Program.pdf
+faab70ce734ba1967adc91b3e265ed4ba670d7b953a675b020fad417d91e5689  budgets/2022/FY 2022 Adopted Budget.pdf
+f905eb7cbc2905b05ddb052139ad08163403fc23a5698250839b399b6889f530  budgets/2023/Commission Memo 22058 Attachment 4 FY 2023 FY 2027 License Plate Reader Replacement Plan.pdf
+6ac24b93827b13f23fa40d1e66d6433d0cad781d2d2b988fc2921ad44e22bdc3  budgets/2023/FY 2023 All Funds.pdf
+8225f1dd68fd3d23deccbbaa84946867d61ac06a341312181472b55d36014f29  budgets/2023/FY 2023 Proposed Budget.pdf
+a57f237a6c9ddccd0a3fc6b8a7b41c23a4017fe7e411a15eee6d3107ba3b9cf0  budgets/2024/Commission Memo 23070 Attachment 3 FY 2024 Commission Priority Funding.pdf
+8c3638318656c908df4b82bc3a2bb6ec093d83113db8d1458d06c4cd73a9a220  budgets/2024/Commission Memo 23070 Attachment 8 FY 2024 FY 2028 License Plate Reader Replacement Plan.pdf
+09c479decc1e09c22241dc9a7980e0978c4fd8463d649d23f5a40d72f780a8af  budgets/2024/FY 2024 - FY 2034 Long Term Financial Plan.pdf
+a99ffb8b9af7719671b25251b57fe4dea309ee47b8476401588c22e1130adc52  budgets/2024/FY 2024 Adopted Budget.pdf
+bbdc8f0f671331529abc341999d754913275ad39086a939ac5786a49f8699377  budgets/2024/REVISED BUS-2 CAM 23-0616 Exhibit - FY 2024 - FY 2034 Long Term Financial Plan.pdf
+0af84551185da7a121dc6e763ed6332da94e7ad2e77de6cc2aa9acbb1040e781  budgets/2025/FY 2025 Adopted Budget Book Web_final.pdf
+faa52e033f4e8015e54d0b8eee1025584b6821788569fbb3a1967ebe589b8e59  budgets/2025/FY 2025 City Commission Priorities.pdf
+a2de9a28c105a91a48e858aeb1de7560f22e4a7b54044c09f64ce2654d521fb6  budgets/2025/FY 2025 – FY 2029 Police Department Equipment Plans.pdf
+c7ddfb6d126c2d188edd29713bf18fa0e5e50f1f61f957712680f1fa465a4711  budgets/2025/Overview of Public Safety Initiatives.pdf
+c7b945cfcd0133caed13c20cc263c942d22ccb225b42228489d9f1131c003f14  budgets/2026/Attachment 4 Overview of Public Safety Initiatives.pdf
+07b47eea5f6e8b86b477e79b47648c9ad0c8939b8241eef70d9bcb36ed5d573f  budgets/2026/Commission Memo 25050 Fiscal Year 2026 Preliminary BudgetFinal.pdf
+f780c7f017be396c82262ae761570af130b0592abcfe6950ef137137d234a3fd  budgets/2026/FY 2026 FY 2030 Police Department Equipment Plans.pdf
+92000082e382404e9227afcfc20b6b6b144ee51d049c7b0582b73398b97fe138  budgets/2026/_Final FY 2026 Adopted Budget Book Web Version.pdf
+12a514542e6b19be18754bc7bd05ec5ab7ab28606a3ab66486e7ff3aeceae0e1  budgets/FY 2009 Adopted Budget Book.pdf
+8bd8c6016c19ee863825447d0463e1be23c80159247489829ba4b0d404ce1efc  budgets/FY 2010 Adopted Budget Book.pdf
+99ca8539dede1b2620539586f6245ad924d684cb9945479946675e09f2255165  budgets/FY 2011 Adopted Budget Book.pdf
+e6d7d0e3a8ce1a82e8fde51acf4aa9338f7fe2762de808a83df48935616caa40  budgets/FY 2012 Adopted Budget Book.pdf
+675d40236607d35c790c01803216f3c07127d2e0a7f6a674bf79e1a32bce2adb  budgets/FY 2015 Adopted Budget Book Web.pdf
+38993ddbbc5c1ea91f9c7463351f1e3125607e15d477dc117ed7b7400c491c87  budgets/FY 2017 ADOPTED BUDGET BOOK WEB Version.pdf
+a960e3ea4cd4f2a2b2e8bfbe938ea1ce6aa5ee32b9ebe858c6cbd4d7abee1ed9  budgets/FY 2018 Adopted Budget Book FINAL FINAL.pdf
+2983554c1de3014bb48af814850c15256abc0e4d31bc46a68a0765fb30f85807  budgets/FY2013_Adopted_Budget.pdf
+16eec466ae8d586ce964b684e6ff9d3d149413d518526e9d0a9ea73631514d02  budgets/FY2014_Adopted_Budget_Book.pdf
+3703c1a5de038790fbac6b4f928591fd6fb80b07361dd55700296ae5d84871a4  budgets/Final PDF FY 2016 Adopted Book FINAL 120415WEB3_3.pdf
+1a0e367e3bc755ffc01adc5696d543178d2742150cb2ddd86e9014e9b6556cad  budgets/GFY 2019Adopted Budget Book_Final PDF FY 2019 Adopted BookFY 2019 Adopted Budget Book WEB FINAL v3.pdf
+a2c18584349322b77d81dab2aae5e89055021f04bbe492125a717682b0475df2  budgets/GFY 2021Adopted Budget Book_FY 2021 Adopted Budget Book WEB PROOF COPY.pdf
+293a8772fc1672187f51a8d40849151d7184bcb59350523e600b9d3c69a75fae  budgets/_FY 2020 Adopted Budget BookFINAL Web Version.pdf
+4879a5f1008abe979449238ba59d5ce22d88159b9da9b5fb02e1cfcf795c9417  meetings/2013-09-03/Agenda.pdf
+c13e8f3daff9dca3b81e8a7b5ea3fd7755bafa9e0bd4e96930703c94690d6651  meetings/2013-09-03/Commission Agenda Memo 13-1099.pdf
+0c66f3fc3909148d991cd3be49529e44f99dc1f716b25977e572fe6a658d6d45  meetings/2013-09-03/Minutes.pdf
+9e4692295ac7a4d67b033153bff1eb710a363ef69937bcbab8b8ce2e9ef5d7e3  meetings/2013-09-03/Regular Meeting Minutes.pdf
+885686b35ba56a945a4111f42475cd9dc2faf6fdbad24299b52c0116f025a4d5  meetings/2014-01-22/Commission Agenda Memo 13-1702.pdf
+23943db605535305cd8e7f6721c727c02840605a674d799cacd7992bf5ffceb0  meetings/2014-01-22/Exhibit 1 - Developer's Request.pdf
+6ae9a6a5ccefc592a2de750bb2c7a4f2f95a3cb5132103e9c9ca265fb0de4aaa  meetings/2014-01-22/Exhibit 2 - Site Plan Renderings Construction Cost CAM 13-1702.pdf
+e2da6e9dbab281674723c005615d8a6f36d8b05de162290fe60701a99dc2534c  meetings/2014-01-22/Exhibit 3 - FL Statutes 255 20(1)(c)(10).pdf
+4893fc5fa409555df156e3aa1ada68f3a3cf74488da79e74fde48e896893b583  meetings/2014-02-18/Agenda-1.pdf
+b14de8b3f00fb2ebd4ae932c6d0ac50d1f72a8b990c9232fbda1ddce3b9819b4  meetings/2014-02-18/Agenda.pdf
+346d6812d65cabf5a2a4807166305a34f3078b24bc5734f56c16ed98d1ff8d2a  meetings/2014-02-18/Commission Agenda Memo 14-0192.pdf
+8a157f20bfa516a3847f778a58185f77a9824c04b64048c60e7829133356ed67  meetings/2014-02-18/Conference Meeting Minutes.pdf
+7a38ea9ac8df6d8534df0c5cb2e7c1c9cf0ec6bfdd6db63d03521cb227a1cb6f  meetings/2014-02-18/EX 1 - Bid Tabulation.pdf
+3bc2ed9866a2a0647745837b0550ad37dffec263acf8849062187fdbb20223b4  meetings/2014-02-18/EX 2 - VisualPro 360 Proposal.pdf
+521667efc49721b051f64c0de8d8ee47f4a6e09a619ec9eaf0535a1da19e9926  meetings/2014-02-18/Exhibit 2 – Final Ranking.pdf
+814614dd57cfed77a06fda9b5af006cb9bbe3bd44eb0b23db4b6ad0822cc307d  meetings/2014-02-18/Minutes.pdf
+e273f7c382c2e8b492f527db07508470ba1b80a3513877665c4b251a3b91ba38  meetings/2014-02-18/Regular Meeting Minutes.pdf
+7c44e93ce45b7142b2d0e08c31db27c673c8ee9ea5451206f20d3ab82cac1bf5  meetings/2014-08-19/Agenda.pdf
+c05bda3253cc661919d2f818e410f1e44b73580a563a7988054ca354b8684e96  meetings/2014-08-19/CAM 14-0857 Consolidated Budget Amendment.pdf
+374dd7753c1f9af6fd9188665d122d84e52a6bdc188f04841fbc813127f0cbdb  meetings/2014-08-19/Commission Agenda Memo 14-0868.pdf
+b459b8c17d71fc82301a506df24fb20419c9ed6ee6f79ca4d7b44bce098d8bcb  meetings/2014-08-19/EX 1 - Agreement.pdf
+d6b0cf292646914a23b114e8a7321b2495aa34e6d226144036675b895c784425  meetings/2014-08-19/EX 1 Resolution-1.pdf
+d6b0cf292646914a23b114e8a7321b2495aa34e6d226144036675b895c784425  meetings/2014-08-19/EX 1 Resolution.pdf
+214c8db51251edcedf21c110f41015c38d518577c16735a8d3b1c6cc4f8c70e4  meetings/2014-08-19/Executed Agreement.pdf
+2e95e1033757c1c544a15864b93cbcdba3f13f791034a69e5dd060401e23804a  meetings/2014-08-19/Minutes.pdf
+e0e418754bc33e787c7af349a17eb4fde4c513daa2ad8ea17ddc4f1c61cb13fd  meetings/2014-08-19/Regular Meeting Minutes.pdf
+e65342091024475466354ae41a740185e798d1f5641b5b6497c8dfc1537a69d7  meetings/2014-08-19/Resolution No. 14-125.pdf
+cfe823dfcadf3dc23c834242e6da8a262df65d7d09de516ab49e891bcb5732a0  meetings/2014-09-16/Agenda.pdf
+16e8b03cef9713ba3c160bdc69c337d2b986a36d1f624011a9eacb80afb2be1a  meetings/2014-09-16/Commission Agenda Memo 14-1030.pdf
+45ecba4a0ade2f08502c7b89853d935e9060afd07109a9c2dd56477363fab77f  meetings/2014-09-16/EX 1 - Bid Tabulation.pdf
+78b9c274723fb053dc5034bb00fd2478e5109eac1af667ebbdf2763de35da591  meetings/2014-09-16/Minutes.pdf
+9ab0beb2fdc93fd20fd83d1b47e71e517469b165c791ef6f2c2818175f8e9632  meetings/2014-09-16/REVISED CAM and Added Exhibit.pdf
+4b3195c11118efb621c1431006a9d12ee00a803d77ba3b37ef6c351f1114640e  meetings/2014-09-16/Regular Meeting Minutes.pdf
+39bd6eb61f08974cf4ff15b4320dad6c377f1f12c6b0c1ddef67257b11b495e0  meetings/2014-12-17/Agenda.pdf
+5a28bde3cd32b1d3485f9b38bedfac69754be7446a7b516c9d54946e0a586e68  meetings/2014-12-17/Commission Agenda Memo 14-1528.pdf
+740d4f5e310b2f7ba68597476c0951f35509e09cfe3314e2a1719c40da3fb74b  meetings/2014-12-17/EX 1 - Bid Tabulation.pdf
+b9a5bee6b53ccc0a63a69cc5b7b9be73a6da451a29f2bf83f10e9f6c76df3c7d  meetings/2014-12-17/Legislation Details (With Text).pdf
+085a0d71cf6752cbe6fb9bf3f0e888bd5e8e698637139300b8c132281d1ca168  meetings/2014-12-17/Minutes.pdf
+284726814f145d26c36716672d9f3498ef1188821a6fe28cf034822e78337d4f  meetings/2014-12-17/Regular Meeting Minutes.pdf
+4dd546be74250662852ffd63648548ab729e8468a9ae6e8b73368ab457c9d380  meetings/2015-02-17/Agenda.pdf
+6effe04f20b7895e083fdc21872aed38c8b5f5fc367dc8d4874220cd6bf2c185  meetings/2015-02-17/Commission Agenda Memo 15-0247.pdf
+dc1ee686a80010962a884f4c3519b1e511ded06e9f6d7f38332827da4433e7ee  meetings/2015-02-17/EX 1 - Quote.pdf
+316b3cbe81bbda962258b95e877743ae222f74cc1e1186eb020bfbb6c63c39dd  meetings/2015-02-17/EX 2 - Agreement.pdf
+39613fe97046087da420e44b1a0853cc38e2fe9daca5b07c05c0b29b8f2dbb0d  meetings/2015-02-17/Executed Agreement.pdf
+7433130e568fcd259cdbcb51555dae0f33ba163b6fdcf0787e4b1980e479224d  meetings/2015-02-17/Legislation Details (With Text).pdf
+1c5dc1670c2cc9977b2aa7e4e9f5019bd30d77dd6bc54e34d0e73595e641f5a8  meetings/2015-02-17/Minutes.pdf
+4ceef855ebbc20ded0ccfa1e76cfae599ca66c5d1e936f9f0771f429d3079eed  meetings/2015-02-17/Regular Meeting Minutes.pdf
+aaf1cd528b6dabe5092f5137f5776f1f897a1649828548b6f4d5938bd4e66d4d  meetings/2016-02-02/Agenda.pdf
+81f4f9ddd2a65046fbb566cb424a233908960b932c3fd96114540639e1f5f98c  meetings/2016-02-02/Commission Agenda Memo 16-0085.pdf
+2d27ad181435ce78aa2a20a9bc4b6135379c3a53d713d91ea1924060b4dc308c  meetings/2016-02-02/Exhibit 1 - Safeware Quote.pdf
+435d68b2e9dbeb35c13b85c47b9613f8c033afb3756de3ed738e2b9b9545115e  meetings/2016-02-02/Exhibit 2 - CDW-G Quote.pdf
+f1b44c9d498e34dbb0181c366f33fe3b9be151e197c11e21fb562e925cb140b3  meetings/2016-02-02/Legislation Details (With Text).pdf
+7d589a5b5a3e0968772e81eb2d26ecb7942651f799f9129a625b9cd8417b9c8f  meetings/2016-02-02/Meeting Minutes.pdf
+d190d7507492a5f8b1bc25362b125775ebf9f392cd2cdea0c0b95f6e42c81ef1  meetings/2016-02-02/Minutes.pdf
+be7d271ea877c83782354b77b5d4fb894a44e542cb25aecb8b8d812a3d445939  meetings/2018-03-06/Agenda.pdf
+5ed3805f8ccee318a12ce9ac06b5e644d594fc3ac8f6673c8b1257428472c6f3  meetings/2018-03-06/Commission Agenda Memo 18-0252.pdf
+216d1bb01e57223ff0077429dced1bba0f9e4f5eaa32d65c9974c59a760418ba  meetings/2018-03-06/Exhibit 1 – Agreement between Bermuda Riviera Association Inc. and the City of Fort.pdf
+bd7c699377542b53dd0aaffc29091b14815dccccdc86b829888f7650729dc24e  meetings/2018-03-06/Legislation Details (With Text).pdf
+e1cf7d3becba5d7983780d4ef947c51f5034a2446aefd69acd1050b018a9100a  meetings/2018-03-06/Meeting Minutes.pdf
+4ca11f550c93ec54f1115c0953b622bb94de45efc72eeebbf201ccfbd350ccca  meetings/2018-03-06/Minutes.pdf
+c5bb8098ab5ecaac45e301665750650d2fe02b14743cf87b3b32a7ecb68457cc  meetings/2018-07-10/Agenda.pdf
+f0dabd8231500376ed05c53baa4713a5f60a104f965564d9d3b35e6b40987324  meetings/2018-07-10/Commission Agenda Memo 18-0692.pdf
+b71e4260712c831803c0c83a1ca170108b71669ee08443493cd5052d699204ef  meetings/2018-07-10/Exhibit 1 - Chief's Certification.pdf
+0b386c408476d67a006fe47717af06aa2eeb271f3a6ccc9c1f37529fea59f5fd  meetings/2018-07-10/Meeting Minutes.pdf
+2f0d37ea48af6cfc4413207fcaa7dfd40c178d1efd84b1b00c9a9133549f6194  meetings/2018-07-10/Minutes.pdf
+a56a7051f4afcc633f97819f4c89f9cddf4c5eab5bdf35e2a07951f00adb0fbf  meetings/2021-01-05/Agenda.pdf
+d03d10e46cfe73ad7b24dd8011a344f0bf2f406fe1235610e6ba2eca078e865d  meetings/2021-01-05/Meeting Minutes.pdf
+c2230c02db80e29ca13f8a98a862508403bb14be9481f3518a498a16e9039415  meetings/2021-01-05/Minutes.pdf
+bae244520e8921ef360702b96eb0a82f49a1cdc6b578e1cc06d9a9ad272c8c71  meetings/2021-08-17/a/Agenda.pdf
+61af320c08b730b1165fab17acdd52b176c9a5248b1bdd71747fd558c0e2e3bb  meetings/2021-08-17/a/Commission Agenda Memo 21-0703.pdf
+6f17d6d01c2914118be76c4bdd72e7fdec92607c9ab469afef3659d280bee8a6  meetings/2021-08-17/a/Exhibit 1 - Location Map.pdf
+73a96d2a4f42ac2624bf578fe75769cd0c63c6f7df0ed8315eafb56eaa357785  meetings/2021-08-17/a/Exhibit 2 - Construction Details.pdf
+23da1e63890bfc19e5bc2e0e93e9b3e351ba99177c3283682faac487c749f876  meetings/2021-08-17/a/Exhibit 3- Revocable License.pdf
+d504984a4759e91793aa837dae2240b7feb3e55b6bf828717b522af5af93bd58  meetings/2021-08-17/a/Legislation Details (With Text).pdf
+34d3ba02d01cd35352f67566692b2b6ce408d81e7afd814fd555997be26cba2e  meetings/2021-08-17/a/Meeting Minutes.pdf
+23e158836656f5e8cc9d1c82d434db7fa1a1bd3f579bf28e88e7d0aeb7b480bf  meetings/2021-08-17/a/Minutes.pdf
+bae244520e8921ef360702b96eb0a82f49a1cdc6b578e1cc06d9a9ad272c8c71  meetings/2021-08-17/b/Agenda.pdf
+81c846b3cbfd4cacb51d77d0ccbdb8a9753691617da96877929f40e3eadd471b  meetings/2021-08-17/b/CAM 21-0762 Revocable license for the Landings Residential Association INC to install cameras to monitor license plates within the right of ways controlled ando.pdf
+1272f3cde06534bebb0ad1a5d82b1fae19f3ce3bfffa8c5d438cd983f1701834  meetings/2021-08-17/b/Commission Agenda Memo 21-0762.pdf
+50cf6565101d82fcd038b09fcc22651d260d06732ac88a01e05134ad6d98ece3  meetings/2021-08-17/b/Exhibit 1 - Location Map.pdf
+40f7adcf04a1a4211f6c61b5f273be894e9ccdfc08451376b19e5fd1569d82eb  meetings/2021-08-17/b/Exhibit 2 - Construction Details.pdf
+ba675070a26572e6ff585848182a9da510f43742a6818bda0c04b0a76accc76b  meetings/2021-08-17/b/Exhibit 3- Revocable License.pdf
+0cad1afe182735fe694cd2cc781706748ab32ec352191b4ff406454678c85011  meetings/2021-08-17/b/Legislation Details (With Text).pdf
+34d3ba02d01cd35352f67566692b2b6ce408d81e7afd814fd555997be26cba2e  meetings/2021-08-17/b/Meeting Minutes.pdf
+23e158836656f5e8cc9d1c82d434db7fa1a1bd3f579bf28e88e7d0aeb7b480bf  meetings/2021-08-17/b/Minutes.pdf
+2249ab05d841d54bb44b30293ebd4cc0a3d3dd36aaffbc2a58e88431e27163d9  meetings/2021-08-17/c/CAM 21-0761 Revocable License for the Rio Vista Civic Association INC to install cameras to monitor license plate within the right of way controlled andor owned.pdf
+5ed3805f8ccee318a12ce9ac06b5e644d594fc3ac8f6673c8b1257428472c6f3  meetings/2021-08-17/c/Commission Agenda Memo 18-0252.pdf
+99e2bdde40125cdad748ba4aee2d10f05d49ff2307e3364aa9c92a12365f1293  meetings/2021-08-17/c/Commission Agenda Memo 21-0761.pdf
+ef8a134adb555685167741f3cb83722c9eeab21fb21fc6e6d66caa447074c21b  meetings/2021-08-17/c/Exhibit 1 - Location Map.pdf
+c648b51ecd87b2254083030fc93ffdc1b76ed42157dad83006952d5269560ffa  meetings/2021-08-17/c/Exhibit 2 - Construction Details.pdf
+8682518fa7fb16ed69c3fae0c5c722d71b757fdae187f5bbab3b649ef7e1451c  meetings/2021-08-17/c/Exhibit 3- Revocable License.pdf
+119da2a9e63de8313d57ecee6f14ba970d978475a70e31e4d3a2013d03c389ad  meetings/2021-08-17/c/REVISED CAM.pdf
+7443c418dae8ea614c74d42d2861ad133e6d0460f753012cb7ac0f0b9b3964b9  meetings/2021-10-05/Agenda.pdf
+5c8882053e0438946bd086b645a65142adbf0ced2d63895fb8a3c52730fd16e2  meetings/2021-10-05/CAM 21-0943 Revocable license for the Lauderdale Harbor Improvement association INC to install one license plate reader camera in the Cordova Road a ROW.pdf
+856d26dc563ed539f29a08f568975dc02d914d556fc414dbb5b8341a840a6093  meetings/2021-10-05/Commission Agenda Memo 21-0943.pdf
+63ec59bc95e3ff7204757e9ca6d7dbad1e7bec758814414e35e4e0df96410f29  meetings/2021-10-05/Exhibit 1 - Location Map.pdf
+99f65df5de1967cebd23e44d8959d393679443db05cc63d6b40bda27ae06cac8  meetings/2021-10-05/Exhibit 2 - Construction Detail.pdf
+936208f62ddec1ebaa9c8cd62ad9eee8a61169800b3d223d2bb4bfa590eae39d  meetings/2021-10-05/Exhibit 3 - Revocable License.pdf
+415e474843090d81affe4b2a961ca466348cd789d4285f2ffbdd6bdc47ac64bc  meetings/2021-10-05/Legislation Details (With Text).pdf
+51dd7d356de316ae3cae612cbf948bf6e402fa2075860ebd4e64dcee144f9328  meetings/2021-10-05/Meeting Minutes.pdf
+520a94ba993d9ed68ae5208a86d5e929f1fa0bb55c67351aa918bf23a74953ac  meetings/2021-10-05/Minutes.pdf
+5f9e88740aece111078df44a3c1c47bf66ff0910c113a8285bd586bfccd23123  meetings/2022-06-21/Agenda.pdf
+deeaaa0763713f83838f052309d2029d67f85d6522e96ab97ed744bb5f8ba3ad  meetings/2022-06-21/Meeting Minutes.pdf
+56e094d86322697846d152e5e27be36876030083fa916f95c3fad3ac0a015fd5  meetings/2024-02-06/Agenda.pdf
+610959c522fefd9f02f1d4e3d71d0c3d22a848142d5147b1ac47aa0e0c46533f  meetings/2024-02-06/Meeting Minutes.pdf
+13b8935cf943fb20c9dc5b57a5b1f495f4df4c28d518e926ab8a1ad46f22daef  meetings/2024-02-06/Minutes.pdf
+801c6bdb3deaf91a19b254c069223bb84ae61ec1b7a8320732ea1e2fe7f87101  meetings/2025-01-22/Agenda.pdf
+8099d405af34374f20c9f3f146f0106d7004a5ac5f0f4035b3cf84bc6c32b4d2  meetings/2025-01-22/Meeting Minutes.pdf
+fa9163305b4f145b6204f4a87a6c740ed4b155fcb08b70573d38feef84d04124  meetings/2025-01-22/Minutes.pdf
+4240f6feac5e2b699c50e1cac2482d87339b1fa0eb845a95ffe508f6febad555  policy/316.0.pdf
+60b7112c044ea175e914d37354365d06f1ba2085794bb60c3f21413e99600802  procurement/11315 License Plate Recognition System.pdf
+60b7112c044ea175e914d37354365d06f1ba2085794bb60c3f21413e99600802  procurement/2013-12-16/11315 License Plate Recognition System.pdf
+230990e0d7bd3d93117d133a4c573de914483d8b5cea22ac5cc1b0a7247b66fc  procurement/Article V. Finance.pdf
+ca5c0b0a573cbfcb914c7eb323f884a9c8099912b83fb9240af15228de3f2219  procurement/Procurement Manual GM Revision 92225.pdf
