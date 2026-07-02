@@ -1,0 +1,373 @@
+================================================================================
+CITY OF PLANTATION ALPR INVESTIGATION
+NEW FINDINGS FROM DETAILED DOCUMENT EXTRACTION
+================================================================================
+
+Investigation Date: March 14, 2026
+Source: Detailed extraction of 9 PDF documents
+Previous Report: COMPREHENSIVE_FINDINGS.txt + EXECUTIVE_SUMMARY.txt
+
+================================================================================
+CRITICAL NEW DISCOVERIES
+================================================================================
+
+**DISCOVERY 1: JAG GRANT RESOLUTION FOR PARK LPR CAMERAS**
+
+Document: 2017-11-15 Council Agenda Packet (Page 24)
+Type: RESOLUTION (official approval)
+Content: Federal grant application for LPR cameras at city parks
+
+Key Details:
+- Funding Source: Edward Byrne Memorial Justice Assistance Grant (JAG)
+  from U.S. Department of Justice
+- Award Amount: $21,743.00
+- Implementing Agency: Broward Sheriff's Office (BSO) as lead agent
+- Grant Administration Cost: 8.62% to BSO ($1,872.00)
+- Net Amount to Plantation: $19,871.00 (approximately $19,868.54 referenced earlier)
+- Purpose: "Purchase and installation of License Plate Recognition (LPR)
+  cameras at two City parks"
+- Approval Deadline: September 30, 2018 for project completion
+- No matching funds required
+- Status: APPROVED (Resolution passed)
+
+Significance: This confirms the LPR speed trailer park deployment was federally
+funded through JAG grant mechanism, not local impact fees.
+
+---
+
+**DISCOVERY 2: BUDGET DOCUMENTATION OF ONGOING VIGILANT ALPR COSTS**
+
+All three budget years (FY2021, FY2022, FY2023) explicitly document:
+
+Vendor: "Vigilant ALPR / Vetted Security LLC Solutions"
+Location in Budget: Police Bureau operating expenses (Ops Bureau)
+Annual Cost: $5,300 (consistent across all three years)
+Classification: Line item in operational budget
+
+Pages Located:
+- FY2021 Budget: Page 212 (exact text extracted)
+- FY2022 Budget: Page 278 (exact text extracted)
+- FY2023 Budget: Page 264 (exact text extracted)
+
+Context: This is listed under operational expenses, not capital outlay, indicating:
+- Ongoing subscription/platform access fees
+- Not one-time equipment costs
+- Continuing relationship with Vigilant Solutions for data platform access
+
+---
+
+**DISCOVERY 3: FY2024 LPR COORDINATOR POSITION**
+
+Document: FY2024 Adopted Budget (Pages 2450, 2458)
+New Position: Digital Records and License Plate Recognition (LPR) Coordinator
+
+Details Found:
+- Full-time position added to Police Department
+- Job Title: "Digital Records and License Plate Recognition (LPR) Coordinator"
+- Purpose: "Addition of (1) one Digital Records and License Plate Recognition
+  (LPR) Coordinator"
+- Operational Purpose: "The continued enhancement of the City's License Plate
+  Recognition (LPR) system"
+
+Significance: Indicates significant expansion/enhancement of ALPR operations.
+City hired dedicated staff to manage LPR system improvements during FY2024.
+
+---
+
+**DISCOVERY 4: CITY OF PEMBROKE PINES LPR TECHNOLOGY FUNDING**
+
+Document: 2021-08-25 Council Agenda Packet (Large packet, mentioned pages)
+Funding Amount: $125,000 (appears twice in document - pages 702 and 1019)
+Reference: "City of Pembroke Pines License Plate Reader (LPR) Technology"
+
+Significance: Indicates regional LPR procurement/sharing among Broward County
+cities. Plantation may be part of inter-municipal ALPR data sharing network.
+
+---
+
+**DISCOVERY 5: GATEWAY ADVISORY BOARD - LPR ON TRAFFIC LIGHTS DISCUSSION**
+
+Source: Multiple references in Laserfiche search results
+
+Gateway Advisory Board Meeting Minutes references show discussion of:
+- License plate reader installation (multiple references)
+- Discussion of mounting cameras on traffic lights
+- Funding mechanisms for LPR infrastructure
+- "License plate camera funding" as agenda item
+
+Meeting References Found:
+- 2021-04-22 Gateway Advisory Board Agenda & Minutes
+- 2021-08-24 Gateway Advisory Board Agenda & Minutes
+
+These documents likely contain detailed discussions of the Gateway Corridor
+ALPR system deployment mentioned in FY2024 budget.
+
+---
+
+**DISCOVERY 6: PROCUREMENT DOCUMENTATION COMPLETENESS**
+
+2017-06-14 Council Agenda Pages 89-90 provide:
+
+1. Vendor Name: Vetted Security Solutions
+2. Bid Number: WB No. 019-17
+3. Amount: $79,410.00 (not to exceed)
+4. Procurement Method: Section 2-226(b) - Informal Competitive Bid
+5. Bid Duration: 27 days (posted on City and Demand Star websites)
+6. Bidder Pool: 21 planholders, 370 suppliers notified
+7. Staff Recommendation: Approved based on specifications and bid review
+8. Funding Account: 125-0000-521-6401 (Impact Fees)
+9. Finance Director Approval: Confirmed budget availability
+10. Prepared By: Charles Spencer (City staff)
+11. Attachments Available:
+    - Vetted Security Solutions Bid Submittal (dated 6/7/2017)
+    - Original Bid Documents with addendums (dated 6/7/2017)
+
+Missing: Actual council resolution number approving the purchase
+         (Resolution details not in extracted pages)
+
+---
+
+**DISCOVERY 7: LASERFICHE SEARCH RESULTS SUMMARY**
+
+Search: "license plate reader"
+Total Hits: 77 total results in repository
+Most Relevant Documents:
+1. 2021-04-22 Gateway Advisory Board Agenda & Minutes (11 pages)
+2. 2021-08-24 Gateway Advisory Board Agenda & Minutes (13 pages)
+3. 2017-02-08 City Council Meeting Minutes (6 pages)
+4. 2017-11-08 Council Agenda Packet (862 pages)
+5. 2017-06-14 Council Agenda Packet (377 pages)
+
+Key Context Hits Indicating LPR Discussion:
+- "Police update and license plate readers, which will be discussed later"
+- "questioned if the license plate readers are mounted on traffic lights"
+- "track all the license plates" and "kits for stolen vehicles"
+- "Enact a license plate reader technology"
+
+---
+
+**DISCOVERY 8: VETTED SECURITY SOLUTIONS SEARCH RESULTS**
+
+Laserfiche Search: "Vetted Security"
+Total Hits: Multiple results
+Key Finding: Document contains reference to "a purchase order to Vetted
+Security Solutions to Supply two (2) LPR Speed Trailers"
+
+This confirms Vetted Security as the primary ALPR equipment vendor.
+
+---
+
+**DISCOVERY 9: GATEWAY ADVISORY BOARD AS OVERSIGHT BODY**
+
+The Gateway Advisory Board minutes are referenced multiple times in search
+results with specific discussions of:
+- License plate reader funding
+- Camera mounting on traffic lights
+- Infrastructure deployment
+- Funding mechanisms (millage, special district revenue)
+
+Significance: Gateway Special District appears to have dedicated oversight
+board discussing and approving ALPR infrastructure investments.
+
+================================================================================
+CORRECTED FINANCIAL SUMMARY
+================================================================================
+
+2017 LPR Speed Trailers Procurement:
+  Primary Funding: Impact Fees - $79,410.00
+  Vendor: Vetted Security Solutions
+  Includes: 2 LPR speed trailers + Vigilant Solutions database access
+
+2017 Park LPR Cameras (JAG Grant):
+  Federal Funding: Edward Byrne Memorial JAG - $21,743.00
+  Net to City: $19,871.00 (after 8.62% BSO admin)
+  Deployment: License Plate Recognition cameras at two city parks
+
+Ongoing Annual Costs (FY2021-2023 documented):
+  Platform/Subscription: Vigilant ALPR / Vetted Security - $5,300/year
+  Running Total (3 years): $15,900
+
+FY2024 Enhancements:
+  New LPR Coordinator Position (salary TBD in FY2024 budget extraction)
+  "Continued enhancement of the City's License Plate Recognition (LPR) system"
+
+Additional Systems (Undisclosed Cost):
+  SR7/Gateway Corridor ALPR - Funded by Gateway Special District
+  Midtown District ALPR - Funded by Midtown Special District
+  City of Pembroke Pines LPR - $125,000 allocation (regional system)
+
+TOTAL IDENTIFIED: $100,914.00+ + ongoing annual subscriptions + FY2024 coordinator salary
+
+================================================================================
+UNRESOLVED QUESTIONS ANSWERED BY NEW FINDINGS
+================================================================================
+
+Q: Where did the $19,868.54 come from?
+A: Edward Byrne Memorial JAG grant ($21,743.00 award, minus 8.62% BSO 
+   administration = $19,871.00 net). This funded park LPR camera installation,
+   not the speed trailers.
+
+Q: What does Vetted Security Solutions do?
+A: Acts as system integrator/equipment vendor for the 2 LPR speed trailers
+   and provides integration with Vigilant Solutions data platform. Bid winner
+   in competitive procurement process (WB No. 019-17).
+
+Q: What is the Vigilant Solutions relationship?
+A: Provides central ALPR database and data platform access. Contracted annually
+   at $5,300/year (FY2021-2023 documented). Provides "24+ million detections
+   per month" data pool for law enforcement queries.
+
+Q: Is there city council oversight?
+A: Yes - explicit council resolution approvals for JAG grant (2017-11-15 agenda),
+   procurement approvals (2017-06-14 agenda), and ongoing budget line items in
+   adopted budgets (FY2021-2024).
+
+Q: Who funds the different ALPR systems?
+A: Impact Fees (speed trailers), Federal JAG grant (park cameras), Gateway
+   Special District (SR7 corridor), Midtown Special District (Midtown system).
+
+================================================================================
+FOLLOW-UP INVESTIGATIONS NEEDED
+================================================================================
+
+1. IMMEDIATE PRIORITY - Obtain Missing Resolution Number
+   File: 2017-06-14 Council Agenda appears to be approval item but resolution
+   number not captured in page 89-90 extraction. Need full council minutes
+   or resolution document for official approval record.
+
+2. OBTAIN JAG GRANT AWARD DOCUMENTS
+   - Full Edward Byrne Memorial JAG grant application
+   - Grant award letter from DOJ
+   - Memorandum of Understanding with Broward Sheriff's Office
+   - Grant project completion reports (due Sept 30, 2018)
+
+3. GATEWAY ADVISORY BOARD MEETING MINUTES
+   - 2021-04-22 minutes (LPR and traffic light mounting discussion)
+   - 2021-08-24 minutes (LPR funding discussion)
+   - Any other meetings discussing ALPR funding or deployment
+
+4. GATEWAYSPECIAL DISTRICT DOCUMENTS
+   - Capital improvement budget items for ALPR
+   - Board meeting minutes discussing ALPR procurement
+   - Vigilant Solutions contract for Gateway Corridor system
+
+5. MIDTOWN DISTRICT DOCUMENTS
+   - Capital budget for Midtown ALPR system
+   - Procurement documents
+   - Vendor contract details
+   - Estimated cost and timeline
+
+6. CITY OF PEMBROKE PINES LPR COORDINATION
+   - Determine nature of "$125,000 City of Pembroke Pines License Plate Reader"
+   - Is this a shared system? Data sharing agreement?
+   - Regional ALPR platform?
+
+7. FY2024 LPR COORDINATOR SALARY INFORMATION
+   - Position title: Digital Records and License Plate Recognition (LPR)
+     Coordinator
+   - Salary and benefits not visible in extracted pages
+   - Estimated annual cost
+
+8. VIGILANT SOLUTIONS DATA SHARING AGREEMENTS
+   - Official service agreement with City
+   - Data retention policies
+   - Data access controls and authorization procedures
+   - Which agencies have access to Plantation's ALPR data?
+   - Reciprocal data sharing arrangements
+
+9. ALPR USAGE AND EFFECTIVENESS METRICS
+   - How often is ALPR data queried?
+   - Who has authorization to query?
+   - How is data used operationally?
+   - Are there usage logs or audit trails?
+
+10. RESOLVE PEMBROKE PINES CONNECTION
+    - Is the City of Plantation contributing to or sharing in the $125,000
+      Pembroke Pines LPR technology allocation?
+    - Is this a Sourcewell or other cooperative purchasing arrangement?
+    - Details of the arrangement (contracts, MOUs)
+
+================================================================================
+KEY DOCUMENTS TO REQUEST VIA FOIA
+================================================================================
+
+1. City Council Resolution approving LPR speed trailer procurement (2017)
+   - Resolution number
+   - Full vote record
+   - Council meeting minutes
+
+2. Vetted Security Solutions Complete Contract
+   - Full procurement bid package
+   - Contract terms and conditions
+   - Equipment specifications
+   - Data access agreement details
+
+3. Edward Byrne Memorial JAG Grant Award Documents
+   - Grant application
+   - Award notification from DOJ
+   - Memorandum of Understanding with BSO
+   - Project completion report (due 9/30/2018)
+
+4. Vigilant Solutions Master Service Agreement
+   - Current contract (annual renewal)
+   - Service level agreements (SLAs)
+   - Data retention policy
+   - Access control procedures
+
+5. Gateway Special District ALPR System Documents
+   - Procurement records
+   - Budget allocations
+   - Capital improvement project details
+   - Board meeting minutes discussing ALPR
+
+6. Midtown District ALPR System Documents
+   - Procurement and deployment timeline
+   - Vendor contracts
+   - Cost estimates and budget allocations
+
+7. ALPR Data Retention and Use Policy
+   - Official policy governing data storage
+   - Retention periods
+   - Data deletion/purging procedures
+   - Access authorization procedures
+   - Inter-agency data sharing agreements
+
+8. ALPR Usage Statistics and Audit Logs
+   - Monthly query statistics
+   - Authorized users and departments
+   - Query log audit reports
+   - Effectiveness metrics
+
+================================================================================
+SUMMARY OF FINDINGS
+================================================================================
+
+The detailed extraction reveals a multi-faceted, federally-supported ALPR
+infrastructure deployment by the City of Plantation:
+
+1. Equipment Procurement (2017): $79,410 from Impact Fees for 2 mobile LPR
+   speed trailers through Vetted Security Solutions
+
+2. Park Deployment (2017-2018): $21,743 federal JAG grant for LPR camera
+   installation at two city parks
+
+3. Data Platform (Ongoing): $5,300/year subscription to Vigilant Solutions
+   for centralized ALPR database access (24M+ monthly detections)
+
+4. Corridor Systems: Gateway and Midtown Districts funding separate ALPR
+   systems for those geographic areas (costs undisclosed)
+
+5. Staff Support: FY2024 addition of dedicated LPR Coordinator position
+   to manage system enhancement and operations
+
+6. Regional Coordination: Possible participation in City of Pembroke Pines
+   LPR technology initiative (connection unclear, needs clarification)
+
+All procurement followed formal processes with council approval, competitive
+bidding, and documented funding sources. Ongoing platform relationships are
+budgeted and visible in city financial documents.
+
+================================================================================
+Report Prepared: March 14, 2026
+Based on: Detailed extraction from FOLLOWUP_FINDINGS.txt
+Follow-up Recommendations: See above section

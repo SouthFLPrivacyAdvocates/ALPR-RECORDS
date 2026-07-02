@@ -1,0 +1,3281 @@
+================================================================================
+CITY OF PLANTATION ALPR INVESTIGATION - FOLLOW-UP FINDINGS
+DETAILED DOCUMENT EXTRACTION REPORT
+================================================================================
+
+
+================================================================================
+TASK 1: 2017-06-14 COUNCIL AGENDA - PRIMARY PROCUREMENT (Pages 85-105)
+================================================================================
+
+
+--- PAGE 85 ---
+CITY OF PLANTATION | VXRAIL INSTALL AND MIGRATION
+Authorization
+This Statement of Work dated Tuesday, May 30, 2017 is the complete and exclusive agreement
+between RoundTower Technologies, LLC. and City of Plantation with regard to its subject matter,
+and supersedes all prior oral or written proposals, agreements, representations and other
+communications between the parties with respect to the consulting and implementation services
+and shall prevail notwithstanding any different, conflicting or additional terms and conditions which
+may appear on any order or other document submitted by City of Plantation.
+All parties hereby acknowledge that they have read and do understand this SOW and all
+attachments hereto, and agree to all terms and conditions stated herein.
+IN WITNESS WHEREOF, the parties hereto each acting with proper authority have executed this
+Statement of Work.
+City of Plantation RoundTower Technologies, LLC.
+Full name Full name
+Title Title
+Signature Signature
+Date Date
+© 2017 RoundTower Technologies, LLC. All rights reserved. RoundTower Technologies is a registered trademark of RoundTower Technologies, LLC.
+HQ: 5905 E. Galbraith, Suite 3000 Cincinnati, Ohio 45236 | roundtower.com | 1.888.679.0752
+8/8
+
+--- PAGE 86 ---
+Plantation City Notice of City Wednesday, June 14, 2017 ~ 7:30 PM
+Council Meeting Council Meeting
+Agenda
+City of Plantation
+City Council Chambers
+Subject:
+This information is provided for your review and consideration regarding your approval
+of the funds to renew the yearly maintenance on the City's FileNet - Enterprise digital
+scanning, indexing, and retrieval software solution.
+Item Description:
+FileNet Capture Professional, Capture Document Processing, FileNet P8, WebSphere,
+and Content Manager (client) access modules yearly maintenance. Yearly maintenance and
+support for all FileNet application modules and licenses.
+Funding:
+513_4607 R/M-Maintenance contract-computers
+FileNet Maintenance
+Amount:
+$34,290.00
+Department Director Recommendation:
+Therefore, it is recommended that City Council approve the budgeted funds to renew
+the FileNet yearly maintenance contract.
+Prepared By:
+
+--- PAGE 87 ---
+Robert Castro
+ATTACHMENTS:
+Description Upload Date Type
+Yearly Maintenance Invoice 6/1/2017 Backup Material
+
+--- PAGE 88 ---
+9211 Forest Hill Ave, Suite
+207
+Richmond, VA 23235
+(804)644-7600
+tlambert@documentaccess.
+net
+INVOICE
+BILL TO SHIP TO INVOICE # 5630
+Robert Castro Robert Castro DATE 05/31/2017
+City of Plantation City of Plantation
+400 Northwest 73rd Avenue 400 Northwest 73rd Avenue TERMS Net 30
+Plantation, FL 33317 Plantation, FL 33317
+DESCRIPTION QTY UNIT PRICE AMOUNT
+Software Support 1 34,290.00 34,290.00
+IBM/FileNet system maintenance renewal (7/1/2017-
+6/30/2018)
+Make all checks payable to: BALANCE DUE $34,290.00
+DAS
+9211 Forest Hill Avenue, Ste 207
+Richmond, VA 23235
+For questions on this invoice please contact | Taylor Lambert (804) 938-5933 or tlambert@documentaccess.net
+
+--- PAGE 89 ---
+Plantation City Notice of City Wednesday, June 14, 2017 ~ 7:30 PM
+Council Meeting Council Meeting
+Agenda
+City of Plantation
+City Council Chambers
+Subject:
+Request for authorization to issue a purchase order to Vetted Security Solutions to
+"Supply two (2) LPR Speed Trailers and the accompanying camera data access/software
+for the City of Plantation Police Department" in an amount not to exceed $79,410.00.
+Item Description:
+This system provides access to Vigilant Solutions shared data base. It will give the
+Police Department access to over 24 million detections per month and serve as an
+investigative data platform to benefit our investigators, analyst and detectives. In
+addition to the data base this purchase order will provide two mobile license plate
+recognition (LPR) speed trailers. These trailers will provide nearby police officers, as
+well as dispatch with alerts for stolen vehicles, felony vehicles or other criminal elements
+entering or within the City of Plantation.
+The Procurement Section secured informal competitive bids in accordance with section
+2-226(b) of the City's code for the above mentioned equipment. This informal bid (WB
+No. 019-17) was advertised for 27 days on the City's and Demand Star websites. This
+solicitation had 21 planholders and 370 suppliers were notified.
+Vendor Two LPR Speed Trailers as specified
+Vetted Security Solutions $79,410.00
+Based on the review of the specfications and written bid, the Police and Procurement
+staff recommends that the City of Plantation award a purchase order to Vetted Security
+Solutions for an amount not to exceed $79,410.00 for the procurement of (2) LPR Speed
+Trailers and the accompanying camera data access/software system based on the
+
+--- PAGE 90 ---
+specifications set forth in the bid (WB No. 019-17)
+Funding:
+125-0000-521-6401 - Impact Fees
+Amount:
+$79,410.00
+Finance Director/Budget Manager Recommendation:
+The Police Department has been authorized to use Impact Fees Fund Balance to
+purchase (2) LPR Speed Trailers with Camera Data Access/Software System in the
+amount of $79,410.
+Prepared By:
+Charles Spencer
+ATTACHMENTS:
+Description Upload Date Type
+Vetted Security Solutions Bid Submittal 6/7/2017 Backup Material
+Original Bid Documents with addendums 6/7/2017 Backup Material
+
+--- PAGE 91 ---
+(empty page)
+
+--- PAGE 92 ---
+(empty page)
+
+--- PAGE 93 ---
+(empty page)
+
+--- PAGE 94 ---
+(empty page)
+
+--- PAGE 95 ---
+(empty page)
+
+--- PAGE 96 ---
+(empty page)
+
+--- PAGE 97 ---
+(empty page)
+
+--- PAGE 98 ---
+(empty page)
+
+--- PAGE 99 ---
+(empty page)
+
+--- PAGE 100 ---
+(empty page)
+
+--- PAGE 101 ---
+(empty page)
+
+--- PAGE 102 ---
+(empty page)
+
+--- PAGE 103 ---
+(empty page)
+
+--- PAGE 104 ---
+(empty page)
+
+--- PAGE 105 ---
+(empty page)
+
+================================================================================
+TASK 2: 2017-11-15 COUNCIL AGENDA - ALPR REFERENCES (Full Document Scan)
+================================================================================
+
+Found keywords on pages: [24]
+
+
+--- PAGE 24 ---
+RESOLUTION NO. _________
+A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF PLANTATION,
+FLORIDA, TO SEEK FUNDING FROM THE U. S. DEPARTMENT OF JUSTICE
+FY 2017 EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG)
+THROUGH THE BROWARD SHERIFF’S OFFICE.
+WHEREAS, the City of Plantation Police Department desires to seek funding from
+the 2017 Edward Byrne Memorial Justice Assistance Grant (JAG) in the amount of
+$21,743.00; and
+WHEREAS, the City of Plantation Police Department agrees to allow the Broward
+Sheriff’s Office (BSO) to serve as the lead agent and to make application on the
+departments behalf and to use 8.62% of the award for grant administration, which
+is BSO’s U.S. Department of Justice approved indirect cost allowance; and
+WHEREAS, the City of Plantation Police Department will use the grant funds for
+the purchase and installation of License Plate Recognition (LPR) cameras at two
+City parks.
+WHEREAS, the City of Plantation Police Department has until September 30,
+2018, to complete their grants projects and there is no matching fund requirement.
+NOW, THEREFORE, BE IT RESOLVED BY THE CITY COUNCIL OF THE CITY
+OF PLANTATION, FLORIDA, that:
+SECTION 1: The City Council hereby authorizes the Mayor to seek funding for this
+grant and assures compliance with all legal and administrative requirements that
+govern the City for acceptance and use of federal grant funds.
+SECTION 2: The City Council hereby authorizes the Mayor, upon receipt, to sign
+the Memorandum of Understanding between Scott Israel, Sheriff of Broward
+County and the City of Plantation.
+SECTION 3: This Resolution shall take effect immediately upon passage by the
+City Council and signature by the Mayor.
+
+================================================================================
+TASK 3: FY2021 ADOPTED BUDGET - VIGILANT ALPR LINE ITEM (Pages 208-218)
+================================================================================
+
+
+--- PAGE 208 ---
+197
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+MMACHINERY & EQUIPMENT
+FFund/Department: Police FFunding Source: General Fund
+IItem Description: Fiscal Year Quantity Unit Price Total
+FY2021 1 $ 55,000 $ 55,000
+Ford F-150 Police Rated Truck-K-9 Unit. Includes emergency equipment FY2022 1 $ 57,000 $ 57,000
+included (lights, dog cage, heat alarm, etc.) Tag and vehicle registration FY2023 0 $ - $ -
+cost. FY2024 1 $ 59,000 $ 59,000
+FY2025 1 $ 60,000 $ 60,000
+NNeed, Justification, Benefit:
+Replace aging unit that is 7 years old. Very high running time/idle hours due to K-9 in vehicle.
+OOperating impact:
+Reduce costs related to repairs and maintenance.
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+MMACHINERY & EQUIPMENT
+FFund/Department: Police FFunding Source: General Fund
+IItem Description: Fiscal Year Quantity Unit Price Total
+FY2021 1 $ 16,000 $ 16,000
+FY2022 0 $ - $ -
+Covered motorcycle trailer for the Traffic Unit to transport police
+FY2023 0 $ - $ -
+motorcycles and equipment. Tag and vehicle registration cost.
+FY2024 0 $ - $ -
+FY2025 0 $ - $ -
+NNeed, Justification, Benefit:
+Replace aging unit that is from 2003.
+OOperating impact:
+Reduce costs related to repairs and maintenance.
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+MMACHINERY & EQUIPMENT
+FFund/Department: Police FFunding Source: General Fund
+IItem Description: Fiscal Year Quantity Unit Price Total
+FY2021 0 $ - $ -
+FY2022 1 $ 19,000 $ 19,000
+Belgian Malinois KNPV titled K-9 / Extensive Vet Check FY2023 1 $ 21,500 $ 21,500
+FY2024 1 $ 23,000 $ 23,000
+FY2025 1 $ 24,500 $ 24,500
+NNeed, Justification, Benefit:
+Replacement of aging K-9.
+OOperating impact:
+FFY2021 Adopted Budget
+
+--- PAGE 209 ---
+198
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+MMACHINERY & EQUIPMENT
+FFund/Department: Police FFunding Source: General Fund
+IItem Description: Fiscal Year Quantity Unit Price Total
+FY2021 0 $ - $ -
+FY2022 10 $ 5,500 $ 55,000
+Motorola Portable Police Radios-Encrypted FY2023 5 $ 5,500 $ 27,500
+FY2024 5 $ 5,500 $ 27,500
+FY2025 5 $ 5,500 $ 27,500
+NNeed, Justification, Benefit:
+Increase in man power and specialized units that require encrypted radios for officers safety.
+OOperating impact:
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+MMACHINERY & EQUIPMENT
+FFund/Department: Police FFunding Source: General Fund
+IItem Description: Fiscal Year Quantity Unit Price Total
+FY2021 0 $ - $ -
+FY2022 10 $ 4,500 $ 45,000
+SWAT protective vests FY2023 0 $ - $ -
+FY2024 10 $ 6,000 $ 60,000
+FY2025 0 $ - $ -
+NNeed, Justification, Benefit:
+Replace worn/outdated SWAT vests.
+OOperating impact:
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+MMACHINERY & EQUIPMENT
+FFund/Department: Police FFunding Source: General Fund
+IItem Description: Fiscal Year Quantity Unit Price Total
+FY2021 0 $ - $ -
+FY2022 3 $ 31,250 $ 93,750
+Police Administrative vehicles / Dodge Chargers with emergency light
+FY2023 2 $ 32,000 $ 64,000
+package included. Tag and vehicle registration cost.
+FY2024 2 $ 33,000 $ 66,000
+FY2025 2 $ 34,000 $ 68,000
+NNeed, Justification, Benefit:
+Replace aging vehicles
+OOperating impact:
+Reduce costs related to repairs and maintenance.
+FFY2021 Adopted Budget
+
+--- PAGE 210 ---
+199
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+MMACHINERY & EQUIPMENT
+FFund/Department: Police FFunding Source: General Fund
+IItem Description: Fiscal Year Quantity Unit Price Total
+FY2021 0 $ - $ -
+Ford Explorers - Interceptor Utility AWD (K8A) - include emergency light FY2022 5 $ 55,000 $ 275,000
+package decals, window tinting, tag and vehicle registration, rear command FY2023 4 $ 57,000 $ 228,000
+center for Road patrol supervisor. FY2024 0 $ - $ -
+FY2025 0 $ - $ -
+NNeed, Justification, Benefit:
+Road Patrol Supervisor vehicle / Incident Command Center.
+OOperating impact:
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+MMACHINERY & EQUIPMENT
+FFund/Department: Police FFunding Source: General Fund
+IItem Description: Fiscal Year Quantity Unit Price Total
+FY2021 0 $ - $ -
+Full size SWAT/SCU undercover van (Dodge, Ford, Freightliner) with FY2022 1 $ 65,000 $ 65,000
+emergency light package, interior benches and storage boxes and cabinets. FY2023 0 $ - $ -
+Tag and vehicle registration cost. FY2024 0 $ - $ -
+FY2025 0 $ - $ -
+NNeed, Justification, Benefit:
+Replace aging units that are 16 to 17 years old and high in mileage.
+OOperating impact:
+Reduce costs related to repairs and maintenance.
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+MMACHINERY & EQUIPMENT
+FFund/Department: Police FFunding Source: General Fund
+IItem Description: Fiscal Year Quantity Unit Price Total
+FY2021 0 $ - $ -
+FY2022 1 $ 65,000 $ 65,000
+Ford F-250 Diesel Pickup truck, 4x4, trailer tow package FY2023 0 $ - $ -
+FY2024 0 $ - $ -
+FY2025 0 $ - $ -
+NNeed, Justification, Benefit:
+Replace aging unit that is from 2008.
+OOperating impact:
+Reduce costs related to repairs and maintenance.
+FFY2021 Adopted Budget
+
+--- PAGE 211 ---
+200
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+MMACHINERY & EQUIPMENT
+FFund/Department: Police FFunding Source: General Fund
+IItem Description: Fiscal Year Quantity Unit Price Total
+FY2021 0 $ - $ -
+FY2022 5 $ 32,000 $ 160,000
+Ford Taurus or equivalent model-Unmarked units for SCU, CID, SSD units.
+FY2023 5 $ 33,000 $ 165,000
+Emergency lights included. Tag and vehicle registration cost.
+FY2024 5 $ 34,000 $ 170,000
+FY2025 5 $ 35,000 $ 175,000
+NNeed, Justification, Benefit:
+Replace aging units that are 7 to 10 years old and high in mileage.
+OOperating impact:
+Reduce costs related to repairs and maintenance.
+FFY2021 Adopted Budget
+
+--- PAGE 212 ---
+201
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+GGENERAL FUND
+PPOLICE
+FY2021 - Foot Notes
+521-3102 Consultants
+GSD - Consultants 32,000
+GSD - WHH Solutions, LLC 201,600
+233,600
+521-3109 Special services testing
+Assessment center testing for promotions.
+521-3402 Outside service fees
+Private contract for School Crossing Guards (Traffic Unit), Range Rental Fees, Cannabis Field testing lab and
+Service fees for subpoenas.
+521-3405 Parking fine billing services
+Paid to Broward County to process parking fines.
+521-4101 Postage/printing changes
+This includes postage for the Support Services Division as well as Code Enforcement
+521-4603 R/M Vehicles
+Vehicles repairs and maintenance
+521-4606 R/M-Maintenance contract
+Communications - Critical Environments Group (Annual Services Galaxy 4000 UPS Unit) 7,704
+Communications - CritiCall Annual License 2,695
+Communications - P25 Interface Voice Logging System (Replay System) 10,805
+Crime Scene Unit - AFIS Upgrade and License 18,000
+Crime Scene Unit - CSI Pix Maintenance 199
+GSD - Comcast 2,808
+GSD - Copiers 42,000
+GSD - Elevator Repair 4,800
+GSD - Enforcement Electric Inc. 1,500
+GSD - Fire Extinguisher Inspections 1,200
+GSD - Healthcare Environmental Services 1,058
+GSD - IDD Document Destruction 1,980
+GSD - Outreach Center Rental Westfield Broward Mall 24
+GSD - Paladin Card Swipe System 8,000
+GSD - Security Pro-CCTV System 1,600
+GSD - Tower Inspection 6,000
+GSD - Vehicle Calibrations - Leo's 6,800
+Ops Bureau (Vigilant ALPR / Vetted Security LLC Solutions) 5,300
+Property - Smith Scale 380
+Property - Wheelabrator South Broward (Narcotic Destruction) 600
+Road Patrol - GTS Technology Solutions 4,616
+SSD - AT&T U-Verse Outreach Office 1,500
+SSD - Camtasia Renewal (TechSmith Corporation) 50
+Traffic - Intoxilyzer Repair and Inspection ( Enforcement Electronics) 1,600
+Traffic - Radar/Lasar Calibration (Communications International) 4,600
+Traffic - Radar/Laser Repair (Communications International) 2,200
+VIN - Callyo Surveillance Systems (Callyo 2009 Corp.) 1,920
+VIN - Cellebrite UFED Cloud Analyzer 15,998
+FFY2021 Adopted Budget
+
+--- PAGE 213 ---
+202
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+GGENERAL FUND
+PPOLICE
+FY2021 - Foot Notes
+521-4606 R/M-Maintenance contract
+CContracts handled by Information Technology Department
+Absolute Computrace (handled by IT) 4,700
+Absolute DDS Premium Education State & Gov't (handled by IT) 7,500
+Biddle Consulting Criticall (Dispatch pre-employment testing) (handled by IT) 2,700
+Celebryte (Digital Shield) (PD Forensics-2 licenses) (handled by IT) 10,950
+CID - Lexus Nexis/Accurant CID (handled by IT) 2,610
+CoverTrac (PD) Mapping Maintenance 3 devices (handled by IT) 1,800
+CovertTrack (PD) Mapping Maintenance 2 devices (handled by IT) 1,200
+CrossMatch (Altus) (PD) Maintenance (handled by IT) 3,800
+CrossMatch (LiveScan) (handled by IT) 900
+CrossMatch (Rapid ID) (handled by IT) 7,387
+FaceLogics (Facial Composite) (handled by IT) 1,900
+Faro (Traffic Diagraming) Software (handled by IT) 3,000
+Faro THI Diagramming (PD) (handled by IT) 5,850
+GFI Lan Scanner - 300 licenses (handled by IT) 1,400
+IAPro (Internal Affairs Record Maintenance) (handled by IT) 1,500
+Innovative Solutions (PowerDMS) (handled by IT) 7,400
+Insight Public Sector-Panasonic Arbitrator Maintenance (handled by IT) 3,300
+IVE (1 license) (handled by IT) 2,500
+JivaSoft (PD Detail Software) (handled by IT) 2,300
+Legal - Lexus Nexis/Legal Admin. (handled by IT) 1,200
+Lexis-Nexis CopLogic DORS (PD online citizen's report) (handled by IT) 9,400
+On Q (Evidence) (handled by IT) 4,900
+On Q File (Quartermaster) (handled by IT) 2,500
+Patctech Oxygen (Forensic Analysis) (handled by IT) 8,700
+Safran MorphoTrak (AFIS Latent Fingerprint System) (handled by IT) 18,450
+When To Work (handled by IT) 330
+Whooster Realtime Analytics Subscription (handled by IT) 2,520
+IItems shared with Fire Department
+ADP Maintenance-Special Duty Custom (shared w/Fire) 600
+Hexagon CAD BI License Maintenance (shared w/Fire) 2,775
+Hexagon CAD/RMS Maintenance (shared w/Fire) 90,412
+NetMotion (shared w/Fire) 13,750
+384,171
+521-4701 Printing and binding
+SSD - Printing & Binding for CALEA 6,000
+SSD- (15) Florida State Statute Books 3,200
+9,200
+521-4803 Advertising
+GSD - Property Room advertising
+521-4808 Community relations
+"Plantation Helping Hands" is a City volunteer program that assists eligible residents whose homes require
+maintenance and/or repair. This program concentrates on helping community members who do not have the
+financial means to correct code violations or maintain the aesthetics of their home. The work is performed by
+volunteers who assist with simple tasks such as trash removal, yard wok, limited exterior repairs, and other
+needs outside the home. GRADE, Job Fair.
+CE - Plantation Helping Hands Program 25,000
+CID - G.R.A.D.E Curriculum 1,411
+CID - G.R.A.D.E Custom Medallions 565
+CID - G.R.A.D.E Folders 990
+CID - G.R.A.D.E T-Shirts 665
+SSD - 100 Water Bottles #5891 20 oz. 880
+SSD - Coloring Books 554
+SSD - Department Outreach 2,500
+SSD - Job Fair Fees and Recruiting Supplies 2,405
+SSD - Misc. Community Relation Items 850
+35,820
+FFY2021 Adopted Budget
+
+--- PAGE 214 ---
+203
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+GGENERAL FUND
+PPOLICE
+FY2021 - Foot Notes
+521-5101 Supplies-Office
+GSD miscellaneous office supplies. Includes film and photo processing.
+521-5201 Tools/Under threshold furn/equip
+Crime Scene Unit - Nikon Camera Lens 18mm-140mm 1,988
+Crime Scene Unit - Nikon External Flashes 1,961
+Crime Scene Unit - Nikon External Flashes 1,962
+Crime Scene Unit - Nikon Sync Cords 450
+Equipment 10,712
+GSD - Mobile Thermal Printers 5,000
+GSD - Police Lightbars 2,000
+PD - UPS Power Supply - Desks (15 quantity) 1,500
+Road Patrol - Glock Pistols (New Hires) 5,000
+Road Patrol - Stop Stick Kit 6,000
+Road Patrol - Tactical Entry Kit 570
+SSD/Training - Sight Tool 150
+VIN/CID - BD-R DL 50GB printable discs 3,345
+40,638
+521-5202 Supplies/Materials-Expendable
+Bike Unit - Various supplies for maintenance of PD bikes 980
+GSD - Taser cartridges, Taser batteries, Taser X-2 accessories for new units and supplies 30,000
+ID Unit - Yearly needed supplies 12,000
+Property and Evidence - Yearly needed supplies 5,176
+Road Patrol - Emergency Bandage 1,228
+Road Patrol - Targets 500
+Special Ops and SWAT - Training ammunition and various supplies 25,100
+SSD - Awards and Plaques 4,100
+SSD/Training - Ammunition and supplies for training 45,000
+Traffic Unit - Various supplies for traffic operations and DUI's 2,100
+126,184
+521-5205 Supplies-Uniforms/Protective gear
+Duty Gear 15,000
+Protective gear (vests, ballistic helmets, motor unit helmets, gas masks, etc.) 87,000
+Uniforms 48,000
+150,000
+521-5210 Supplies/maintenance K-9 unit
+K-9 memberships, supplies and veterinarian services
+521-5403 Memberships/Schools
+Admin - Broward County Chief's Association (All Admin, Legal Advisor & Assistant Legal Advisor) 3,625
+Admin - FBI LEEDA (Captain Council and Schlegel) 100
+Admin - FBINAA (Chief & Deputy Chiefs) 350
+Admin - Florida Police Chief's Assn (Chief, Deputy Chiefs and Legal Advisor) 674
+Admin - International Association Of Chief's Of Police (Chief and Deputy Chiefs) 770
+CID - FCIAA / IACA (Crime Analysis) 80
+CID - IAI Certification (ID Unit) 3,150
+CID - IAI Membership (ID Unit) 840
+CID - IALEP (Crime Analysis) 50
+CID - International Assoc. of Law Enforcement Intell. Analysts (IALEIA) - Crime Analysis 50
+CID - International Association For Identification (All I.D. Personnel) 840
+CID - Learning For Life Explorer Post 347 Chapter 104
+CID - National Association of Bunco Investigator (Schaut and Hernandez) 150
+CID - Software Licenses (ID Unit) 693
+GSD - APCO (Communications) 100
+GSD - IAPE Membership (Property Unit) 500
+FFY2021 Adopted Budget
+
+--- PAGE 215 ---
+204
+(cid:37)(cid:37)(cid:43)(cid:54)(cid:59)(cid:2)(cid:49)(cid:40)(cid:2)(cid:50)(cid:46)(cid:35)(cid:48)(cid:54)(cid:35)(cid:54)(cid:43)(cid:49)(cid:48)
+GGENERAL FUND
+PPOLICE
+FY2021 - Foot Notes
+521-5403 Memberships/Schools
+GSD - International Association For Property & Evidence (All Property Personnel & Captain) 125
+GSD - NENA (Communications Manager) 140
+GSD - PSCASN Annual Membership (Communications) 50
+Internal Affairs - FIAIA Membership 30
+Internal Affairs - IAPE Membership 50
+Internal Affairs - PEAF Annual Membership 25
+K-9 - EOD Detection Seminar & Certificates 740
+K-9 - Florida Law Enforcement Canine Association (FLECA K-9) 300
+K-9 - National Police Canine Association (NPCA K-9) 250
+Legal - CLE Courses (Continuing Legal Education to keep license current) 600
+Legal - Florida Association Of Police Attorney's (FAPA) 50
+Legal - Florida Bar Association Dues (State Bar) 530
+Legal - Florida Law Weekly (Legal Research Database) 390
+Notary and Renewals (CID; GSD; I/A Legal and Records) 650
+Patrol - Child Passenger Safety Technician Cert / Re-cert. 100
+Patrol - Florida Association of Hostage Negotiators (FAHN) 300
+Patrol - IPMBA Maintenance Officer Cert. 575
+SSD - CALEA Communications Annual Continuation Fee 3,695
+SSD - CALEA Continuation Fee 5,580
+SSD - CFA Continuation Fee 750
+SSD - Florida Association Of Code Enforcement (F.A.C.E) 500
+SSD - Florida Crime Prevention Assn 50
+SSD - Florida Police Accreditation Coalition (FLA-PAC) 175
+SSD - IALEP (Accreditation/Grant Manager) 50
+SSD - Nat. Assoc. Of Computer Voice Stress Analysts-NACVSA 475
+SSD - Plantation Women's Club 40
+SSD - Professional Association (IALEFI) 110
+SSD - South Florida Background Investigators Assoc. 125
+SSD - Southeast Florida Crime Prevention Association 100
+SWAT - Rappel/Tower Use At Coral Springs 325
+SWAT - Snipers Range Rental For 2 Nights 710
+SWAT - Snipers Range Vouchers 1,560
+SWAT / Special Ops - SWAT Training 7,500
+SWAT/ Special Operations - NTOA Membership 50
+38,776
+521-5404 Personnel Training-Non 2nd dollar
+CID - G.R.A.D.E Curriculum 2,050
+SSD - Personnel Training 98,500
+100,550
+521-5405 Personnel Training-2nd dollar
+CRT - F.A.H.N Conference Registration 550
+GSD - International Association Of Property & Evidence Class (All Property Personnel) 2,475
+SSD - 2nd $ (other) 68,025
+71,050
+FFY2021 Adopted Budget
+
+--- PAGE 216 ---
+205
+CITY OF PLANTATION
+FIRE
+Mission Statement
+It is the mission of the Plantation Fire Department to protect the lives and property of the citizens of Plantation
+with the highest levels of knowledge and skill in the spirit of “neighbor helping neighbor” upon which the Fire
+Department was founded, while recognizing our fiscal responsibility to the community.
+Department Description
+The Plantation Fire Department has been serving the citizens of Plantation since its inception in 1957 as an
+all-volunteer fire department. In 1996 the Department added an Emergency Medical Services Division in order
+to provide the citizens with improved emergency medical care. Today the Plantation Fire Department is the
+largest combination fire department in Florida with an insurance rating of two (2). It is a multi-faceted
+community service agency providing a variety of services including fire suppression, emergency medical
+services, fire and life safety, fleet & facility maintenance, public outreach, and emergency management.
+The major responsibilities and services provided include:
+Administration
+Fire suppression
+Training
+Fire and Life Safety
+Fleet and Facility Maintenance
+Public Affairs
+Emergency Management
+FY2020 Accomplishments:
+Initiate Strategic Plan
+Update Policies & Guidelines
+Begin Station 1 construction
+Complete Station 5 construction
+Complete Station 6 improvements
+Introduce new RMS System (ESO)
+Update CEMP to include No-notice events and Pandemic Response
+Update COOP plan
+Introduce City-wide Podcast
+Update museum
+Upgrade ventilation and extrication equipment
+FY2021 Adopted Budget
+
+--- PAGE 217 ---
+206
+CITY OF PLANTATION
+FIRE
+Provide sanitizing mechanism for City buildings
+Organize CERT Team
+Part-Time Pub Ed coordinator
+Birthday caravans
+Place response golf cart in service
+Upgrade Thermal Imagers
+Extractors (Bunker Gear cleaners) for Stations 2, 3, 4, and 5
+Budget Highlights
+FY2021 Budget Changes:
+Bring new CAD system online to replace outdated system
+Station 4 renovations
+Replace Station 6 ceiling lights with LEDs
+Purchase and install dash cameras for response vehicles
+Purchase Public Affairs Fire Safety House
+Add additional battery-operated fans
+Repave parking lots at St 3, 5, & 6
+FY2021 Goals:
+Complete Station 1 construction
+Begin Station 2 renovations
+Anti-slip floors at Stations 2 & 5
+Replace Station 3 generator
+Add additional Extrication Equipment
+Begin Training Center redevelopment
+Initiate Cadet Corps
+Staffing changes in Prevention
+Staff tablets
+Purchase and bring online, new CAD system
+Implementation of new RMS system
+Upgrade Cummings diagnostic software
+Repave Station parking lots as indicated above
+Battery operated fans on all 1st due engines
+FY2021 Adopted Budget
+
+--- PAGE 218 ---
+207
+CITY OF PLANTATION
+GENERAL FUND
+FIRE
+MAYOR
+Fire Chief
+Deputy Chief Deputy Chief
+EMS Division
+Chief
+Battalion Chief Fire Services Fire Logistics (1)
+Public Affairs Manager Manager
+Battalion Chief Garage Fire Rescue
+Administrative Administrative Training Supervisor Battalion Chief
+Assistant I Assistant I (1)
+Fire Rescue
+Administrative Purchasing Fire Training Maintenance Battalion Chief
+Assistant III Assistant Lieutenant Crewleader (1)
+Fire Rescue
+Office Battalion Chief Maintenance Battalion Chief
+Assistant P/T Fire Worker I (1)
+Prevention
+Fire Rescue
+Fire Captain Fire& Life Mechanic III Battalion Chief
+(1)
+Plan Examiner Safety Officer
+Mechanic III
+Fire &Life Fire& Life
+Safety Officer Safety Officer
+Mechanic I
+(1) Budgeted under Fire Rescue Department
+FY2021 Adopted Budget
+
+================================================================================
+TASK 4: FY2022 ADOPTED BUDGET - VIGILANT ALPR LINE ITEM (Pages 274-284)
+================================================================================
+
+
+--- PAGE 274 ---
+GGENERAL FUND
+FFY 2021- 2022
+PPOLICE
+MMACHINERY AND EQUIPMENT
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2022 2 $ 6,000 $ 12,000
+FY2023 0 $ - $ -
+(2) HD In-car DUI cameras FY2024 0 $ - $ -
+FY2025 0 $ - $ -
+FY2026 0 $ - $ -
+Need, Justification, Benefit
+New HD in-car cameras are needed for two police units , currently we have only one which is 10 years old . DUI camera footage aids in criminal
+prosecution of offenders.
+Operating impact
+Allows for the capturing of impaired vehicle operations and road side sobriety exercises
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2022 0 $ - $ -
+FY2023 5 $ 5,500 $ 27,500
+Motorola Portable Police Radios-Encrypted FY2024 5 $ 5,500 $ 27,500
+FY2025 5 $ 5,500 $ 27,500
+FY2026 5 $ 5,500 $ 27,500
+Need, Justification, Benefit
+Increase in man power and specialized units that require encrypted radios for officers safety.
+Operating impact
+No operating impact
+263
+
+--- PAGE 275 ---
+GGENERAL FUND
+FFY 2021- 2022
+PPOLICE
+MMACHINERY AND EQUIPMENT
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2022 0 $ - $ -
+FY2023 1 $ 21,500 $ 21,500
+Belgian Malinois KNPV titled K-9 / Extensive Vet Check FY2024 1 $ 23,000 $ 23,000
+FY2025 1 $ 24,500 $ 24,500
+FY2026 0 $ - $ -
+Need, Justification, Benefit
+Replacement of aging K-9.
+Operating impact
+Extensive Vet Service
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2022 0 $ - $ -
+FY2023 4 $ 2,400 $ 9,600
+(4) Stalker radar/laser - 2 Handheld, 2 Stationary FY2024 4 $ 2,500 $ 10,000
+FY2025 4 $ 2,600 $ 10,400
+FY2026 0 $ - $ -
+Need, Justification, Benefit
+Speed measuring devices. Replace 15+ years old devices
+Operating impact
+No operating impact
+264
+
+--- PAGE 276 ---
+GGENERAL FUND
+FFY 2021- 2022
+PPOLICE
+MMACHINERY AND EQUIPMENT
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2022 0 $ - $ -
+FY2023 0 $ - $ -
+Ford Interceptor SUV -K-9 Unit. Includes emergency equipment included
+FY2024 1 $ 59,000 $ 59,000
+(lights, dog cage, heat alarm, etc.) Tag and vehicle registration cost.
+FY2025 1 $ 60,000 $ 60,000
+FY2026 1 $ 61,000 $ 61,000
+Need, Justification, Benefit
+Replace aging unit that is 7 years old. Very high running time/idle hours due to K-9 in vehicle.
+Operating impact
+Reduce costs related to repairs and maintenance.
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2022 0 $ - $ -
+FY2023 10 $ 5,500 $ 55,000
+SWAT protective vests FY2024 10 $ 6,000 $ 60,000
+FY2025 0 $ - $ -
+FY2026 10 $ 6,500 $ 65,000
+Need, Justification, Benefit
+Replace worn/outdated SWAT vests.
+Operating impact
+No operating impact
+265
+
+--- PAGE 277 ---
+GGENERAL FUND
+FFY 2021- 2022
+PPOLICE
+MMACHINERY AND EQUIPMENT
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2022 0 $ - $ -
+FY2023 2 $ 32,000 $ 64,000
+Police Administrative vehicles / Dodge Chargers with emergency light
+FY2024 2 $ 33,000 $ 66,000
+package included. Tag and vehicle registration cost.
+FY2025 2 $ 34,000 $ 68,000
+FY2026 2 $ 35,000 $ 70,000
+Need, Justification, Benefit
+Replace vehicles of the administrative personnel that are 8 to 11 years old with high mileage.
+Operating impact
+Reduce costs related to repairs and maintenance.
+266
+
+--- PAGE 278 ---
+GGENERAL FUND
+FFY2021 - 2022
+PPOLICE
+Foot Notes
+521-3102 Consultants
+GSD - Consultants 32,000
+GSD - WHH Solutions, LLC 201,600
+233,600
+521-3109 Special services testing
+Assessment center testing for promotions.
+521-3402 Outside service fees
+Private contract for School Crossing Guards (Traffic Unit), Range Rental Fees, Cannabis Field testing lab and
+Service fees for subpoenas.
+521-3405 Parking fine billing services
+Paid to Broward County to process parking fines.
+521-4101 Postage/printing changes
+This includes postage for the Support Services Division as well as Code Enforcement
+521-4603 R/M Vehicles
+Vehicles repairs and maintenance
+521-4606 R/M-Maintenance contract
+CID - AFR Engine 4,800
+Communications - Critical Environments Group (Annual Services Galaxy 4000 UPS Unit) 7,704
+Communications - P25 Interface Voice Logging System (Replay System) 10,805
+Crime Analyst - Adobe Acrobat Pro and Adobe Photo 3 00
+Crime Analyst Unit - Social Catfish 3 36
+Crime Scene Unit - CSI Pix Maintenance 1 99
+GSD - Access Document Destruction 2,000
+GSD - Copiers 42,000
+GSD - Elevator Repair 4,800
+GSD - Fire Extinguisher Inspections 1,200
+GSD - Healthcare Environmental Services 1,100
+GSD - Outreach Center Rental Westfield Broward Mall 24
+GSD - Paladin Card Swipe System 8,000
+GSD - Security Pro-CCTV System 3,000
+GSD - Tower Inspection 6,000
+GSD - Vehicle Calibrations - Leo's 6,800
+Ops Bureau (Vigilant ALPR / Vetted Security LLC Solutions) 5,300
+Property - Smith Scale 3 80
+Road Patrol - GTS Technology Solutions 4,616
+Road Patrol - PlanIt Scheduling Yearly Subscription 4,470
+SSD - Camtasia Renewal (TechSmith Corporation) 50
+Traffic - Intoxilyzer Repair and Inspection ( Enforcement Electronics) 1,600
+Traffic - Radar/Lasar Calibration (Communications International) 4,600
+Traffic - Radar/Laser Repair (Communications International) 2,200
+CContracts handled by Information Technology Department
+Absolute DDS Premium Education/State & Local Gov't 8,790
+ADP Maintenance-Special Duty Custom 4,800
+AFIS Upgrade and License 19,353
+ArcGIS License Maintenance (ESRI) 1,000
+267
+
+--- PAGE 279 ---
+GGENERAL FUND
+FFY2021 - 2022
+PPOLICE
+Foot Notes
+521-4606 R/M-Maintenance contract
+Contracts handled by Information Technology Department
+AXIOM License Renewal 3,840
+Berla iVe (1 license) 2,885
+Biddle Consulting Criticall (Dispatch pre-employment testin) 2,695
+Callyo Surveillance Systems (Callyo 2009 Corp.) 2,160
+Celebryte (Digital Shield) (PD Forensics) 12,900
+Cellebrite UFED Cloud Analyzer 12,900
+CovertTrack (PD) Mapping Maintenance 2 devices 1,250
+CovertTrack (PD) Mapping Maintenance 3 devices 1,800
+FaceLogics (Facial Composite) 1,900
+Faro THI and Traffic Diagramming (PD) 8,850
+GFI Lan Scanner - 300 licenses 1,657
+HID Global (Altus) (PD) Maintenance 3,800
+HID Global (LiveScan) 4 00
+HID Global (Rapid ID) 4,000
+IAPro (Internal Affairs Record Maintenance) 1,500
+Innovative Solutions (PowerDMS) 7,650
+JivaSoft (PD Detail Software) 2,250
+Lexis Nexis Legal Research Advance 1,260
+Lexis Nexis-Accurant CID 5,160
+Lexis-Nexis CopLogic DORS (PD online citizen's report) (handled by IT) 9,500
+On Q (Evidence) 4,895
+On Q File (Quartermaster) 2,360
+Oxygen Forensics (Forensic Analysis) 8,697
+Safran MorphoTrak (AFIS Latent Fingerprint System) 18,450
+When To Work 3 30
+Whooster Realtime Analytics Subscription 2,591
+Contracts handled by other departments
+GSD - Motorola Service Agreement (handled by Fire) 2,352
+GSD - City Vehicle Scan Tool (handled by Public Works) 4,596
+Contracts shared with Fire Department
+Hexagon CAD BI License Maintenance 2,910
+Hexagon CAD/RMS Maintenance 94,918
+NetMotion 13,125
+399,808
+521-4701 Printing and binding
+SSD - Printing & Binding for CALEA 5,000
+SSD- (15) Florida State Statute Books 3,200
+8,200
+521-4803 Advertising
+GSD - Property Room advertising
+521-5101 Supplies-Office
+GSD miscellaneous office supplies. Includes film and photo processing.
+521-5210 Supplies/maintenance K-9 unit
+K-9 memberships, supplies and veterinarian services
+268
+
+--- PAGE 280 ---
+GGENERAL FUND
+FFY2021 - 2022
+PPOLICE
+Foot Notes
+521-4808 Community relations
+"Plantation Helping Hands" is a City volunteer program that assists eligible residents whose homes require
+maintenance and/or repair. This program concentrates on helping community members who do not have the
+financial means to correct code violations or maintain the aesthetics of their home. The work is performed by
+volunteers who assist with simple tasks such as trash removal, yard wok, limited exterior repairs, and other
+needs outside the home. GRADE, Job Fair.
+CE - Plantation Helping Hands Program 25,000
+CID - G.R.A.D.E Curriculum 1,411
+CID - G.R.A.D.E Custom Medallions 5 65
+CID - G.R.A.D.E Folders 9 90
+CID - G.R.A.D.E T-Shirts 6 65
+SSD - 100 Water Bottles #5891 20 oz. 8 80
+SSD - Coloring Books 5 54
+SSD - Department Outreach 2,500
+SSD - Job Fair Fees and Recruiting Supplies 3,405
+SSD - Misc. Community Relation Items 8 50
+3 6,820
+521-5201 Tools/Under threshold furn/equip
+Equipment 17,073
+GSD - Mobile Thermal Printers 5,000
+GSD - Police Lightbars 2,000
+PD - UPS Power Supply - Desks (15 quantity) 1,500
+Road Patrol - Glock Pistols (New Hires) 5,000
+Road Patrol - Stop Stick Kit 6,000
+Road Patrol - Tactical Entry Kit 5 70
+SSD/Training - Sight Tool 1 50
+VIN/CID - BD-R DL 50GB printable discs 3,345
+4 0,638
+521-5202 Supplies/Materials-Expendable
+Bike Unit - Various supplies for maintenance of PD bikes 9 80
+GSD - Taser cartridges 30,000
+ID Unit - Yearly needed supplies 12,000
+Property and Evidence - Yearly needed supplies 5,176
+Road Patrol - Targets 5 00
+Special Ops and SWAT - Training ammunition and various supplies 25,100
+SSD - Awards and Plaques 4,100
+SSD/Training - Ammunition and supplies for training 45,000
+Traffic Unit - Various supplies for traffic operations and DUI's 2,100
+Road Patrol - Emergency Bandage 1,228
+126,184
+521-5205 Supplies-Uniforms/Protective gear
+Duty Gear 15,000
+Protective gear (vests, ballistic helmets, motor unit helmets, gas masks, etc.) 87,000
+Uniforms 48,000
+150,000
+521-5404 Personnel Training-Non 2nd dollar
+CID - G.R.A.D.E Curriculum 2,050
+SSD - Personnel Training 98,500
+100,550
+269
+
+--- PAGE 281 ---
+GGENERAL FUND
+FFY2021 - 2022
+PPOLICE
+Foot Notes
+521-5403 Memberships/Schools
+Admin - Broward County Chief's Association (All Administration) 3,625
+Admin - FBI LEEDA 1 50
+Admin - FBINAA (Chief & Deputy Chiefs) 3 50
+Admin - Florida Police Chief's Assn (Chief, Deputy Chiefs & Legal Advisor) 6 74
+Admin - International Association Of Chief's Of Police (Chief and Administration) 9 50
+CID - FCIAA / IACA (Crime Analyst) 80
+CID - IAI Certification (ID Unit) 3,150
+CID - IAI Membership (ID Unit) 8 40
+CID - IALEP (Crime Analyst) 50
+CID - International Assoc. of Law Enforcement Intell. Analysts (IALEIA) - Crime Analyst 50
+CID - International Association For Identification (All I.D. Personnel) 8 40
+CID - National Association of Bunco Investigator (Schaut, Schurkman and Hernandez) 2 25
+CID - Software Licenses (ID Unit) 6 93
+GSD - APCO (Communications) 1 00
+GSD - IAPE Membership (Property Unit) 5 00
+GSD - International Association For Property & Evidence (All Property Personnel & Captain) 1 25
+Internal Affairs - FIAIA Membership 30
+Internal Affairs - IAPE Membership 50
+Internal Affairs - PEAF Annual Membership 25
+K-9 - EOD Detection Seminar & Certificates 7 40
+K-9 - Florida Law Enforcement Canine Association (FLECA K-9) 3 00
+K-9 - National Police Canine Association (NPCA K-9) 2 50
+Legal - CLE Courses (Continuing Legal Education to keep license current) 6 00
+Legal - Florida Association Of Police Attorney's (FAPA) 50
+Legal - Florida Bar Association Dues (State Bar) 2 65
+National Association of Women Law Enforcement Executives (J. Ryan) 1 00
+Notary and Renewals (CID; GSD; I/A Legal and Records) 6 50
+Patrol - Association of Threat Assessment Professionals (D. Khaleel) 2 15
+Patrol - Child Passenger Safety Technician Cert / Re-cert. 1 00
+Patrol - Florida Association of Hostage Negotiators (FAHN) 3 00
+Patrol - IPMBA Maintenance Officer Cert. 5 75
+SSD - CALEA Communications Annual Continuation Fee 3,695
+SSD - CALEA Continuation Fee 5,580
+SSD - CFA Continuation Fee 7 50
+SSD - Florida Association Of Code Enforcement (F.A.C.E) 5 00
+SSD - Florida Crime Prevention Assn 50
+SSD - Florida Police Accreditation Coalition (FLA-PAC) 1 75
+SSD - IALEP (Accreditation/Grant Manager) 50
+SSD - Nat. Assoc. Of Computer Voice Stress Analysts-NACVSA 4 75
+SSD - Plantation Women's Club 40
+SSD - Professional Association (IALEFI) 1 10
+SSD - South Florida Background Investigators Assoc. 1 25
+SSD - Southeast Florida Crime Prevention Association 1 00
+SWAT - Rappel/Tower Use At Coral Springs 3 25
+SWAT - Snipers Range Rental For 2 Nights 7 10
+SWAT - Snipers Range Vouchers 1,560
+SWAT / Special Ops - SWAT Training 7,500
+SWAT/ Special Operations - NTOA Membership 50
+3 8,447
+521-5405 Personnel Training-2nd dollar
+CRT - F.A.H.N Conference Registration 5 50
+GSD - International Association Of Property & Evidence Class (All Property Personnel) 2,475
+SSD - 2nd $ (other) 68,025
+7 1,050
+270 (cid:53)(cid:72)(cid:87)(cid:88)(cid:85)(cid:81)(cid:3)(cid:87)(cid:82)(cid:3)(cid:55)(cid:68)(cid:69)(cid:79)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:38)(cid:82)(cid:81)(cid:87)(cid:72)(cid:81)(cid:87)(cid:86)
+
+--- PAGE 282 ---
+FFIRE
+Mission Statement
+It is the mission of the Plantation Fire Department to protect the lives and property of the citizens of
+Plantation with the highest levels of knowledge and skill in the spirit of “neighbor helping neighbor”
+upon which the Fire Department was founded, while recognizing our fiscal responsibility to the
+community.
+Department Description
+The Plantation Fire Department has been serving the citizens of Plantation since its inception in 1957
+as an all-volunteer fire department. In 1996 the Department added an Emergency Medical Services
+Division in order to provide the citizens with improved emergency medical care. Today the Plantation
+Fire Department is the largest combination fire department in Florida with an insurance rating of two
+(2). It is a multi-faceted community service agency providing a variety of services including fire
+suppression, emergency medical services, fire and life safety, fleet & facility maintenance, public
+outreach, and emergency management.
+The major responsibilities and services provided include:
+Administration
+Fire suppression
+Training
+Fire and Life Safety
+Fleet and Facility Maintenance
+Public Affairs
+Emergency Management
+(cid:53)(cid:72)(cid:87)(cid:88)(cid:85)(cid:81)(cid:3)(cid:87)(cid:82)(cid:3)(cid:55)(cid:68)(cid:69)(cid:79)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:38)(cid:82)(cid:81)(cid:87)(cid:72)(cid:81)(cid:87)(cid:86)
+271
+
+--- PAGE 283 ---
+FFIRE
+FY2022 Budget Highlights
+The Fire Department is proposing the addition of one full time and one part-time positions: A
+Fire Captain of Logistics position to oversee all the purchasing needs for the both Fire and
+Rescue Divisions, and a P/T Plans Examiner position to aid with the plan review process.
+In order to increase the operating efficiency in the mechanic bay, the department is proposing
+the purchase of an A/C regeneration. This machine will remove refrigerants from cooling
+equipment according to EPA standards and aid in quicker inhouse repairs
+The Department is proposing the purchase of an Electronic Plan Review Table in order to keep
+up with the Building Departments paperless system.
+The Department is proposing the purchase of an Infrared/Thermal Imaging Drone in order to
+increase the operating efficiency on fire scenes and aid in searching for victims or hidden fires
+from an aerial vantage point.
+272
+
+--- PAGE 284 ---
+GGENERAL FUND
+FFY 2021- 2022
+FFIRE
+FFY2021 Highlights & Accomplishments
+ACCOMPLISHMENTS STRATEGIC PRIORITY
+Quality Customer Service/
+Replaced CAD hardware in all Fire vehicles
+Sustainability
+Established CERT Team
+Created a Strategic Plan
+Quality Customer Service/
+Initiated public access to AED/ Stop the Bleed program for all City Building Sustainability/
+Quality of Life
+Managed COVID response
+Created COVID public information and messaging
+Introduced modern training tools and capabilities Quality Customer Service/
+Economic Opportunity &
+Updated and expand CEMP
+Recovery/
+Enhance Policy and Forms management- Compliance Bridge Quality of Life
+Ensured NIMS training requirements for all EOC staff
+Improved vehicle maintenance capabilities Quality Customer Service/
+Replaced Gas powered equipment with battery power Quality of Life
+Introduced new Health & Safety initiatives
+FFY2022 Goals
+DEPARTMENTAL GOALS STRATEGIC PRIORITY
+Secure engine to service Midtown District
+Maintain ISO rating
+Continue to upgrade equipment and technology
+Quality Customer Service/
+Continually improve Health & Safety surveillance and reporting
+Sustainability/
+Reduce incidence of false fire alarms Quality of Life
+Begin development of new Training Center
+Reestablish aggressive recruitment activities
+Complete Bond projects
+Replace aged CAD system software
+Replace aged Records Management System- ESO Quality Customer Service/
+Improve radio communications in commercial buildings Sustainability
+Identify and address tone alerting issues
+273
+
+================================================================================
+TASK 5: FY2023 ADOPTED BUDGET - VIGILANT ALPR LINE ITEM (Pages 260-270)
+================================================================================
+
+
+--- PAGE 260 ---
+GENERAL FUND
+FY 2022 - 2023
+POLICE
+MACHINERY AND EQUIPMENT
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2023 4 $ 42,500 $ 170,000
+Ford Transit vehicles, to be issued as ID Units. Includes emergency light FY2024 0 $ - $ -
+package / Decals / window tinting / computer mounts etc. tag and FY2025 2 $ 43,000 $ 86,000
+vehicle registration cost. FY2026 2 $ 43,000 $ 86,000
+FY2027 0 $ - $ -
+Need, Justification, Benefit
+Replace aging units that are 11+ years old and high in mileage.
+Operating impact
+Reduce costs related to repairs and maintenance.
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2023 3 $ 40,000 $ 120,000
+FY2024 0 $ - $ -
+Ford F-150 or equivalent model-Unmarked units for SCU. Emergency
+FY2025 1 $ 42,000 $ 42,000
+lights included. Tag and vehicle registration cost.
+FY2026 1 $ 42,000 $ 42,000
+FY2027 0 $ - $ -
+Need, Justification, Benefit
+Replace aging units that are over 10 years old and high in mileage
+Operating impact
+Reduce costs related to repairs and maintenance.
+249
+
+--- PAGE 261 ---
+GENERAL FUND
+FY 2022 - 2023
+POLICE
+MACHINERY AND EQUIPMENT
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2023 5 $ 5,500 $ 27,500
+FY2024 5 $ 5,500 $ 27,500
+Motorola Portable Police Radios-Encrypted FY2025 5 $ 6,000 $ 30,000
+FY2026 5 $ 6,000 $ 30,000
+FY2027 5 $ 6,000 $ 30,000
+Need, Justification, Benefit
+Increase in man power and specialized units that require encrypted radios for officers safety.
+Operating impact
+No operating impact
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2023 1 $ 60,000 $ 60,000
+FY2024 1 $ 62,000 $ 62,000
+Ford Interceptor SUV -K-9 Unit. Includes emergency equipment included
+FY2025 1 $ 62,000 $ 62,000
+(lights, dog cage, heat alarm, etc.) Tag and vehicle registration cost.
+FY2026 1 $ 62,000 $ 62,000
+FY2027 0 $ - $ -
+Need, Justification, Benefit
+Replace unit 1824 destroyed in a crash.
+Operating impact
+250
+
+--- PAGE 262 ---
+GENERAL FUND
+FY 2022 - 2023
+POLICE
+MACHINERY AND EQUIPMENT
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2023 5 $ 35,000 $ 175,000
+FY2024 7 $ 36,000 $ 252,000
+Unmarked police vehicles for specialized units / Administrative positions FY2025 7 $ 37,000 $ 259,000
+FY2026 7 $ 38,000 $ 266,000
+FY2027 7 $ 39,000 $ 273,000
+Need, Justification, Benefit
+These vehicles will replace aging units over ten years old
+Operating impact
+Reduction of maintenance costs and repairs
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2023 5 $ 7,000 $ 35,000
+FY2024 5 $ 7,500 $ 37,500
+In vehicle camera system for police units FY2025 5 $ 7,500 $ 37,500
+FY2026 5 $ 8,000 $ 40,000
+FY2027 5 $ 8,000 $ 40,000
+Need, Justification, Benefit
+Law enforcement tool for capturing evidence, additional benefits include greater community transparency and officer accountability.
+Operating impact
+251
+
+--- PAGE 263 ---
+GENERAL FUND
+FY 2022 - 2023
+POLICE
+MACHINERY AND EQUIPMENT
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2023 1 $ 32,500 $ 32,500
+FY2024 0 $ - $ -
+New HD digital camera system for the Police Gun Range and rear Police
+FY2025 0 $ - $ -
+parking lot.
+FY2026 0 $ - $ -
+FY2027 0 $ - $ -
+Need, Justification, Benefit
+Camera system for both inside of the Police Gun Range and also the rear PD parking lot to increase security and monitor activity.
+Operating impact
+Fund/Department: Police Funding Source: General Fund
+Strategic Priorities
+Economic Opportunity &
+Quality Customer Service Sustainability Quality of Life
+Recovery
+Item Description: Fiscal Year Quantity Unit Price Total
+FY2023 0 $ - $ -
+FY2024 1 $ 300,000 $ 300,000
+New RMS/CAD System FY2025 1 $ 300,000 $ 300,000
+FY2026 1 $ 300,000 $ 300,000
+FY2027 1 $ 300,000 $ 300,000
+Need, Justification, Benefit
+The current RMS/CAD system needs replacement. The current RMS is I/Leads and is no longer supported or updated, nor it is compatible with the
+new NIBRS and FIBRS reporting system. Bids are currently being solicited. RMS and CAD are mission critical to the function of the Police, Fire &
+Fire/Rescue Departments.
+Operating impact
+Estimated cost of $2.5 million over a 5 year term. Expenditure to be split between Police (60%), Fire (20%) and Rescue (20%)
+252
+
+--- PAGE 264 ---
+GENERAL FUND
+FY 2022 - 2023
+POLICE
+Foot Notes
+521-3102 Consultants
+GSD - Consultants 32,000
+GSD - WHH Solutions, LLC 201,600
+233,600
+521-3109 Special services testing
+Assessment center testing for promotions.
+521-3402 Outside service fees
+Private contract for School Crossing Guards (Traffic Unit), Cannabis Field testing lab, Outreach Center electricity
+cost, and Service fees for subpoenas.
+521-3405 Parking fine billing services
+Payment to Broward County to process parking fines.
+521-4101 Postage/printing changes
+This includes postage for the Support Services Division as well as Code Enforcement
+521-4603 R/M Vehicles
+Vehicles repairs and maintenance
+521-4606 R/M-Maintenance contract
+CID - AFR Engine 4,800
+Communications - Critical Environments Group (Annual Services Galaxy 4000 UPS Unit) 7,704
+Communications - P25 Interface Voice Logging System (Replay System) 10,805
+Crime Analyst - Adobe Acrobat Pro and Adobe Photo 300
+Crime Analyst Unit - Social Catfish 660
+Crime Scene Unit - CSI Pix Maintenance 219
+Extended warranty 160 laptops 14,100
+GSD - Access Document Destruction 2,000
+GSD - Copiers 42,000
+GSD - Elevator Repair 4,800
+GSD - Fire Extinguisher Inspections 1,200
+GSD - Healthcare Environmental Services 1,100
+GSD - Outreach Center Rental Westfield Broward Mall 24
+GSD - Paladin Card Swipe System 8,000
+GSD - Security Pro-CCTV System 3,000
+GSD - Tower Inspection 6,000
+GSD - Vehicle Calibrations - Leo's 6,800
+Ops Bureau (Vigilant ALPR / Vetted Security LLC Solutions) 5,300
+Payments Module (GovQA) 3,200
+Property - Smith Scale 380
+Road Patrol - PlanIt Scheduling Yearly Subscription 6,920
+SSD - Adobe Creative Cloud/Adobe Acrobat Pro (Accreditation Manager) 689
+SSD - Camtasia Renewal (TechSmith Corporation) 50
+Traffic - Intoxilyzer Repair and Inspection ( Enforcement Electronics) 1,600
+Traffic - Radar/Laser Calibration (Communications International) 4,600
+Traffic - Radar/Laser Repair (Communications International) 2,200
+Contracts handled by Information Technology Department
+Absolute DDS Premium Education/State & Local Gov't 5,000
+ADP Maintenance-Special Duty Custom 4,800
+AFIS Upgrade and License (Idemia) 20,321
+ArcGIS License Maintenance (ESRI) 2,276
+253
+
+--- PAGE 265 ---
+GENERAL FUND
+FY 2022 - 2023
+POLICE
+Foot Notes
+521-4606 R/M-Maintenance contract
+Contracts handled by Information Technology Department
+AXIOM License Renewal 4,050
+Berla iVe (1 license) 3,200
+Biddle Consulting Criticall (Dispatch pre-employment testing) 2,800
+Callyo Surveillance Systems (Callyo 2009 Corp.) 2,500
+Celebryte (Digital Shield) (PD Forensics) 13,000
+Cellebryte UFED Cloud Analyzer 9,600
+CovertTrack (PD) Mapping Maintenance 2 devices 1,200
+CovertTrack (PD) Mapping Maintenance 3 devices 1,800
+FaceLogics (Facial Composite) 1,000
+Faro THI and Traffic Diagramming (PD) 8,900
+GFI Lan Scanner - 300 licenses 3,400
+HID Global (Altus) (PD) Maintenance 3,950
+HID Global (LiveScan) 500
+HID Global (Rapid ID) 4,000
+IAPro / Blue Team (Internal Affairs Record Maintenance) 3,400
+Innovative Solutions (PowerDMS) 10,590
+JivaSoft (PD Detail Software) 2,500
+Lexis Nexis-Accurant CID 5,400
+Lexis-Nexis CopLogic DORS (PD online citizen's report) (handled by IT) 10,146
+On Q (Evidence) 5,000
+On Q File (Quartermaster) 2,450
+Oxygen Forensics (Forensic Analysis) 9,000
+When To Work 330
+Whooster Realtime Analytics Subscription 4,100
+Contracts handled by other departments
+GSD - City Vehicle Scan Tool (handled by Public Works) 4,596
+GSD - Motorola Service Agreement (handled by Fire) 2,352
+Contracts shared with Fire Department
+Hexagon CAD BI License Maintenance 3,056
+Hexagon CAD/RMS Maintenance 99,672
+NetMotion 15,075
+408,415
+521-4701 Printing and binding
+SSD - Printing & Binding for CALEA 5,000
+SSD- (15) Florida State Statute Books 3,200
+8,200
+521-4803 Advertising
+GSD - Property Room advertising
+521-5101 Supplies-Office
+GSD miscellaneous office supplies. Includes film and photo processing.
+254
+
+--- PAGE 266 ---
+GENERAL FUND
+FY 2022 - 2023
+POLICE
+Foot Notes
+521-4808 Community relations
+"Plantation Helping Hands" is a City volunteer program that assists eligible residents whose homes require
+maintenance and/or repair. This program concentrates on helping community members who do not have the
+financial means to correct code violations or maintain the aesthetics of their home. The work is performed by
+volunteers who assist with simple tasks such as trash removal, yard wok, limited exterior repairs, and other
+needs outside the home. GRADE, Job Fairs and the Community Engagement Unit.
+CE - Plantation Helping Hands Program 25,000
+CID - G.R.A.D.E 4,000
+Road Patrol - Community Engagement Unit 4,000
+SSD - Training 4,000
+37,000
+521-5201 Tools/Under threshold furn/equip
+CID/ ID Unit Metal Detectors 630
+Equipment 17,135
+GSD - Various equipment 8,500
+Purchase of 160 leased laptops 19,300
+Road Patrol - Various equipment 11,570
+SSD/Training - Sight Tool 150
+Taser Guns/Less Lethal 40,000
+VIN/CID - BD-R DL 50GB printable discs 3,345
+100,630
+521-5202 Supplies/Materials-Expendable
+GSD - Yearly needed supplies 30,000
+ID Unit - Yearly needed supplies 17,000
+Property and Evidence - Yearly needed supplies 5,176
+Road Patrol - Yearly needed supplies 2,708
+Special Ops and SWAT - Training ammunition and various supplies 30,000
+SSD - Awards, Plaques, ammunition and supplies for training 50,000
+Traffic Unit - Various supplies for traffic operations and DUI's 3,075
+137,959
+521-5205 Supplies-Uniforms/Protective gear
+Duty Gear 15,000
+Protective gear (Bulletproof vests) 112,183
+Uniforms 48,000
+175,183
+521-5210 Supplies-Maintenance-K-9 unit
+Dog food and supplies 2,760
+Equipment for K-9 Officers and Handlers 2,940
+Veterinary services 10,000
+15,700
+521-5404 Personnel Training-Non 2nd dollar
+CID - G.R.A.D.E Curriculum 2,050
+SSD - Personnel Training 98,500
+100,550
+255
+
+--- PAGE 267 ---
+GENERAL FUND
+FY 2022 - 2023
+POLICE
+Foot Notes
+521-5405 Personnel Training-2nd dollar
+CRT - F.A.H.N Conference Registration 550
+GSD - International Association Of Property & Evidence Class (All Property Personnel) 2,475
+SSD - 2nd $ (other) 78,025
+81,050
+521-5403 Memberships/Schools
+Admin - Broward County Chief's Association (All Administration) 3,625
+Admin - FBI LEEDA 250
+Admin - FBINAA (Chief & Deputy Chiefs) 350
+Admin - Florida Police Chief's Assn (Chief, Deputy Chiefs & Legal Advisor) 674
+Admin - International Association Of Chief's Of Police (Chief and Administration) 950
+CID - FCIAA / IACA (Crime Analyst Unit) 80
+CID - IAI Certification (ID Unit) 3,150
+CID - IAI/FDIAI Membership (ID Unit) 1,120
+CID - IALEP (Research and Planning Specialist) 50
+CID - National Association of Bunco Investigator (Schaut, Schurkman and Hernandez) 225
+CID - Software Licenses (ID Unit) 693
+GSD - APCO (Communications) 100
+GSD - IAPE Membership (Property Unit) 500
+GSD - International Association For Property & Evidence (All Property Personnel & Captain) 125
+Internal Affairs - FIAIA Membership 30
+Internal Affairs - IAPE Membership 50
+Internal Affairs - PEAF Annual Membership 25
+K-9 - EOD Detection Seminar & Certificates 740
+K-9 - Florida Law Enforcement Canine Association (FLECA K-9) 300
+K-9 - National Police Canine Association (NPCA K-9) 250
+National Association of Women Law Enforcement Executives (J. Ryan) 100
+Notary and Renewals (CID; GSD; I/A Legal and Records) 650
+Patrol - Association of Threat Assessment Professionals (D. Khaleel) 215
+Patrol - Child Passenger Safety Technician Cert / Re-cert. 100
+Patrol - Florida Association of Hostage Negotiators (FAHN) 300
+Patrol - IPMBA Maintenance Officer Cert. 575
+SSD - CALEA Communications Annual Continuation Fee 3,695
+SSD - CALEA Continuation Fee 5,580
+SSD - CFA Continuation Fee 750
+SSD - Florida Association Of Code Enforcement (F.A.C.E) 500
+SSD - Florida Crime Prevention Assn 50
+SSD - Florida Police Accreditation Coalition (FLA-PAC) 175
+SSD - IALEP (Accreditation/Grant Manager) 50
+SSD - Nat. Assoc. Of Computer Voice Stress Analysts-NACVSA 2,475
+SSD - Plantation Women's Club 40
+SSD - Professional Association (IALEFI) 110
+SSD - South Florida Background Investigators Assoc. 125
+SSD - Southeast Florida Crime Prevention Association 100
+SWAT - Rappel/Tower Use At Coral Springs 675
+SWAT - Snipers Range Rental For 2 Nights 710
+SWAT - Snipers Range Vouchers 1,560
+SWAT / Special Ops - SWAT Training 7,500
+SWAT/ Special Operations - NTOA Membership 50
+39,372
+Return to Table of Contents
+256
+
+--- PAGE 268 ---
+FIRE
+Mission Statement
+It is the mission of the Plantation Fire Department to protect the lives and property of the citizens of
+Plantation with the highest levels of knowledge and skill in the spirit of “neighbor helping neighbor”
+upon which the Fire Department was founded, while recognizing our fiscal responsibility to the
+community.
+Department Description
+The Plantation Fire Department has been serving the citizens of Plantation since its inception in 1957
+as an all-volunteer fire department. In 1996 the Department added an Emergency Medical Services
+Division in order to provide the citizens with improved emergency medical care. Today the Plantation
+Fire Department is the largest combination fire department in Florida with an insurance rating of two
+(2). It is a multi-faceted community service agency providing a variety of services including fire
+suppression, emergency medical services, fire and life safety, fleet & facility maintenance, public
+outreach and emergency management.
+The major responsibilities and services provided include:
+Administration.
+Fire suppression.
+Training.
+Fire and Life Safety.
+Fleet and Facility Maintenance.
+Public Affairs.
+Emergency Management.
+Return to Table of Contents
+257
+
+--- PAGE 269 ---
+FIRE
+FY2023 Budget Highlights
+Secure engine to service the Midtown District of the City.
+Establish an Explorer Program for ages 14–18-year-old.
+Continually improve Health & Safety surveillance and reporting.
+Review grants or other forms of funding to develop a new Training Center.
+Reestablish aggressive recruitment activities for Volunteer Firefighters.
+Complete Bond projects- Station 2.
+Finish up parking lot projects at all the Stations.
+Complete paperless conversion in alignment with the plan review process.
+Identify and address tone alerting issues.
+The Fire Department is requesting the addition of three (3) full-time positions and deletion of
+one (1) part-time:
+ The addition of one (1) Mechanic I full-time position will allow for the Fleet Maintenance
+Division to redistribute priorities and place emphasis on all aspects of fleet maintenance
+not just daily repairs. This position will allow the Garage Supervisor to focus on other
+pressing priorities in the division.
+ The addition of one (1) Data and Grant Analyst full-time position will allow the Fire
+Department to become more competitive in seeking out available grant resources.
+ The addition of one (1) Fire Captain full-time position instead of one (1) Plans Examiner
+part-time position. This position will alleviate some duties from the Fire Marshall and
+allow him to focus on the administrative side of the division. The Fire Captain will oversee
+the Fire and Life Safety Officers along with plan reviewing and other duties the Fire
+Marshall may assign.
+258
+
+--- PAGE 270 ---
+GENERAL FUND
+FY 2022 - 2023
+FIRE
+FY2022 Highlights & Accomplishments
+ACCOMPLISHMENTS STRATEGIC PRIORITY
+Quality Customer Service/
+Replaced CAD software.
+Sustainability
+Continue replacing gas powered equipment with battery power.
+Completion of Fire Station 1.
+Awarded Firehouse Subs Grant for Polaris
+Quality Customer Service/
+Finished Strategic Plan
+Quality of Life
+Replaced all Lighting in Stations to LED.
+Replaced generator at Fire Station 3.
+Upgraded all media connections in Big Meeting room.
+Replaced aged Records Management System- ESO. Quality Customer Service/
+Economic Opportunity &
+Improved radio communications in commercial buildings.
+Recovery/
+Completed addition to Fire Station 5. Quality of Life
+FY2023 Goals
+DEPARTMENTAL GOALS STRATEGIC PRIORITY
+Secure engine to service Midtown District.
+Explorer Program 14-18 year old. Quality Customer Service/
+Continuous improvements to Health & Safety surveillance and reporting. Sustainability/
+Quality of Life
+Begin development of new Training Center.
+Reestablish aggressive recruitment activities.
+Complete Bond project- Station 2.
+Complete parking lot repavement project to Station 6.
+Quality Customer Service/
+Finish converting to paperless procedures in alignment with the plan review process.
+Sustainability
+Identify and address tone alerting issues.
+259
+
+================================================================================
+TASK 6: 2021-08-25 COUNCIL AGENDA - $200,000 LPR ALLOCATION
+================================================================================
+
+Total pages in this document: 2143
+
+
+--- PAGE 698 ---
+Qualifications
+committees; Strategic Guidance on Federal Programs
+Years of experience: 25 years of Federal lobbying; 7 years of federal government
+experience at USDOT and USDOL, and USSBA.
+Percentage of time dedicated to the City of Plantation: 10%
+Anthony Bedell is a Senior Corporate and Government Relations Director in Becker's
+Federal Lobbying Practice. His clients include the City of Virginia Beach, America's Small
+Business Development Centers, Virginia Port Authority, Hitachi, Transurban, Signal
+Restoration, Ross & Baruzzini, Gastonia, NC.
+He most recently served as the U.S. Department of Transportation Deputy Assistant
+Secretary for Congressional Affairs, the number two governmental affairs position in
+Secretary Elaine L. Chao's Office. He was initially appointed Deputy Assistant Secretary
+for Intergovernmental and Tribal Affairs in May 2017.
+Anthony helped bring significant transit projects to fruition when he was
+intergovernmental lead at USDOT. There were hundreds of similar projects where he
+played this role, but these are among the most significant and high-profile. As the liaison
+between local government and USDOT officials, Anthony facilitated high-priority projects
+to "yes" by handling everything needed from a policy, political, and strategy perspective
+with stakeholders and decision-makers. He toured all of the proposed local government
+projects. He understands the internal DOT process (no matter who is in the White House)
+and how to effectively present a project that will be well-received by DOT political and
+career staff members. Criteria and process will be the same even if policy parameters
+change. He knows how to pitch DOT by giving them the cover they need politically and
+substantively. Anthony worked with local elected officials and their staff and Congress to
+recommend the Secretary for a final decision.
+Examples include:
+• 2017 Maryland- Maryland Transit Authority $500 million for Purple Line BRT (bus
+rapid transit)
+• 2018 City of Los Angeles- L.A. Metro $1.3 billion Purple Line extension (Olympics)
+• 2018 City of Jacksonville FL.- Jacksonville Transit Authority $25 million BUILD grant
+award for an autonomous vehicle program
+• 2019 New York/New Jersey Transit Authority- Portal North Bridge (Gateway project)
+$250 million (engineering)
+• 2017/2019 City of Columbus OH- Smart Cities program grant $40 million
+46
+
+--- PAGE 699 ---
+Qualifications
+Mr. Bedell was also a Department of Transportation representative for the Northeast
+Corridor Commission tasked with developing a formula to allocate capital and operating
+costs based on usage and facilitating collaborative planning. Prior, he was president of
+government relations firm Red Five Strategies and the director of federal and state
+government affairs for Intuit.
+In addition to U.S. Department of Transportation, Mr. Bedell has additional executive
+branch experience. He was appointed as a senior legislative officer by then-Labor
+Secretary Chao to handle legislative matters for the Department of Labor. He also served
+as associate administrator for the Office of Congressional and Legislative Affairs at the
+U.S. Small Business Administration as chief advisor on Congress and the executive
+branch's legislative matters.
+Projects of a Similar Nature
+ü Virginia Port Authority - Secured $20 million from US Department of
+Transportation (USDOT) for Virginia Port Authority, the largest Port infrastructure
+grant in the country in 2020. After years of trying, VPA achieved success with the
+Becker team's three-dimensional strategy: politics, policy, and impact. Becker also
+used regional economic data and support from a regional coalition of Members
+to make a winning case for the port. In addition, secured $2.1 million in federal
+highway funding and $83 million in New Starts funding in the FY22 budget for a
+total of $107.1 million in only the first contract year.
+ü NETT Council - Anthony was one of only four designees by Secretary Chao's office
+to sit on the Non-Traditional and Emerging Transportation Technology Council
+(NETT). It is an internal deliberative body created by then-Secretary Chao to review
+the latest technology in transportation to identify jurisdictional or regulatory
+obstacles and streamline processes. Through that experience, Anthony is
+knowledgeable about the latest innovations, their champions and detractors, and
+which division within USDOT had lead responsibility. The NETT Council provides
+an opportunity for Plantation to elevate its visibility by showcasing the city as
+thought leaders on mass transit innovation.
+ü Smart Cities Challenge - Anthony assisted with the evaluation of the Smart Cities
+Challenge. He specifically worked with the ultimate winner, the City of Columbus.
+The city was recognized for implementing an integrated plan addressing
+challenges in residential, commercial, freight, and downtown districts using
+several new technologies, including connected infrastructure, electric vehicle
+charging infrastructure, an integrated data platform, autonomous vehicles, and
+more. They are working with others, including Austin, Denver, Kansas City,
+Pittsburgh, Portland, and San Francisco, to share best practices to help other cities
+47
+
+--- PAGE 700 ---
+Qualifications
+across America replicate their successes. Smart Cities is a viable option for the
+City of Plantation with Anthony's insights and guidance.
+48
+
+--- PAGE 701 ---
+Lobbying Experience
+State or Federal Lobbying Experience
+- Provide a list of clients for whom Firm has provided or is currently providing state and
+federal lobbying or consulting services. For each client, please provide the following
+information:
+o Client name
+o Names, titles, address(es) and phone numbers for each client
+o Duration of the relationship
+o Types of services provided
+o Were you, or your Firm, the primary contractor
+- Provide a detailed summary of your knowledge and experience in securing funds for
+public infrastructure or public services through the state or federal appropriation process
+and through discretionary grant programs.
+State Lobbying Experience: ECI
+Clients
+Please see “Attachment A: Client List”
+Knowledge and experience in securing funding (ECI)
+Over the years, we have successfully secured millions of dollars in state funding for
+local appropriations requests for our clients in a budget process that is increasingly
+competitive. The competition for state funding is always intense due to Florida’s
+revenue challenges, and especially after the rollout of a formal Legislative system for
+appropriations. Priorities are often funded in Tallahassee based on politics and
+persistence, rather than merit or need, and regardless of how long a priority has
+waited in the queue. The experience of our team gives us the political insight and
+network needed to strategically move your priorities forward. Being successful in the
+appropriations process today requires an effective strategy that builds a compelling
+business case to support your appropriations request. It also requires a level of
+tenacity to see your request through until the Governor signs his or her name to the
+budget.
+Whether they are for a “stand-alone” appropriation or part of a competitive grant
+program, we work with your staff to identify opportunities and projects and build a
+business case that distinguishes your individual requests above the competition. For
+the legislative budget process, we secure sponsors, coordinate all forms and deadlines,
+ensure the required House bills are passed through their subcommittees, ensure
+inclusion of the project in initial subcommittee budgets, work throughout the budget
+conference to protect and/or increase initial amounts for inclusion in the final budget,
+and work with the Governor’s office during the line-item veto process.
+49
+
+--- PAGE 702 ---
+Lobbying Experience
+We have a solid working knowledge of the grant program funding sources, ranking
+process, decisions which determine the potential outcomes of which projects are
+funded, and the decision makers which hold the keys to the funding. We leverage our
+relationships with the Department of Environmental Protection, Department of
+Economic Opportunity, Department of State, and others to explore grant opportunities
+for local governments, clarify the application process, assist in tailoring applications to
+meet the expectations of the agency, and coordinate communications from our clients.
+We also work throughout the Session to support increased funding for the programs
+that are distributed to local governments and create grant opportunities, such as
+FRDAP, SHIP, Cultural Facilities, and more. Increasing grant funding is a long-term goal
+that requires the knowledge, focus and persistence that the experts on our team can
+provide. We’ve seen these increases return slowly but significantly in the past few years
+thanks to advocacy from our local leaders and a dedicated coalition of which we are an
+integral part. On the Federal level, we enjoy great relationships with members of our
+Congressional Delegation and have worked through those channels of communication
+to assist in advocacy on Assistance to Firefighters Grant funding (AFG), reimbursement
+disputes with FEMA, and more.
+Below we have listed project funding that ECI secured on behalf of our clients:
+FY 2021-22
+$400,000 Seminole County Hope & Healing Center (Opioid/Addiction Recovery Partnership)
+$114,480 Broward Sheriff’s Office Crime Cases Backlog Reduction
+$750,000 Fort Lauderdale Dorsey-Riverbend Stormwater Improvement
+$200,000 Pembroke Pines Seepage Management Stormwater Pump Station
+We additionally assisted on obtaining $406,624 for Broward Health’s Integrated Medication
+Assisted Treatment Response (iMATR) project but ECI was not primary.
+While we secured the following projects in the budget passed by the Legislature,
+unfortunately these projects were included in the Governor’s line-item veto:
+$100,000 Coconut Creek Hillsboro Water Storage Tank Rehabilitation
+$125,000 City of Pembroke Pines License Plate Reader (LPR) Technology
+$200,000 Plantation Special Needs Park
+$400,000 Coral Springs Public Safety/Public Works Building Hardening Project
+FY 2020-2021:
+$100,000 Helping Abused Neglected Disadvantaged Youth, Inc. (HANDY) - Scholars
+Program*
+$400,000 Seminole County Hope & Healing Center (Opioid/Addiction Recovery Partnership)
+$250,000 Broward County Sheriff’s Office - Cold Cases and Property Crime Backlog
+Reduction*
+$500,000 Broward County Sheriff’s Office Real-Time Crime Center Expansion*
+$136,387 Community Court Program - City of Fort Lauderdale*
+50
+
+--- PAGE 703 ---
+Lobbying Experience
+$100,000 Parkland Stormwater Quality Improvement Project*
+$250,00 Lauderdale-By-The-Sea Septic to Sewer *
+$100,00 Coconut Creek HIllsboro Water Storage Tank *
+$250,000 Fort Lauderdale Dorsey-Riverbend Stormwater Improvements *
+$100,000 Coral Springs Parks & Recreation Security Initiatives*
+$250,000 Plantation - Special Needs Playground Equipment*
+$288,000 Pembroke Pines Senior Transportation*
+$900,000 Pembroke Road Extension - Pembroke Pines *
+$100,000 Bergeron Rodeo Grounds Improvements – Davie*
+$250,000 Coral Springs - Westside Facility Hardening Project*
+*These projects were included in the final budget but unfortunately included in Governor
+DeSantis’ historic “Red Wedding” veto of $1 Billion necessitated by the COVID-19 pandemic.
+FY 2019-2020:
+Successfully advocated for increased arts funding resulting in modest increase to Coral
+Springs Museum of Art and Performing Arts Center funding.
+$250,000 Homeless Collaborative of Broward County (requested through City of Fort
+Lauderdale)
+$500,000 for the City of Pembroke Pines Firestation #69 renovation project
+$288,000 - City of Pembroke Pines Senior Transportation Program
+FY 2017-18
+$1.5 million for the Biscayne Bay Coastal Wetlands Project
+$150,000 for HANDY College Assistance Program
+$500,000 RESTORE Program in Palm Beach County
+$500,000 Opioid Abuse Pilot Program in Palm Beach County
+$400,000 for the City of Fort Lauderdale Rapid Rehousing
+$250,000 for an Inclusive Playground in the City of Pembroke Pines
+$600,000 for a Fire Training Facility in the City of Pembroke Pines
+$1.5 million for the City of Plantation Fire Station #1
+We secured the following projects in the final budget passed by the Legislature, however
+these projects were unfortunately included in the Governor’s over $400 million line-item
+veto:
+$150,000 for Wastewater Conveyance in City of Coconut Creek
+$750,000 for Westside Facility Hardening in the City of Coral Springs
+$300,000 for University Drive Resurfacing in the City of Coral Springs
+$220,000 for Davie Downtown Road Improvements in the Town of Davie
+$218, 181 for the Senior Transportation Program in the City of Pembroke Pines
+$200,000 for Creation Station Library Project for Palm Beach County
+FY 2016-17:
+$500,000 for Fort Lauderdale’s Rapid Rehousing initiative
+$75,000 for water quality improvements in the City of Coral Springs
+51
+
+--- PAGE 704 ---
+Lobbying Experience
+$250,000 for the City of North Lauderdale Automatic Meter Reading system
+$100,000 for Veterans Home renovation in Pembroke Pines
+$100,000 for Bergeron Rodeo Arena Refurbishment in the Town of Davie
+$575,000 for the Jerome Golden Center in Palm Beach County (last phase of three phases)
+We secured the following projects in the final budget passed by the Legislature and sent to
+the Governor, however the projects were included in the Governor’s veto $250 million in
+local projects across the State:
+$100,000 for the Coconut Creek Wastewater Pipe Rehabilitation Project
+$100,000 for the Coral Springs Stormwater Improvements at Corporate Park
+$300,000 for City of Coral Springs University Drive Resurfacing
+$300,000 for City of Coral Springs Aquatic Complex Pool Refurbishment
+$500,000 for the Fort Lauderdale River Oaks Preserve in 2016
+$500,000 for the Fort Lauderdale Stormwater Drainage Program in 2016
+$100,000 for North Lauderdale Street Lights
+$100,000 for North Lauderdale Sidewalk Replacement
+$200,000 for North Lauderdale Street Resurfacing/Kimberly Boulevard
+$40,000 for North Lauderdale Security Cameras
+$70,000 for North Lauderdale City Hall Roof
+$50,000 for Emergency Operations Center - Permanent Generator for Lift Station - City of
+Plantation
+FY 2015-16:
+$575,000 for the Jerome Golden Center in Palm Beach County (second of three phases)
+$250,000 for Veterans Home Renovations for the City of Pembroke Pines
+$130,000 for Stormwater Improvement in the City of Coral Springs
+We secured the following projects in the final budget passed by the Legislature, however
+the projects were included in the Governor’s veto of a record $470 million in local projects
+across the State:
+$1 million for the Fort Lauderdale/Hollywood International Airport Terminal
+$800,000 for the City of Fort Lauderdale’s Rapid Rehousing Program
+$500,00 for the City of Coconut Creek’s Reclaimed Water Extension project
+$500,000 for the City of North Lauderdale’s Sanitary Sewer Rehabilitation project
+$500,000 for the City of North Lauderdale’s 17th Street Reconstruction project
+$350,000 for the City of North Lauderdale’s Street Resurfacing project
+$250,000 for the City of Coral Springs’ University Drive Resurfacing project
+$250,000 for the City of Fort Lauderdale’s Juvenile Justice Program
+$100,000 for upgrades for the Town of Davie’s Bergeron Rodeo Grounds
+FY 2014- 2015:
+We successfully advocated for FRDAP funding sufficient to ensure $50,000 towards two
+pavilions ats the City of Plantation’s Plantation Woods playground.
+52
+
+--- PAGE 705 ---
+Lobbying Experience
+$200,000 for mental health and substance abuse pilot project in Jerome Golden Center in
+Palm Beach County (first of three phases)
+A total of $225,000 in water projects funding for the City of Coconut Creek.
+A total of $115,000 in water projects funding and $250,000 in funding for the Safety Town
+program for the City of Coral Springs.
+$500,000 in a Cultural Facilities Grant for the Broward Center for the Performing Arts
+ECI was also an instrumental part of a $10 million appropriation to the building of Quiet
+Zones along the FEC corridors on behalf of Palm Beach County and other local
+governments.
+$150,000 for Fort Lauderdale Dredging Maintenance
+$700,000 for the Fort Lauderdale Southeast Neighborhood Tidal Valve and Stormwater
+Upgrade
+$47,000 in non-recurring funding for an additional law enforcement operation to fight the
+distribution of designer drugs for the City of Fort Lauderdale
+Biscayne Bay Coastal Wetlands Project- Phase 2 The Biscayne Bay Coastal Wetlands
+Project was authorized in the 2014 Federal Water Resources and Development Act with the
+goal to construct a reservoir that would save the health of the Bay, which is declining at a
+rapid pace due to increased salinity levels, population and development. As Phase I of the
+project was underway, it became apparent that the timeline for construction needed to be
+expedited in order to prevent significant environmental and economic damage to the area.
+The Federal government required the state fund a Project Implementation Report in order
+to begin implementation of Phase II, however the state is not held to any timeline for
+implementation or funding. We represent landowners and environmentalists who in
+conjunction with Miami Dade County and the City of Miami recognized the immediate need
+for state funding. We educated the Legislature on the project but found little appetite from
+both the Legislature and South Florida Water Management District (SFWMD) to include the
+project funding during the 2017 Legislative Session as all focus and dollars were
+concentrated on the Senate President’s priority reservoir to address issues in Lake
+Okeechobee. Our project directly competed. Undeterred, we worked with the Senate
+Appropriations Chair to successfully secure a $1.5 million appropriation for the Project
+Implementation Report under water projects in the budget that was signed by the
+Governor. After the appropriation, we continued to work with the SFWMD through
+leadership changes to ensure that the overwhelmed District properly utilized the funding
+for the intended report. We are continuing to advocate for this important project to see the
+State through its completion of its role as required to ensure the next Federal steps in
+Phase II.
+Charter Schools: ECI was instrumental in obtaining increases in charter school capital
+outlay each year on behalf of the City of Pembroke Pines and City of Coral Springs,
+which both own high-performing charter school systems. This was initially a difficult uphill
+battle over the years, which has now gained support and secured funding for the
+charter school efforts.
+53
+
+--- PAGE 706 ---
+Lobbying Experience
+2001- Increased from $20 million to $27.7 million
+2006- Increased from $27.7 million to $53 million
+2007- $54 million plus
+2008- $54 million plus
+2010- Over $56 million
+2011- $55 million appropriated with additional money for high performing charter
+school systems
+2012- Over $55 million
+2013- $91 million
+2014- $75 million
+From 2015 on, the Legislature has made a number of changes to the charter school capital
+outlay formula that we have worked with Legislators, committee staff, and the Department
+of Education to assess the impact of, communicate concerns with, and mitigate negative
+budget strains. Current allocations are based on a formula that triggers sharing of local
+millage should the capital outlay fund fall below a certain amount.
+Quiet Zones: Towards the end of the 2014 Legislative Session, we were key on behalf of
+Palm Beach County and other local governments in securing $10 million statewide to help
+match local funds for quiet zone construction along the FEC corridor.
+Earlier Experience:
+In 2013, we aided Palm Beach County $100,000 appropriation for the Scripps Research
+Institute for the Nicotine Addiction Drug Treatment Evaluation Grant Program and
+successfully advocated for $10 million in a Seaport Investment Program and $241 million in
+Seaport Grants. We also secured $4,537,088 for the Seminole County Sheriff's Office for
+Child Protective Investigations, an approximately $1 million increase over a $3,443,114
+appropriation we secured for the same client the year before.
+In 2010, we secured $1 million for the South Florida Regional Transportation Authority for
+dispatch operations for the South Florida corridor in 2010.
+In 2009, our team was instrumental in having the Legislature appropriate $15 million for 5
+years for South Florida Regional Transportation Authority service to keep 50 trains in
+operation.
+In 2008, we secured $225,000 into the budget for wastewater improvements for the Town
+of Davie and $500,000 for the Fire Training Simulator Tower for the City of Coral Springs.
+In 2007, we secured $230,000 to upgrade the City of Plantation’s Emergency Standby Power
+at the City’s Regional Wastewater Plant.
+We also secured a $7 million dollar appropriation for the City of Plantation’s golf course.
+54
+
+--- PAGE 707 ---
+Lobbying Experience
+Federal Lobbying Experience: Becker
+Clients
+Please see “Attachment A: Client List”
+Knowledge and experience in securing funding (Becker)
+The Becker lobbying team is well-versed in issues impacting local governments. Becker
+lobbyists are in the Capitol, at the agencies, or working the phones daily to advance
+federal funding and programs affecting the city’s top priorities such as housing
+opportunities and homelessness, infrastructure, innovation and emerging technology,
+economic development, transportation, traffic relief, waterway quality, resiliency, parks,
+and public places. We already know and work with the key players on the relevant
+committees, both members and staff, and we understand the federal programs available
+to meet the city’s needs.
+Upon being hired, we will quickly meet (virtually or in-person) with City officials to
+workshop the key issues and discuss the political and legislative landscape for 2021-22,
+including the short- and long-term impacts of COVID-19 and beyond. We will explore all
+aspects of Plantation’s priorities and may identify additional ideas to leverage funding
+and strengthen your position. Once priorities are approved, we will develop a final
+federal agenda and work plan.
+Overview and Timeline for Developing and Executing a Federal Legislative &
+Executive Branch Lobbying Plan
+(All activities will follow COVID-19 realities and guidelines)
+1. Assessment of Opportunities – Within the first 90 days
+a. Meet with City’s designated team to analyze each area's current federal funding
+and policy priorities and conduct long-term strategic analysis for future requests.
+b. Identify allies in the Administration and Congress
+c. Meet with members of the City and State's Congressional Delegation and staff
+and Congressional leaders and staff to evaluate opportunities and obstacles in
+each priority area.
+d. Identify and meet with Executive Branch officials to look for funding opportunities
+in priority areas.
+2. Develop Federal Strategy and Work Plan – Within the first 90 days
+a. Ongoing communication with City officials to develop research, data, analysis,
+stories in each priority area.
+b. Review budget and leadership priorities to assess opportunities in each of the
+City's priority areas.
+55
+
+--- PAGE 1016 ---
+Qualifications
+Mr. Bedell was also a Department of Transportation representative for the Northeast
+Corridor Commission tasked with developing a formula to allocate capital and operating
+costs based on usage and facilitating collaborative planning. Prior, he was president of
+government relations firm Red Five Strategies and the director of federal and state
+government affairs for Intuit.
+In addition to U.S. Department of Transportation, Mr. Bedell has additional executive
+branch experience. He was appointed as a senior legislative officer by then-Labor
+Secretary Chao to handle legislative matters for the Department of Labor. He also served
+as associate administrator for the Office of Congressional and Legislative Affairs at the
+U.S. Small Business Administration as chief advisor on Congress and the executive
+branch's legislative matters.
+Projects of a Similar Nature
+ü Virginia Port Authority - Secured $20 million from US Department of
+Transportation (USDOT) for Virginia Port Authority, the largest Port infrastructure
+grant in the country in 2020. After years of trying, VPA achieved success with the
+Becker team's three-dimensional strategy: politics, policy, and impact. Becker also
+used regional economic data and support from a regional coalition of Members
+to make a winning case for the port. In addition, secured $2.1 million in federal
+highway funding and $83 million in New Starts funding in the FY22 budget for a
+total of $107.1 million in only the first contract year.
+ü NETT Council - Anthony was one of only four designees by Secretary Chao's office
+to sit on the Non-Traditional and Emerging Transportation Technology Council
+(NETT). It is an internal deliberative body created by then-Secretary Chao to review
+the latest technology in transportation to identify jurisdictional or regulatory
+obstacles and streamline processes. Through that experience, Anthony is
+knowledgeable about the latest innovations, their champions and detractors, and
+which division within USDOT had lead responsibility. The NETT Council provides
+an opportunity for Plantation to elevate its visibility by showcasing the city as
+thought leaders on mass transit innovation.
+ü Smart Cities Challenge - Anthony assisted with the evaluation of the Smart Cities
+Challenge. He specifically worked with the ultimate winner, the City of Columbus.
+The city was recognized for implementing an integrated plan addressing
+challenges in residential, commercial, freight, and downtown districts using
+several new technologies, including connected infrastructure, electric vehicle
+charging infrastructure, an integrated data platform, autonomous vehicles, and
+more. They are working with others, including Austin, Denver, Kansas City,
+Pittsburgh, Portland, and San Francisco, to share best practices to help other cities
+47
+
+--- PAGE 1017 ---
+Qualifications
+across America replicate their successes. Smart Cities is a viable option for the
+City of Plantation with Anthony's insights and guidance.
+48
+
+--- PAGE 1018 ---
+Lobbying Experience
+State or Federal Lobbying Experience
+- Provide a list of clients for whom Firm has provided or is currently providing state and
+federal lobbying or consulting services. For each client, please provide the following
+information:
+o Client name
+o Names, titles, address(es) and phone numbers for each client
+o Duration of the relationship
+o Types of services provided
+o Were you, or your Firm, the primary contractor
+- Provide a detailed summary of your knowledge and experience in securing funds for
+public infrastructure or public services through the state or federal appropriation process
+and through discretionary grant programs.
+State Lobbying Experience: ECI
+Clients
+Please see “Attachment A: Client List”
+Knowledge and experience in securing funding (ECI)
+Over the years, we have successfully secured millions of dollars in state funding for
+local appropriations requests for our clients in a budget process that is increasingly
+competitive. The competition for state funding is always intense due to Florida’s
+revenue challenges, and especially after the rollout of a formal Legislative system for
+appropriations. Priorities are often funded in Tallahassee based on politics and
+persistence, rather than merit or need, and regardless of how long a priority has
+waited in the queue. The experience of our team gives us the political insight and
+network needed to strategically move your priorities forward. Being successful in the
+appropriations process today requires an effective strategy that builds a compelling
+business case to support your appropriations request. It also requires a level of
+tenacity to see your request through until the Governor signs his or her name to the
+budget.
+Whether they are for a “stand-alone” appropriation or part of a competitive grant
+program, we work with your staff to identify opportunities and projects and build a
+business case that distinguishes your individual requests above the competition. For
+the legislative budget process, we secure sponsors, coordinate all forms and deadlines,
+ensure the required House bills are passed through their subcommittees, ensure
+inclusion of the project in initial subcommittee budgets, work throughout the budget
+conference to protect and/or increase initial amounts for inclusion in the final budget,
+and work with the Governor’s office during the line-item veto process.
+49
+
+--- PAGE 1019 ---
+Lobbying Experience
+We have a solid working knowledge of the grant program funding sources, ranking
+process, decisions which determine the potential outcomes of which projects are
+funded, and the decision makers which hold the keys to the funding. We leverage our
+relationships with the Department of Environmental Protection, Department of
+Economic Opportunity, Department of State, and others to explore grant opportunities
+for local governments, clarify the application process, assist in tailoring applications to
+meet the expectations of the agency, and coordinate communications from our clients.
+We also work throughout the Session to support increased funding for the programs
+that are distributed to local governments and create grant opportunities, such as
+FRDAP, SHIP, Cultural Facilities, and more. Increasing grant funding is a long-term goal
+that requires the knowledge, focus and persistence that the experts on our team can
+provide. We’ve seen these increases return slowly but significantly in the past few years
+thanks to advocacy from our local leaders and a dedicated coalition of which we are an
+integral part. On the Federal level, we enjoy great relationships with members of our
+Congressional Delegation and have worked through those channels of communication
+to assist in advocacy on Assistance to Firefighters Grant funding (AFG), reimbursement
+disputes with FEMA, and more.
+Below we have listed project funding that ECI secured on behalf of our clients:
+FY 2021-22
+$400,000 Seminole County Hope & Healing Center (Opioid/Addiction Recovery Partnership)
+$114,480 Broward Sheriff’s Office Crime Cases Backlog Reduction
+$750,000 Fort Lauderdale Dorsey-Riverbend Stormwater Improvement
+$200,000 Pembroke Pines Seepage Management Stormwater Pump Station
+We additionally assisted on obtaining $406,624 for Broward Health’s Integrated Medication
+Assisted Treatment Response (iMATR) project but ECI was not primary.
+While we secured the following projects in the budget passed by the Legislature,
+unfortunately these projects were included in the Governor’s line-item veto:
+$100,000 Coconut Creek Hillsboro Water Storage Tank Rehabilitation
+$125,000 City of Pembroke Pines License Plate Reader (LPR) Technology
+$200,000 Plantation Special Needs Park
+$400,000 Coral Springs Public Safety/Public Works Building Hardening Project
+FY 2020-2021:
+$100,000 Helping Abused Neglected Disadvantaged Youth, Inc. (HANDY) - Scholars
+Program*
+$400,000 Seminole County Hope & Healing Center (Opioid/Addiction Recovery Partnership)
+$250,000 Broward County Sheriff’s Office - Cold Cases and Property Crime Backlog
+Reduction*
+$500,000 Broward County Sheriff’s Office Real-Time Crime Center Expansion*
+$136,387 Community Court Program - City of Fort Lauderdale*
+50
+
+--- PAGE 1020 ---
+Lobbying Experience
+$100,000 Parkland Stormwater Quality Improvement Project*
+$250,00 Lauderdale-By-The-Sea Septic to Sewer *
+$100,00 Coconut Creek HIllsboro Water Storage Tank *
+$250,000 Fort Lauderdale Dorsey-Riverbend Stormwater Improvements *
+$100,000 Coral Springs Parks & Recreation Security Initiatives*
+$250,000 Plantation - Special Needs Playground Equipment*
+$288,000 Pembroke Pines Senior Transportation*
+$900,000 Pembroke Road Extension - Pembroke Pines *
+$100,000 Bergeron Rodeo Grounds Improvements – Davie*
+$250,000 Coral Springs - Westside Facility Hardening Project*
+*These projects were included in the final budget but unfortunately included in Governor
+DeSantis’ historic “Red Wedding” veto of $1 Billion necessitated by the COVID-19 pandemic.
+FY 2019-2020:
+Successfully advocated for increased arts funding resulting in modest increase to Coral
+Springs Museum of Art and Performing Arts Center funding.
+$250,000 Homeless Collaborative of Broward County (requested through City of Fort
+Lauderdale)
+$500,000 for the City of Pembroke Pines Firestation #69 renovation project
+$288,000 - City of Pembroke Pines Senior Transportation Program
+FY 2017-18
+$1.5 million for the Biscayne Bay Coastal Wetlands Project
+$150,000 for HANDY College Assistance Program
+$500,000 RESTORE Program in Palm Beach County
+$500,000 Opioid Abuse Pilot Program in Palm Beach County
+$400,000 for the City of Fort Lauderdale Rapid Rehousing
+$250,000 for an Inclusive Playground in the City of Pembroke Pines
+$600,000 for a Fire Training Facility in the City of Pembroke Pines
+$1.5 million for the City of Plantation Fire Station #1
+We secured the following projects in the final budget passed by the Legislature, however
+these projects were unfortunately included in the Governor’s over $400 million line-item
+veto:
+$150,000 for Wastewater Conveyance in City of Coconut Creek
+$750,000 for Westside Facility Hardening in the City of Coral Springs
+$300,000 for University Drive Resurfacing in the City of Coral Springs
+$220,000 for Davie Downtown Road Improvements in the Town of Davie
+$218, 181 for the Senior Transportation Program in the City of Pembroke Pines
+$200,000 for Creation Station Library Project for Palm Beach County
+FY 2016-17:
+$500,000 for Fort Lauderdale’s Rapid Rehousing initiative
+$75,000 for water quality improvements in the City of Coral Springs
+51
+
+--- PAGE 1021 ---
+Lobbying Experience
+$250,000 for the City of North Lauderdale Automatic Meter Reading system
+$100,000 for Veterans Home renovation in Pembroke Pines
+$100,000 for Bergeron Rodeo Arena Refurbishment in the Town of Davie
+$575,000 for the Jerome Golden Center in Palm Beach County (last phase of three phases)
+We secured the following projects in the final budget passed by the Legislature and sent to
+the Governor, however the projects were included in the Governor’s veto $250 million in
+local projects across the State:
+$100,000 for the Coconut Creek Wastewater Pipe Rehabilitation Project
+$100,000 for the Coral Springs Stormwater Improvements at Corporate Park
+$300,000 for City of Coral Springs University Drive Resurfacing
+$300,000 for City of Coral Springs Aquatic Complex Pool Refurbishment
+$500,000 for the Fort Lauderdale River Oaks Preserve in 2016
+$500,000 for the Fort Lauderdale Stormwater Drainage Program in 2016
+$100,000 for North Lauderdale Street Lights
+$100,000 for North Lauderdale Sidewalk Replacement
+$200,000 for North Lauderdale Street Resurfacing/Kimberly Boulevard
+$40,000 for North Lauderdale Security Cameras
+$70,000 for North Lauderdale City Hall Roof
+$50,000 for Emergency Operations Center - Permanent Generator for Lift Station - City of
+Plantation
+FY 2015-16:
+$575,000 for the Jerome Golden Center in Palm Beach County (second of three phases)
+$250,000 for Veterans Home Renovations for the City of Pembroke Pines
+$130,000 for Stormwater Improvement in the City of Coral Springs
+We secured the following projects in the final budget passed by the Legislature, however
+the projects were included in the Governor’s veto of a record $470 million in local projects
+across the State:
+$1 million for the Fort Lauderdale/Hollywood International Airport Terminal
+$800,000 for the City of Fort Lauderdale’s Rapid Rehousing Program
+$500,00 for the City of Coconut Creek’s Reclaimed Water Extension project
+$500,000 for the City of North Lauderdale’s Sanitary Sewer Rehabilitation project
+$500,000 for the City of North Lauderdale’s 17th Street Reconstruction project
+$350,000 for the City of North Lauderdale’s Street Resurfacing project
+$250,000 for the City of Coral Springs’ University Drive Resurfacing project
+$250,000 for the City of Fort Lauderdale’s Juvenile Justice Program
+$100,000 for upgrades for the Town of Davie’s Bergeron Rodeo Grounds
+FY 2014- 2015:
+We successfully advocated for FRDAP funding sufficient to ensure $50,000 towards two
+pavilions ats the City of Plantation’s Plantation Woods playground.
+52
+
+--- PAGE 1022 ---
+Lobbying Experience
+$200,000 for mental health and substance abuse pilot project in Jerome Golden Center in
+Palm Beach County (first of three phases)
+A total of $225,000 in water projects funding for the City of Coconut Creek.
+A total of $115,000 in water projects funding and $250,000 in funding for the Safety Town
+program for the City of Coral Springs.
+$500,000 in a Cultural Facilities Grant for the Broward Center for the Performing Arts
+ECI was also an instrumental part of a $10 million appropriation to the building of Quiet
+Zones along the FEC corridors on behalf of Palm Beach County and other local
+governments.
+$150,000 for Fort Lauderdale Dredging Maintenance
+$700,000 for the Fort Lauderdale Southeast Neighborhood Tidal Valve and Stormwater
+Upgrade
+$47,000 in non-recurring funding for an additional law enforcement operation to fight the
+distribution of designer drugs for the City of Fort Lauderdale
+Biscayne Bay Coastal Wetlands Project- Phase 2 The Biscayne Bay Coastal Wetlands
+Project was authorized in the 2014 Federal Water Resources and Development Act with the
+goal to construct a reservoir that would save the health of the Bay, which is declining at a
+rapid pace due to increased salinity levels, population and development. As Phase I of the
+project was underway, it became apparent that the timeline for construction needed to be
+expedited in order to prevent significant environmental and economic damage to the area.
+The Federal government required the state fund a Project Implementation Report in order
+to begin implementation of Phase II, however the state is not held to any timeline for
+implementation or funding. We represent landowners and environmentalists who in
+conjunction with Miami Dade County and the City of Miami recognized the immediate need
+for state funding. We educated the Legislature on the project but found little appetite from
+both the Legislature and South Florida Water Management District (SFWMD) to include the
+project funding during the 2017 Legislative Session as all focus and dollars were
+concentrated on the Senate President’s priority reservoir to address issues in Lake
+Okeechobee. Our project directly competed. Undeterred, we worked with the Senate
+Appropriations Chair to successfully secure a $1.5 million appropriation for the Project
+Implementation Report under water projects in the budget that was signed by the
+Governor. After the appropriation, we continued to work with the SFWMD through
+leadership changes to ensure that the overwhelmed District properly utilized the funding
+for the intended report. We are continuing to advocate for this important project to see the
+State through its completion of its role as required to ensure the next Federal steps in
+Phase II.
+Charter Schools: ECI was instrumental in obtaining increases in charter school capital
+outlay each year on behalf of the City of Pembroke Pines and City of Coral Springs,
+which both own high-performing charter school systems. This was initially a difficult uphill
+battle over the years, which has now gained support and secured funding for the
+charter school efforts.
+53
+
+--- PAGE 1023 ---
+Lobbying Experience
+2001- Increased from $20 million to $27.7 million
+2006- Increased from $27.7 million to $53 million
+2007- $54 million plus
+2008- $54 million plus
+2010- Over $56 million
+2011- $55 million appropriated with additional money for high performing charter
+school systems
+2012- Over $55 million
+2013- $91 million
+2014- $75 million
+From 2015 on, the Legislature has made a number of changes to the charter school capital
+outlay formula that we have worked with Legislators, committee staff, and the Department
+of Education to assess the impact of, communicate concerns with, and mitigate negative
+budget strains. Current allocations are based on a formula that triggers sharing of local
+millage should the capital outlay fund fall below a certain amount.
+Quiet Zones: Towards the end of the 2014 Legislative Session, we were key on behalf of
+Palm Beach County and other local governments in securing $10 million statewide to help
+match local funds for quiet zone construction along the FEC corridor.
+Earlier Experience:
+In 2013, we aided Palm Beach County $100,000 appropriation for the Scripps Research
+Institute for the Nicotine Addiction Drug Treatment Evaluation Grant Program and
+successfully advocated for $10 million in a Seaport Investment Program and $241 million in
+Seaport Grants. We also secured $4,537,088 for the Seminole County Sheriff's Office for
+Child Protective Investigations, an approximately $1 million increase over a $3,443,114
+appropriation we secured for the same client the year before.
+In 2010, we secured $1 million for the South Florida Regional Transportation Authority for
+dispatch operations for the South Florida corridor in 2010.
+In 2009, our team was instrumental in having the Legislature appropriate $15 million for 5
+years for South Florida Regional Transportation Authority service to keep 50 trains in
+operation.
+In 2008, we secured $225,000 into the budget for wastewater improvements for the Town
+of Davie and $500,000 for the Fire Training Simulator Tower for the City of Coral Springs.
+In 2007, we secured $230,000 to upgrade the City of Plantation’s Emergency Standby Power
+at the City’s Regional Wastewater Plant.
+We also secured a $7 million dollar appropriation for the City of Plantation’s golf course.
+54
+
+--- PAGE 1024 ---
+Lobbying Experience
+Federal Lobbying Experience: Becker
+Clients
+Please see “Attachment A: Client List”
+Knowledge and experience in securing funding (Becker)
+The Becker lobbying team is well-versed in issues impacting local governments. Becker
+lobbyists are in the Capitol, at the agencies, or working the phones daily to advance
+federal funding and programs affecting the city’s top priorities such as housing
+opportunities and homelessness, infrastructure, innovation and emerging technology,
+economic development, transportation, traffic relief, waterway quality, resiliency, parks,
+and public places. We already know and work with the key players on the relevant
+committees, both members and staff, and we understand the federal programs available
+to meet the city’s needs.
+Upon being hired, we will quickly meet (virtually or in-person) with City officials to
+workshop the key issues and discuss the political and legislative landscape for 2021-22,
+including the short- and long-term impacts of COVID-19 and beyond. We will explore all
+aspects of Plantation’s priorities and may identify additional ideas to leverage funding
+and strengthen your position. Once priorities are approved, we will develop a final
+federal agenda and work plan.
+Overview and Timeline for Developing and Executing a Federal Legislative &
+Executive Branch Lobbying Plan
+(All activities will follow COVID-19 realities and guidelines)
+1. Assessment of Opportunities – Within the first 90 days
+a. Meet with City’s designated team to analyze each area's current federal funding
+and policy priorities and conduct long-term strategic analysis for future requests.
+b. Identify allies in the Administration and Congress
+c. Meet with members of the City and State's Congressional Delegation and staff
+and Congressional leaders and staff to evaluate opportunities and obstacles in
+each priority area.
+d. Identify and meet with Executive Branch officials to look for funding opportunities
+in priority areas.
+2. Develop Federal Strategy and Work Plan – Within the first 90 days
+a. Ongoing communication with City officials to develop research, data, analysis,
+stories in each priority area.
+b. Review budget and leadership priorities to assess opportunities in each of the
+City's priority areas.
+55
+
+--- PAGE 1884 ---
+(empty page)
+
+--- PAGE 1885 ---
+(empty page)
+
+--- PAGE 1886 ---
+(empty page)
+
+--- PAGE 1887 ---
+(empty page)
+
+--- PAGE 1888 ---
+(empty page)
+
+--- PAGE 1889 ---
+(empty page)
+
+--- PAGE 1890 ---
+(empty page)
+
+--- PAGE 1891 ---
+(empty page)
+
+--- PAGE 1892 ---
+(empty page)
+
+--- PAGE 1893 ---
+(empty page)
+
+--- PAGE 1894 ---
+(empty page)
+
+--- PAGE 1895 ---
+(empty page)
+
+--- PAGE 1896 ---
+(empty page)
+
+================================================================================
+TASK 9: FY2024 ADOPTED BUDGET - ALPR/LPR CAPITAL OUTLAY SCAN
+================================================================================
+
+Total pages in FY2024 budget: 741
+
+PAGES 267-280 (Police capital outlay section):
+
+--- PAGE 267 ---
+CITY OF PLANTATION
+PUBLIC SAFETY
+DEPARTMENTS
+Police Howard Harrison, Police Chief
+Fire Donald Todd, Fire Chief
+Fire Rescue Donald Todd, Fire Chief
+
+--- PAGE 268 ---
+257
+CITY OF PLANTATION
+POLICE
+Mission Statement
+Our Mission is to improve the quality of life for the citizens of Plantation through a partnership with the
+community that promotes safe, secure streets and neighborhoods. We recognize our responsibility to
+maintain order, while affording dignity and respect to every individual.
+Department Description
+The Plantation Police Department is a full-service law enforcement agency dedicated to providing the
+highest level of service possible to our community. Our department is one of the few selected agencies
+to have earned accreditation for both the International Accrediting Agency (CALEA) and the State of
+Florida Accrediting Agency (CFA).
+The major responsibilities and services provided include:
+Records Section: some of the responsibilities of the unit consist of reviewing and approving
+police reports, filing cases with the State Attorney’s Office, processing public record requests,
+performing background checks, fingerprinting, accepting and distributing subpoenas and many
+other responsibilities.
+Communications Unit: process and handle service call for Police, Fire and EMS Services.
+Road Patrol: provide law enforcement services based on areas of responsibility 24 hours a day
+and 7 days a week.
+The Investigations Division conducts follow-up investigations involving criminal cases and other
+incidents in the City of Plantation. The CID may also take up complicated cases like fraud and
+identity theft, narcotics violations, property crimes or very complicated persons’ crimes cases
+like homicide.
+The Canine Unit (K-9) supplements the Department’s Road Patrol Division by providing support
+to in-progress incidents. K-9 Officers and dogs are specially trained to locate subjects and
+property. The K-9 Unit also conducts demonstrations at a variety of community events.
+Field Force: restores order, move crowds, rescues victims and isolates problem areas.
+Special Weapons and Tactics Team (SWAT): responsible for responding to critical incidents and
+executing warrants.
+Return to Table of Contents
+
+--- PAGE 269 ---
+258
+CITY OF PLANTATION
+POLICE
+Traffic Unit: responsible for enforcing traffic laws, accident investigations, driver education and
+monitoring the school crossing guard program.
+Code Enforcement Section: receives and answers complaints, performs site inspections,
+routinely interprets and enforces City Ordinances and provides first-class service to residents in
+need.
+FY2024 Budget Highlights
+The Plantation Police Department is requesting the following positions for the FY2024:
+Addition of (1) one Police Officer full-time position. This request has been carefully
+reviewed and is needed due to population growth within the City and as part of the long-
+term strategic plan of the Police Department.
+Addition of (1) one Senior Code Enforcement Inspector. This request is made due to
+population growth and the increased emphasis on addressing code and quality of life
+issues in the City.
+Addition of (1) one Assistant Communications Manager to assist in the management of
+the Police Department’s independent Communications Unit.
+Addition of (1) one Digital Records and License Plate Recognition (LPR) Coordinator to
+assist in handling digital records and establishing a Body Worn Camera (BWC) program.
+The Plantation Police Department is also requesting the following capital outlay:
+The purchase of (20) twenty police vehicles to replace vehicles that are over ten (10)
+years old.
+The implementation of a new Computer Aided Dispatch (CAD) and Records Management
+System to replace the current legacy system which has been in service for fifteen (15)
+years.
+The continued enhancement of the City’s License Plate Recognition (LPR) system.
+The procurement and implementation of a Body Worn Camera (BWC) program.
+
+--- PAGE 270 ---
+259
+CITY OF PLANTATION
+GENERAL FUND
+FY 2023 - 2024
+POLICE
+FY2023 Highlights & Accomplishments
+ACCOMPLISHMENTS STRATEGIC PRIORITY
+The Digital Forensic Unit (DFU) became fully operational in the fall of 2022.
+DFU has acquired and analyzed over 850 specimens in support of PPD cases since 2013.
+DFU examinations have supported factual and expert testimony in State and Federal Courts.
+The Community Engagement Unit (CEU) has established a more positive interaction and relationship Quality Customer Service/
+with residents. Quality of Life
+Successfully participated in the National Night Out (NNO) community event where over 4,000 residents
+were in attendance.
+Continued to take steps to bridge the gap between the community and the Police Department through
+effective communication, transparency and positivity.
+FY2024 Goals
+DEPARTMENTAL GOALS STRATEGIC PRIORITY
+Continue to replace police vehicles that are 10-12 years old with 2024 model units in order to lower the
+maintenance costs. Quality Customer Service/
+Quality of Life/
+Continue to implement the body-worn cameras in order to provide officers with a reliable and compact Sustainability
+tool to systematically and automatically record their field observations and encounters.
+
+--- PAGE 271 ---
+260
+CITY OF PLANTATION
+GENERAL FUND
+FY 2023 - 2024
+POLICE
+Performance Measures
+FY2022 FY2023 FY2024
+STRATEGIC PRIORITY MEASURE
+ACTUAL TARGET GOAL
+# of fingerprints taken annually 800 800 800
+# of Calls for Service 72,857 75,000 78,000
+Percent of 911 calls answered within 10 seconds 88% 90% 90%
+Avg emergency response time in mins for priority one calls
+4m 30s 4m 30s 4m 30s
+(dispatch - on-scene)
+Quality Customer Service/ # of crime/drug prevention classes offered 2 2 2
+Quality of Life
+# of officers per 1,000 residents 1.91 1.95 1.95
+# of reported property crimes 2,891 2,500 2,500
+# of Traffic Citations 7,000 8,000 8,000
+# of persons utilizing advocate services 2,735 2,800 2,800
+# of Citizen Police Academies 0 2 2
+Quality Customer Service/
+Quality of Life/ Continued updating of Police vehicle fleet, total replaced 22 20 20
+Sustainability
+Return to Table of Contents
+
+--- PAGE 272 ---
+261
+CITY OF PLANTATION
+GENERAL FUND
+FY2023 - 2024
+POLICE
+Administration 12
+Sergeants 21
+Police Officers 148
+Civilians 103
+Part-Time 8
+Reserves P/T 8
+TOTAL 300
+Chief of Police
+A A d s m si i s n t i a st n r t a I ti I v I e S I e A n r t f g f e a e r i n r a s a n l t A L d e v g is a o l r S S C p e o e r m c v ia i m c l e i . s t
+Operations BureauDeputy Administrative Assistant Administration Bureau
+Chief Assistant II Legal Advisor Deputy Chief
+Pat C ro a l p D ta iv in is ion Honor Guard Specia C l a O p p ta e i r n a tions Investig C a a t p io ta n i n Division General S C e a r p v t i a ce in s Division Ad A m ss i i n st is a t n ra t t I i I ve Support S C e a r p v t i a ce in s Division
+Ad A m ss in is i t s a tr n a t t i I v e F F o ie r l c d e Crisis T R e e a s m ponse Rese S a p rc e h c / ia P l l i a s n t ning Ad A m ss in is i t s a tr n a t t i I ve Crime Analyst A A d s m si i s n t i a st n r t a t I i I v I e A G c r c a r n e t d s i t M at g io r n . Lieutenant C S o u d p e e E r n vi f s o o r r c.
+Exe A c lp L h i a e u S t h e i n ft a nt Exe B c ra L v i o eu S t h en ift a nt Exe B c r a L v ie o u S t h en ift a nt Property Manager E M qu a i n p a m g e e n r t R C e o c o o r r d d in S a y to st r . Co P m ub m lic M S a a n fe a t g y e r Su S p e p r o g r e t a S n v t cs Ad A m ss i i n st is a t n ra t t I i I ve
+A 6 S lp p e h o rg a s e i t S a io h n n i t f s t B 6 S r p a e v o rg o si e t S a io h n n i t f s t Eng C a o g m e m m u e n n i t t y U nit K A -9 lp S h e a r g S e h a if n t t Se T r r g a e ff a ic nt Str S e e e r t g C ea ri n m t es Pe S r e s r o g n e s a U n n t it Ju S v e e r n g il e e a U nt nit S V e IN rg e U a n n it t Pr S op e e rg rt e y a n U t nit Prop 2 e p rt o y s i A ti s o s n is s tant CSA Rec 6 o r p d o s s A it s io s n is s tant V A a s li s d is a t t a io n n t Ad A m ss i i n st is a t n ra t t I iv I e C 8 o I n d p s e o p s E e it n c io f t o o n r r s c.
+4 A 4 l O p p h ff o a i s c i e S t r i h o s i n ft s 4 B 4 r O a p f v f o o i s c i e S t r i h o s i n ft s C O r f i f m ic e e r P /S re ta v f e f n I t n io s n p 5 O p f o K f s i - c i 9 t e io rs n s M 6 o p T t o r o a s r i f c t f i y i o c c n le s St 5 r e O p e f o f t s i c C it e r io r im s n s es P A C e g r r i a m s i o n e n s s t s Cr U im ni e t M Sc g e r n . e 9 p S o R si O tions T 5 D a p e s o t k e s F c it t o io i r v n c e e s A D u e t t o e c T t h iv e e f s t Propert P y / A T ssistant M S 2 a p i p n e o t c e s ia n it l a i i o s n t n c s s e Rec A o s r s d i s s t A a d n m t in. Alp 3 h a p S o P u s S p it v i C o . o n m s m Train O in ff g ic S er e s ction Range Master
+6 po C s S it A ions 6 po C s S it A ions C C R o o o m e r la d m t i i n u o a n n t i s t o y r DU T I r a O f f f f i i c cer S T W ea A m T T D a e s t k e F c o ti r v c e e F E in x g a e m r i P n r e in r t SR 6 O p o P O s / i T t f i f o ic n e s rs Coor V d I i N na tor 4 D B p e u o t r e s g c i l t a t io i r v n y e s Quartermaster Ad A m ss in is i t s a tr n a t t i I ve 1 D C 1 i o s p m p o a p s t i l c t a i h i o n e n t r s I B n a v W c e k i s g l t r C ig o a a u l t l n o d r Ba S c p k e g c r ia o l u is n t d
+Operator 1
+C R o A m e s l s a m is ti u t o a n n n i s t t y CSA Majo T r e a C m rimes C T 5 r i e m p c o h e s n i S t ic i c o i e a n n n s e Ad V v ic o t c im ate Cr 3 E i m c p o e o n s s o / it F m io ra n ic u s d Bravo S u PS pv C . omm Academy Advisor Of F f T ic O ers
+3 positions
+B G ra a v t o e w S a h y ift S E p v D i e d ig c e i i t a n a l c i l s e t Majo T r e a C m rimes Majo T r e a C m rimes 1 D 1 i s p p o a s t i c ti h o e n r s Police Cadets
+Explorers Ad A m ss in is i t s a tr n a t t i I ve 2 po C s S it A ions 12 W p i o ll s C it a io ll ns R O e 8 s f f e p i r c o v e s e r it s i P o P o n / l s i T c e
+CSA
+
+--- PAGE 273 ---
+262
+
+--- PAGE 274 ---
+263
+Return to Table of Contents
+
+--- PAGE 275 ---
+264
+
+--- PAGE 276 ---
+265
+
+--- PAGE 277 ---
+266
+CITY OF PLANTATION
+GENERAL FUND
+FY 2023 - 2024
+POLICE
+Project Name/Description FY2024 FY2025 FY2026 FY2027 FY2028
+RMS/CAD System 300,000 300,000 300,000 300,000 -
+(1)Door Circuit Monitoring Overlay System 2 2,000 - - - -
+(20)Ford Interceptors- Police Package-marked vehicles 900,000 940,000 980,000 1,020,000 1,060,000
+(20)Police Emergency equipment for marked units 280,000 300,000 320,000 340,000 360,000
+(5)Unmarked Police vehicles 235,000 300,000 350,000 364,000 -
+(1)Bounce Imaging Explorer 2.0 5,700 - - - -
+(1)Tableau TX1 Forensic Imager Kit 7,000 - - - -
+(1)Police K-9 dog 2 3,000 2 5,000 - - 3 0,000
+(2)Ford Interceptor SUV K-9 Unit - - 132,000 - -
+(2)Ford Transit vehicles to be used as ID units - 8 6,000 - - -
+(1)Ford F-150 or equivalent model-unmarked units for SCU. - 5 4,000 5 7,000 - -
+(3)Motorola Portable Police Radios-Encrypted - 1 8,000 1 8,000 1 8,000 -
+(5)In vehicle camera system for Police units - 3 7,500 4 0,000 4 0,000 -
+Total $ 1 ,772,700 $ 2 ,060,500 $ 2 ,197,000 $ 2 ,082,000 $ 1 ,450,000
+Return to Table of Contents
+
+--- PAGE 278 ---
+267
+CITY OF PLANTATION
+GENERAL FUND
+FY 2023 - 2024
+POLICE
+MACHINERY AND EQUIPMENT
+Police General Fund
+Unparalleled Quality of Life and Services Sustainability Economic Opportunity and Resiliency
+Fiscal Year Quantity Unit Price Total
+FY2024 1 $ 22,000 $ 22,000
+FY2025 0 $ - $ -
+Door Circuit Monitoring Overlay System FY2026 0 $ - $ -
+FY2027 0 $ - $ -
+FY2028 0 $ - $ -
+The Police Department has two elevators which are requiring overhauls to be brought up to the latest safety and code standards.
+No financial impact
+Police General Fund
+Unparalleled Quality of Life and Services Sustainability Economic Opportunity and Resiliency
+Fiscal Year Quantity Unit Price Total
+FY2024 20 $ 45,000 $ 900,000
+FY2025 20 $ 47,000 $ 940,000
+Ford Interceptors -Police Package-marked vehicles, tag and vehicle
+FY2026 20 $ 49,000 $ 980,000
+registration cost.
+FY2027 20 $ 51,000 $ 1,020,000
+FY2028 20 $ 53,000 $ 1,060,000
+Replacing marked police patrol vehicles that are over 9 years old with high mileage and idle hours. These vehicles will replace current police
+vehicles from 2012 to 2014. Hybrids will be purchased if available.
+Reduce costs related to repairs and maintenance.
+
+--- PAGE 279 ---
+268
+CITY OF PLANTATION
+GENERAL FUND
+FY 2023 - 2024
+POLICE
+MACHINERY AND EQUIPMENT
+Police General Fund
+Unparalleled Quality of Life and Services Sustainability Economic Opportunity and Resiliency
+Fiscal Year Quantity Unit Price Total
+FY2024 20 $ 14,000 $ 280,000
+FY2025 20 $ 15,000 $ 300,000
+Police Emergency Equipment for marked units (light package, cages,
+FY2026 20 $ 16,000 $ 320,000
+decals, computer mounts, push bumper, window tinting, etc.)
+FY2027 20 $ 17,000 $ 340,000
+FY2028 20 $ 18,000 $ 360,000
+Police equipment needed to outfit marked police patrol units.
+No operating impact
+Police General Fund
+Unparalleled Quality of Life and Services Sustainability Economic Opportunity and Resiliency
+Fiscal Year Quantity Unit Price Total
+FY2024 5 $ 47,000 $ 235,000
+FY2025 6 $ 50,000 $ 300,000
+Unmarked police vehicles / equipment for specialized units /
+FY2026 7 $ 50,000 $ 350,000
+Administrative positions
+FY2027 7 $ 52,000 $ 364,000
+FY2028 0 $ - $ -
+These vehicles will replace aging units over nine years old. Hybrids will be purchased if available.
+Reduction of maintenance and repair costs
+
+--- PAGE 280 ---
+
+================================================================================
+TASK 9: FY2024 ADOPTED BUDGET - ALPR/LPR CAPITAL OUTLAY SCAN
+================================================================================
+
+Total pages in FY2024 budget: 741
+
+PAGES 267-280 (Police capital outlay section):
+
+--- PAGE 267 ---
+CITY OF PLANTATION
+PUBLIC SAFETY
+DEPARTMENTS
+Police Howard Harrison, Police Chief
+Fire Donald Todd, Fire Chief
+Fire Rescue Donald Todd, Fire Chief
+
+--- PAGE 268 ---
+257
+CITY OF PLANTATION
+POLICE
+Mission Statement
+Our Mission is to improve the quality of life for the citizens of Plantation through a partnership with the
+community that promotes safe, secure streets and neighborhoods. We recognize our responsibility to
+maintain order, while affording dignity and respect to every individual.
+Department Description
+The Plantation Police Department is a full-service law enforcement agency dedicated to providing the
+highest level of service possible to our community. Our department is one of the few selected agencies
+to have earned accreditation for both the International Accrediting Agency (CALEA) and the State of
+Florida Accrediting Agency (CFA).
+The major responsibilities and services provided include:
+Records Section: some of the responsibilities of the unit consist of reviewing and approving
+police reports, filing cases with the State Attorney’s Office, processing public record requests,
+performing background checks, fingerprinting, accepting and distributing subpoenas and many
+other responsibilities.
+Communications Unit: process and handle service call for Police, Fire and EMS Services.
+Road Patrol: provide law enforcement services based on areas of responsibility 24 hours a day
+and 7 days a week.
+The Investigations Division conducts follow-up investigations involving criminal cases and other
+incidents in the City of Plantation. The CID may also take up complicated cases like fraud and
+identity theft, narcotics violations, property crimes or very complicated persons’ crimes cases
+like homicide.
+The Canine Unit (K-9) supplements the Department’s Road Patrol Division by providing support
+to in-progress incidents. K-9 Officers and dogs are specially trained to locate subjects and
+property. The K-9 Unit also conducts demonstrations at a variety of community events.
+Field Force: restores order, move crowds, rescues victims and isolates problem areas.
+Special Weapons and Tactics Team (SWAT): responsible for responding to critical incidents and
+executing warrants.
+Return to Table of Contents
+
+--- PAGE 269 ---
+258
+CITY OF PLANTATION
+POLICE
+Traffic Unit: responsible for enforcing traffic laws, accident investigations, driver education and
+monitoring the school crossing guard program.
+Code Enforcement Section: receives and answers complaints, performs site inspections,
+routinely interprets and enforces City Ordinances and provides first-class service to residents in
+need.
+FY2024 Budget Highlights
+The Plantation Police Department is requesting the following positions for the FY2024:
+Addition of (1) one Police Officer full-time position. This request has been carefully
+reviewed and is needed due to population growth within the City and as part of the long-
+term strategic plan of the Police Department.
+Addition of (1) one Senior Code Enforcement Inspector. This request is made due to
+population growth and the increased emphasis on addressing code and quality of life
+issues in the City.
+Addition of (1) one Assistant Communications Manager to assist in the management of
+the Police Department’s independent Communications Unit.
+Addition of (1) one Digital Records and License Plate Recognition (LPR) Coordinator to
+assist in handling digital records and establishing a Body Worn Camera (BWC) program.
+The Plantation Police Department is also requesting the following capital outlay:
+The purchase of (20) twenty police vehicles to replace vehicles that are over ten (10)
+years old.
+The implementation of a new Computer Aided Dispatch (CAD) and Records Management
+System to replace the current legacy system which has been in service for fifteen (15)
+years.
+The continued enhancement of the City’s License Plate Recognition (LPR) system.
+The procurement and implementation of a Body Worn Camera (BWC) program.
+
+--- PAGE 270 ---
+259
+CITY OF PLANTATION
+GENERAL FUND
+FY 2023 - 2024
+POLICE
+FY2023 Highlights & Accomplishments
+ACCOMPLISHMENTS STRATEGIC PRIORITY
+The Digital Forensic Unit (DFU) became fully operational in the fall of 2022.
+DFU has acquired and analyzed over 850 specimens in support of PPD cases since 2013.
+DFU examinations have supported factual and expert testimony in State and Federal Courts.
+The Community Engagement Unit (CEU) has established a more positive interaction and relationship Quality Customer Service/
+with residents. Quality of Life
+Successfully participated in the National Night Out (NNO) community event where over 4,000 residents
+were in attendance.
+Continued to take steps to bridge the gap between the community and the Police Department through
+effective communication, transparency and positivity.
+FY2024 Goals
+DEPARTMENTAL GOALS STRATEGIC PRIORITY
+Continue to replace police vehicles that are 10-12 years old with 2024 model units in order to lower the
+maintenance costs. Quality Customer Service/
+Quality of Life/
+Continue to implement the body-worn cameras in order to provide officers with a reliable and compact Sustainability
+tool to systematically and automatically record their field observations and encounters.
+
+--- PAGE 271 ---
+260
+CITY OF PLANTATION
+GENERAL FUND
+FY 2023 - 2024
+POLICE
+Performance Measures
+FY2022 FY2023 FY2024
+STRATEGIC PRIORITY MEASURE
+ACTUAL TARGET GOAL
+# of fingerprints taken annually 800 800 800
+# of Calls for Service 72,857 75,000 78,000
+Percent of 911 calls answered within 10 seconds 88% 90% 90%
+Avg emergency response time in mins for priority one calls
+4m 30s 4m 30s 4m 30s
+(dispatch - on-scene)
+Quality Customer Service/ # of crime/drug prevention classes offered 2 2 2
+Quality of Life
+# of officers per 1,000 residents 1.91 1.95 1.95
+# of reported property crimes 2,891 2,500 2,500
+# of Traffic Citations 7,000 8,000 8,000
+# of persons utilizing advocate services 2,735 2,800 2,800
+# of Citizen Police Academies 0 2 2
+Quality Customer Service/
+Quality of Life/ Continued updating of Police vehicle fleet, total replaced 22 20 20
+Sustainability
+Return to Table of Contents
+
+--- PAGE 272 ---
+261
+CITY OF PLANTATION
+GENERAL FUND
+FY2023 - 2024
+POLICE
+Administration 12
+Sergeants 21
+Police Officers 148
+Civilians 103
+Part-Time 8
+Reserves P/T 8
+TOTAL 300
+Chief of Police
+A A d s m si i s n t i a st n r t a I ti I v I e S I e A n r t f g f e a e r i n r a s a n l t A L d e v g is a o l r S S C p e o e r m c v ia i m c l e i . s t
+Operations BureauDeputy Administrative Assistant Administration Bureau
+Chief Assistant II Legal Advisor Deputy Chief
+Pat C ro a l p D ta iv in is ion Honor Guard Specia C l a O p p ta e i r n a tions Investig C a a t p io ta n i n Division General S C e a r p v t i a ce in s Division Ad A m ss i i n st is a t n ra t t I i I ve Support S C e a r p v t i a ce in s Division
+Ad A m ss in is i t s a tr n a t t i I v e F F o ie r l c d e Crisis T R e e a s m ponse Rese S a p rc e h c / ia P l l i a s n t ning Ad A m ss in is i t s a tr n a t t i I ve Crime Analyst A A d s m si i s n t i a st n r t a t I i I v I e A G c r c a r n e t d s i t M at g io r n . Lieutenant C S o u d p e e E r n vi f s o o r r c.
+Exe A c lp L h i a e u S t h e i n ft a nt Exe B c ra L v i o eu S t h en ift a nt Exe B c r a L v ie o u S t h en ift a nt Property Manager E M qu a i n p a m g e e n r t R C e o c o o r r d d in S a y to st r . Co P m ub m lic M S a a n fe a t g y e r Su S p e p r o g r e t a S n v t cs Ad A m ss i i n st is a t n ra t t I i I ve
+A 6 S lp p e h o rg a s e i t S a io h n n i t f s t B 6 S r p a e v o rg o si e t S a io h n n i t f s t Eng C a o g m e m m u e n n i t t y U nit K A -9 lp S h e a r g S e h a if n t t Se T r r g a e ff a ic nt Str S e e e r t g C ea ri n m t es Pe S r e s r o g n e s a U n n t it Ju S v e e r n g il e e a U nt nit S V e IN rg e U a n n it t Pr S op e e rg rt e y a n U t nit Prop 2 e p rt o y s i A ti s o s n is s tant CSA Rec 6 o r p d o s s A it s io s n is s tant V A a s li s d is a t t a io n n t Ad A m ss i i n st is a t n ra t t I iv I e C 8 o I n d p s e o p s E e it n c io f t o o n r r s c.
+4 A 4 l O p p h ff o a i s c i e S t r i h o s i n ft s 4 B 4 r O a p f v f o o i s c i e S t r i h o s i n ft s C O r f i f m ic e e r P /S re ta v f e f n I t n io s n p 5 O p f o K f s i - c i 9 t e io rs n s M 6 o p T t o r o a s r i f c t f i y i o c c n le s St 5 r e O p e f o f t s i c C it e r io r im s n s es P A C e g r r i a m s i o n e n s s t s Cr U im ni e t M Sc g e r n . e 9 p S o R si O tions T 5 D a p e s o t k e s F c it t o io i r v n c e e s A D u e t t o e c T t h iv e e f s t Propert P y / A T ssistant M S 2 a p i p n e o t c e s ia n it l a i i o s n t n c s s e Rec A o s r s d i s s t A a d n m t in. Alp 3 h a p S o P u s S p it v i C o . o n m s m Train O in ff g ic S er e s ction Range Master
+6 po C s S it A ions 6 po C s S it A ions C C R o o o m e r la d m t i i n u o a n n t i s t o y r DU T I r a O f f f f i i c cer S T W ea A m T T D a e s t k e F c o ti r v c e e F E in x g a e m r i P n r e in r t SR 6 O p o P O s / i T t f i f o ic n e s rs Coor V d I i N na tor 4 D B p e u o t r e s g c i l t a t io i r v n y e s Quartermaster Ad A m ss in is i t s a tr n a t t i I ve 1 D C 1 i o s p m p o a p s t i l c t a i h i o n e n t r s I B n a v W c e k i s g l t r C ig o a a u l t l n o d r Ba S c p k e g c r ia o l u is n t d
+Operator 1
+C R o A m e s l s a m is ti u t o a n n n i s t t y CSA Majo T r e a C m rimes C T 5 r i e m p c o h e s n i S t ic i c o i e a n n n s e Ad V v ic o t c im ate Cr 3 E i m c p o e o n s s o / it F m io ra n ic u s d Bravo S u PS pv C . omm Academy Advisor Of F f T ic O ers
+3 positions
+B G ra a v t o e w S a h y ift S E p v D i e d ig c e i i t a n a l c i l s e t Majo T r e a C m rimes Majo T r e a C m rimes 1 D 1 i s p p o a s t i c ti h o e n r s Police Cadets
+Explorers Ad A m ss in is i t s a tr n a t t i I ve 2 po C s S it A ions 12 W p i o ll s C it a io ll ns R O e 8 s f f e p i r c o v e s e r it s i P o P o n / l s i T c e
+CSA
+
+--- PAGE 273 ---
+262
+
+--- PAGE 274 ---
+263
+Return to Table of Contents
+
+--- PAGE 275 ---
+264
+
+--- PAGE 276 ---
+265
+
+--- PAGE 277 ---
+266
+CITY OF PLANTATION
+GENERAL FUND
+FY 2023 - 2024
+POLICE
+Project Name/Description FY2024 FY2025 FY2026 FY2027 FY2028
+RMS/CAD System 300,000 300,000 300,000 300,000 -
+(1)Door Circuit Monitoring Overlay System 2 2,000 - - - -
+(20)Ford Interceptors- Police Package-marked vehicles 900,000 940,000 980,000 1,020,000 1,060,000
+(20)Police Emergency equipment for marked units 280,000 300,000 320,000 340,000 360,000
+(5)Unmarked Police vehicles 235,000 300,000 350,000 364,000 -
+(1)Bounce Imaging Explorer 2.0 5,700 - - - -
+(1)Tableau TX1 Forensic Imager Kit 7,000 - - - -
+(1)Police K-9 dog 2 3,000 2 5,000 - - 3 0,000
+(2)Ford Interceptor SUV K-9 Unit - - 132,000 - -
+(2)Ford Transit vehicles to be used as ID units - 8 6,000 - - -
+(1)Ford F-150 or equivalent model-unmarked units for SCU. - 5 4,000 5 7,000 - -
+(3)Motorola Portable Police Radios-Encrypted - 1 8,000 1 8,000 1 8,000 -
+(5)In vehicle camera system for Police units - 3 7,500 4 0,000 4 0,000 -
+Total $ 1 ,772,700 $ 2 ,060,500 $ 2 ,197,000 $ 2 ,082,000 $ 1 ,450,000
+Return to Table of Contents
+
+--- PAGE 278 ---
+267
+CITY OF PLANTATION
+GENERAL FUND
+FY 2023 - 2024
+POLICE
+MACHINERY AND EQUIPMENT
+Police General Fund
+Unparalleled Quality of Life and Services Sustainability Economic Opportunity and Resiliency
+Fiscal Year Quantity Unit Price Total
+FY2024 1 $ 22,000 $ 22,000
+FY2025 0 $ - $ -
+Door Circuit Monitoring Overlay System FY2026 0 $ - $ -
+FY2027 0 $ - $ -
+FY2028 0 $ - $ -
+The Police Department has two elevators which are requiring overhauls to be brought up to the latest safety and code standards.
+No financial impact
+Police General Fund
+Unparalleled Quality of Life and Services Sustainability Economic Opportunity and Resiliency
+Fiscal Year Quantity Unit Price Total
+FY2024 20 $ 45,000 $ 900,000
+FY2025 20 $ 47,000 $ 940,000
+Ford Interceptors -Police Package-marked vehicles, tag and vehicle
+FY2026 20 $ 49,000 $ 980,000
+registration cost.
+FY2027 20 $ 51,000 $ 1,020,000
+FY2028 20 $ 53,000 $ 1,060,000
+Replacing marked police patrol vehicles that are over 9 years old with high mileage and idle hours. These vehicles will replace current police
+vehicles from 2012 to 2014. Hybrids will be purchased if available.
+Reduce costs related to repairs and maintenance.
+
+--- PAGE 279 ---
+268
+CITY OF PLANTATION
+GENERAL FUND
+FY 2023 - 2024
+POLICE
+MACHINERY AND EQUIPMENT
+Police General Fund
+Unparalleled Quality of Life and Services Sustainability Economic Opportunity and Resiliency
+Fiscal Year Quantity Unit Price Total
+FY2024 20 $ 14,000 $ 280,000
+FY2025 20 $ 15,000 $ 300,000
+Police Emergency Equipment for marked units (light package, cages,
+FY2026 20 $ 16,000 $ 320,000
+decals, computer mounts, push bumper, window tinting, etc.)
+FY2027 20 $ 17,000 $ 340,000
+FY2028 20 $ 18,000 $ 360,000
+Police equipment needed to outfit marked police patrol units.
+No operating impact
+Police General Fund
+Unparalleled Quality of Life and Services Sustainability Economic Opportunity and Resiliency
+Fiscal Year Quantity Unit Price Total
+FY2024 5 $ 47,000 $ 235,000
+FY2025 6 $ 50,000 $ 300,000
+Unmarked police vehicles / equipment for specialized units /
+FY2026 7 $ 50,000 $ 350,000
+Administrative positions
+FY2027 7 $ 52,000 $ 364,000
+FY2028 0 $ - $ -
+These vehicles will replace aging units over nine years old. Hybrids will be purchased if available.
+Reduction of maintenance and repair costs
+
+--- PAGE 280 ---
+269
+CITY OF PLANTATION
+GENERAL FUND
+FY 2023 - 2024
+POLICE
+MACHINERY AND EQUIPMENT
+Police General Fund
+Unparalleled Quality of Life and Services Sustainability Economic Opportunity and Resiliency
+Fiscal Year Quantity Unit Price Total
+FY2024 1 $ 5,700 $ 5,700
+FY2025 0 $ - $ -
+Bounce Imaging Explorer 2.0 FY2026 0 $ - $ -
+FY2027 0 $ - $ -
+FY2028 0 $ - $ -
+This is a communications device equipped with cameras and microphones used for communicating with barricaded subjects.
+No financial impact
+Police General Fund
+Unparalleled Quality of Life and Services Sustainability Economic Opportunity and Resiliency
+Fiscal Year Quantity Unit Price Total
+FY2024 1 $ 7,000 $ 7,000
+FY2025 0 $ - $ -
+Tableau TX1 Forensic Imager Kit FY2026 0 $ - $ -
+FY2027 0 $ - $ -
+FY2028 0 $ - $ -
+Portable forensic imaging kit to be used by the Digital Forensic Unit.
+No financial impact
+Return to Table of Contents
+
+================================================================================
+TASK 7: LASERFICHE SEARCHES - GATEWAY ADVISORY BOARD & LICENSE PLATE READER
+================================================================================
+
+SEARCH 1: 'license plate reader'
+----------------------------------------
+
+Total hits: 77
+Results returned: 10
+
+[Result 1]
+  Name: 2021-04-22 Gateway Advisory Board Agenda & Minutes
+  Entry ID: 37733
+  Date: 3/27/2025 2:16:40 PM
+  Context Hits: 5
+    - Page 3: "  Police update and license plate readers, which will be discussed later during ..."
+    - Page 3: "n questioned if the license plate readers are mounted on traffic lights to stop ..."
+
+[Result 2]
+  Name: 2021-08-24 Gateway Advisory Board Agenda & Minutes
+  Entry ID: 7422
+  Date: 3/27/2025 2:17:08 PM
+  Context Hits: 5
+    - Page 1: "eting inquiries  i) License plate camera funding  ii) District millage rate suns..."
+    - Page 3: "  Police update and license plate readers, which will be discussed later during ..."
+
+[Result 3]
+  Name: 2017-02-08 City Council Meeting Minutes
+  Entry ID: 3185
+  Date: 4/10/2025 2:51:09 PM
+  Context Hits: 1
+    - Page 5: "lighting  • Enact a license plate reader technology  * * * * *  Meeting adjourne..."
+
+[Result 4]
+  Name: 2017-11-08 Council Agenda Packet
+  Entry ID: 18462
+  Date: 8/29/2024 3:09:52 PM
+  Context Hits: 5
+    - Page 47: "ression Ring: steel plate, ASTM A572 Grade 50.  4. Fasteners  a. Bolts: ASTM A32..."
+    - Page 82: "tulations With this license you become one of the nearly  one million Floridians..."
+
+[Result 5]
+  Name: 2017-06-14 Council Agenda Packet
+  Entry ID: 18451
+  Date: 8/29/2024 3:01:27 PM
+  Context Hits: 5
+    - Page 71: "e includes both the license to use the software and access to the specified EMC ..."
+    - Page 76: "e is subject to the license terms accompanying the software, and in the absence ..."
+
+[Result 6]
+  Name: 2007-06-11 Code Enforcement oard Minutes
+  Entry ID: 23220
+  Date: 12/23/2024 5:44:10 PM
+  Context Hits: 5
+    - Page 2: "r own occupational  license.  Ms. Cook advised the tenant attended the initial h..."
+    - Page 3: ". A new card access reader was installed for the judges with a keypad allowing t..."
+
+[Result 7]
+  Name: 2021-05-11 RC Minutes
+  Entry ID: 4159
+  Date: 2/4/2025 4:07:54 PM
+  Context Hits: 2
+    - Page 10: "e installation of a License Plate Reader is strongly recommended.      Note:   A..."
+    - Page 10: "mit or Occupational License being issued, the following must be provided:   • Wa..."
+
+[Result 8]
+  Name: 2021-08-11 Council Agenda Packet
+  Entry ID: 19188
+  Date: 9/18/2024 1:54:21 PM
+  Context Hits: 5
+    - Page 18: "operating without a license for the last year   and the grease trap.         166..."
+    - Page 73: "ation for permit or license,   CITY may, in some instances, direct CONSULTANT to..."
+
+[Result 9]
+  Name: 2018-10-24 Council Agenda Packet
+  Entry ID: 18537
+  Date: 9/3/2024 4:40:36 PM
+  Context Hits: 5
+    - Page 17: "CK TEXTURE ALUMINUM PLATE TO MATCH THE COLOR OF THE CAB 14G PANEL.  CABINET/LOCK..."
+    - Page 17: "D  EXTENDED DIAMOND PLATE CORNER GUARDS  INSTALL A ZICO VS -24-11 ELECTRIC STEP ..."
+
+[Result 10]
+  Name: 2018-11-14 Council Agenda Packet
+  Entry ID: 18536
+  Date: 9/3/2024 4:40:59 PM
+  Context Hits: 5
+    - Page 42: "51015RN  10x15 Lid, Reader Lid  $45.88  $9.17  $6.50  $7.50  10x15  _ Lid  5101S..."
+    - Page 42: "Lid, Sensus AMR and Reader  $48.11  NA '  $6.50  $10.25  11x18  Lid  51118NN  11..."
+
+
+========================================
+PAGE 2 (startIdx 10):
+========================================
+
+[Result 11]
+  Name: 2019-11-06 Council Agenda Packet
+  Entry ID: 18702
+
+[Result 12]
+  Name: FY2016 Adopted Budget
+  Entry ID: 7647
+
+[Result 13]
+  Name: FY2013 Adopted Budget
+  Entry ID: 7644
+
+[Result 14]
+  Name: 2014-10-02 Council Agenda Packet
+  Entry ID: 17162
+
+[Result 15]
+  Name: FY2012 Adopted Budget
+  Entry ID: 7643
+
+[Result 16]
+  Name: FY2014 Adopted Budget
+  Entry ID: 7645
+
+[Result 17]
+  Name: FY1997 Adopted Budget
+  Entry ID: 7732
+
+[Result 18]
+  Name: FY2015 Adopted Budget
+  Entry ID: 7646
+
+[Result 19]
+  Name: FY2017 Adopted Budget
+  Entry ID: 7721
+
+[Result 20]
+  Name: 2018-08-22 Council Agenda Packet
+  Entry ID: 18532
+
+
+
+SEARCH 2: 'Gateway Advisory'
+----------------------------------------
+
+Total hits: 1624
+Results returned: 10
+
+[Result 1]
+  Name: 1997-08-14 Gateway 7 Advisory Board Agenda & Minutes
+  Entry ID: 38095
+
+[Result 2]
+  Name: Gateway Advisory Board Index 2015-2021
+  Entry ID: 37785
+
+[Result 3]
+  Name: Gateway Advisory Board Index 2015-2021
+  Entry ID: 37786
+
+[Result 4]
+  Name: Gateway Advisory Board Index 2015-2021
+  Entry ID: 37787
+
+[Result 5]
+  Name: Gateway Advisory Board Index 2015-2021
+  Entry ID: 37788
+
+[Result 6]
+  Name: Gateway Advisory Board Index 2015-2021
+  Entry ID: 37789
+
+[Result 7]
+  Name: Gateway Advisory Board Index 2015-2021
+  Entry ID: 37790
+
+[Result 8]
+  Name: Gateway Advisory Board Index 2015-2021
+  Entry ID: 37791
+
+[Result 9]
+  Name: 1995-10-18 Gateway 7 Agenda & Minutes
+  Entry ID: 37670
+
+[Result 10]
+  Name: Gateway 7 Advisory Board Index 2010
+  Entry ID: 37587
+
+
+================================================================================
+TASK 8: LASERFICHE SEARCHES - VETTED SECURITY & WB NO. 019-17
+================================================================================
+
+SEARCH 1: 'Vetted Security'
+----------------------------------------
+
+Total hits: 38
+
+[Result 1]
+  Name: 2017-06-14 City Council Meeting Minutes
+  Entry ID: 3191
+  Context Hit (Page 3):
+    "a purchase order to Vetted Security Solutions to " Supply two (2)  LPR Speed Tra"
+
+[Result 2]
+  Name: 2019-09-24 Parks & Recreation Advisory Board Minutes
+  Entry ID: 5732
+  Context Hit (Page 2):
+    "s played.  This was vetted through the United States Pickleball Association and "
+
+[Result 3]
+  Name: RESO 12532 COP Expenditures and Appropriations August 31 - September 6, 2017
+  Entry ID: 440
+  Context Hit (Page 6):
+    "AR USA INC   152469 VETTED SECURITY SOLUTIONS LLC   152317 Garnishment   152470 "
+
+[Result 4]
+  Name: 2009-01-28 City Council Meeting Minutes
+  Entry ID: 16384
+  Context Hit (Page 12):
+    " there should be no security access gates. Mr. Allsworth did not want that to be"
+
+[Result 5]
+  Name: RESO 11878 Major Accounts Agreement Between ADP, Inc. Regarding Human Resources Services
+  Entry ID: 4503
+  Context Hit (Page 3):
+    "ntains appropriate, security measures to protect the personal information of Cli"
+
+[Result 6]
+  Name: 2016-05-10 Review Committee Minutes
+  Entry ID: 31265
+  Context Hit (Page 10):
+    " agreement and post security for all engineering  and landscape related improvem"
+
+[Result 7]
+  Name: 2009-01-21 City Council Meeting Minutes
+  Entry ID: 16392
+  Context Hit (Page 17):
+    " a process that was vetted through the Fire Department a number of years ago wit"
+
+[Result 8]
+  Name: 2017-06-14 Council Agenda Packet
+  Entry ID: 18451
+  Context Hit (Page 2):
+    "a purchase order to Vetted Security  S olutions to "S upply two (2) L P R  Speed"
+
+[Result 9]
+  Name: 2017-11-15 Council Agenda Packet
+  Entry ID: 18459
+  Context Hit (Page 30):
+    "ance  • Vandalism   Vetted Security Solutions  621 Monte Cristo Blvd  Tierra Ver"
+
+[Result 10]
+  Name: 2017-09-15 Council Agenda Packet
+  Entry ID: 18456
+  Context Hit (Page 25):
+    "8 59.43 09/06/2017  VETTED SECURITY SOLUTIONS LLC152469 79,410.00 09/06/2017  Ga"
+
+
+
+SEARCH 2: '019-17' (Bid Number)
+----------------------------------------
+
+Total hits: 156
+
+[Result 1]
+  Name: 1988-03-21 Landscape Planning and Review Board Agenda & Minutes
+  Entry ID: 40066
+  Context Hit (Page 1):
+    "  41.  b. PET. #SP -019: Consideration of request for  _andscape approval for th"
+
+[Result 2]
+  Name: 2016-04-02 Bendekovic
+  Entry ID: 6006
+  Context Hit (Page 1):
+    "03/17/2018 12:55 FAX 9545228123 BRINKLEY MORGAN  I (019/024  CERTIFICATION OF ME"
+
+[Result 3]
+  Name: 1986-09-25 Zoning Board Agenda
+  Entry ID: 54509
+  Context Hit (Page 1):
+    "reet.  f. PET. #SP -019-09-86: Consideration of request for revised site plan,  "
+
+[Result 4]
+  Name: RESO 12741 MPO 2020 Complete Streets and Localized Initiatives Program for MURT
+  Entry ID: 213
+  Context Hit (Page 2):
+    "by the Mayor this   17 day of Septe m $019.   ATTEST:   SAN SLATTERY, CI CLERK  "
+
+[Result 5]
+  Name: 1987-01-07 Plan Adjustment Committee Agendas & Minutes
+  Entry ID: 6731
+  Context Hit (Page 1):
+    "-4Q.  k. PET. #PAC -019: Consideration of request for approval to: (1)clarify  c"
+
+[Result 6]
+  Name: RESO 2024-019 Partial Right of Way Vacation 12050 NW 18th Ct
+  Entry ID: 14995
+  Context Hit (Page 1):
+    "RESOLUTION NO. 2024-019  2 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF  3 PL"
+
+[Result 7]
+  Name: RESO 2025-019 Approving_the_HOME_Consortium_Coop._Agreement_with_Broward_County
+  Entry ID: 48820
+  Context Hit (Page 1):
+    "RESOLUTION NO. 2025-019  2  3 A RESOLUTION OF THE CITY OF PLANTATION, FLORIDA,  "
+
+[Result 8]
+  Name: 1988-03-24 Zoning Board Agenda
+  Entry ID: 54526
+  Context Hit (Page 1):
+    "lat  Book 125, Page 17, of the Public Records of Broward  County, Florida. Prope"
+
+[Result 9]
+  Name: 1985-07-25 Zoning Board Agenda
+  Entry ID: 54501
+  Context Hit (Page 1):
+    "n Plat Book 2, Page 17 of the Public Records  of Dade County, Fla., LESS right o"
+
+[Result 10]
+  Name: 1981-06-25 Zoning Board Agenda
+  Entry ID: 43942
+  Context Hit (Page 1):
+    "y Blvd.  3. PET.#SP-019-06-81: Consideration of request for site plan, elevation"
+
+
+
+================================================================================
+IMPORTANT NOTE ON "DP LPR INPUT" ITEMS
+================================================================================
+
+The "DP LPR Input" items found in the 2017-11-08 Council Agenda (Pages 285-295)
+ARE FALSE POSITIVES and NOT related to Automated License Plate Readers.
+
+These items are software options for the "DP" (Konica Minolta Dispatcher Phoenix)
+document management system:
+  - "DP LPR Input" = "Line Printer Remote (LPR) Protocol" input module
+  - This is a technical protocol for legacy printer connectivity
+  - NOT surveillance technology
+  - Part of document processing/workflow software pricing
+  - Cost: $200 (software module license), not surveillance equipment
+
+This was a terminology coincidence — "LPR" in this context means "Line Printer
+Remote" (legacy printing standard), not "License Plate Reader" (surveillance).
+
+Do NOT include these items in ALPR procurement analysis.
+
+================================================================================
+END OF FOLLOW-UP FINDINGS REPORT
+================================================================================
+
+Report compiled: March 14, 2026
+All extraction tasks completed

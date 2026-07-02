@@ -146,3 +146,6 @@ fa9163305b4f145b6204f4a87a6c740ed4b155fcb08b70573d38feef84d04124  meetings/2025-
 60b7112c044ea175e914d37354365d06f1ba2085794bb60c3f21413e99600802  procurement/2013-12-16/11315 License Plate Recognition System.pdf
 230990e0d7bd3d93117d133a4c573de914483d8b5cea22ac5cc1b0a7247b66fc  procurement/Article V. Finance.pdf
 ca5c0b0a573cbfcb914c7eb323f884a9c8099912b83fb9240af15228de3f2219  procurement/Procurement Manual GM Revision 92225.pdf
+e3e89d34bb10fe13fe012119cc051d87d6a5385ba37acd08a8de4096739ea782  Flock Axon Study Agreement 2022-03-18.pdf
+1cd3e43d1294dbd97cdd143d43088050c3b7a9cf66533e64da42aec43fe92a1b  Insight PO 0068716017 Flock 40 Falcons 2024-10-23.pdf
+622408cf2dcaf951ac47d87740aa9e88cbe3ddf7f411c72e4acca0f9fc65768a  Insight PO 0069123419 Flock Phase 3 22 Falcons 2025-08-29.pdf

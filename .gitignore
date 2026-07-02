@@ -3,3 +3,19 @@
 tools/ocr-driver.ps1
 **/analysis
 doc/
+
+# Derived OCR artifacts — originals/ + txt/ are the committed evidence chain
+**/ocr/
+
+# Meeting recordings — hosted on archive.org, pointers + transcripts committed instead
+*.mp4
+*.wav
+
+# Originals >100MB — hosted on archive.org, see adjacent .POINTER.md files
+plantation/originals/2021-08-25_Council_Agenda_Packet_19194.pdf
+coral_springs/originals/minutes/2023-01-11_commission_evt443_Dec2022-minutes-Flock-vote-confirmed.pdf
+coral_springs/originals/packets/2024-09-12_commission_regular-meeting_Flock-amendment1-agenda-packet.pdf
+
+# Tactical hold: do not publish until redaction challenge resolves and reporter timing is decided
+# (remove this line when ready to publish Coral Springs)
+coral_springs/

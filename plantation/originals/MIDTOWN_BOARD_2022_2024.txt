@@ -1,0 +1,383 @@
+================================================================================
+CITY OF PLANTATION MIDTOWN ADVISORY BOARD INVESTIGATION
+Laserfiche Repository: r-a3d93a40
+Investigation Period: March 14, 2026
+Document Search: 2022-2025 Midtown Advisory Board Minutes
+================================================================================
+
+CRITICAL FINDING - ALPR FUNDING STATEMENT IN FY2024 BUDGET
+================================================================================
+
+SOURCE: FY2024 Adopted Budget (Entry 9854), Page 28
+DOCUMENT: City of Plantation FY2024 Comprehensive Annual Financial Report (CAFR)
+QUOTE: "The Midtown District will be funding the implantation of an ALPR system 
+         in Midtown during FY24."
+DATE: Adopted September 2023 (for fiscal year October 1, 2023 - September 30, 2024)
+
+CONTEXT (Full Text from FY2024 Budget, Page 28):
+---
+Automated License Plate Readers (ALPR)
+The city has implemented an ALPR system through our the SR7/Gateway corridor funded by
+the Gateway Special District. ALPR's are an invaluable tool for law enforcement to combat
+crime. The Midtown District will be funding the implantation of an ALPR system in Midtown
+during FY24.
+---
+
+SIGNIFICANCE:
+This is the ONLY explicit reference to Midtown-specific ALPR funding found in the 
+Laserfiche repository. The statement appears in the city's official FY2024 budget document, 
+making it a formal policy statement by City administration.
+
+================================================================================
+TASK 2: SEARCH FOR MIDTOWN ADVISORY BOARD MINUTES (2022-2025)
+================================================================================
+
+SEARCH METHODOLOGY:
+- Query: "Midtown Board Minutes" via Laserfiche API
+- Results: 1,162 total hits (50 shown)
+- Date range searched: 2022, 2023, 2024, 2025
+- Years with actual meeting minutes: 2000-2021 only
+
+FINDINGS: NO MIDTOWN ADVISORY BOARD MEETINGS DOCUMENTED FROM 2022 ONWARD
+
+Results Summary:
+- Most recent Midtown Advisory Board minutes: 2021-07-15 (Entry 60175)
+- Second most recent: 2021-04-20 (Entry 38274)
+- Previous meeting: 2019-11-14 (Entry 32752)
+- All meetings from 2022 onward in search results are resolutions/council items, 
+  not advisory board meeting minutes
+
+Explanation:
+The Midtown Advisory Board may not have held regular meetings during 2022-2024. 
+The advisory board appears to have been inactive or met infrequently during the 
+period when FY2024 ALPR implementation was supposed to occur.
+
+================================================================================
+DOCUMENTS SEARCHED FOR ALPR/CAMERA DISCUSSION
+================================================================================
+
+MIDTOWN ADVISORY BOARD MEETING MINUTES (4 meetings downloaded and analyzed):
+
+1. 2021-07-15 Plantation Midtown Advisory Board Minutes (Entry 60175, 4 pages)
+   File: midtown_board_2021-07-15_60175.pdf
+   Keywords searched: license plate, lpr, alpr, camera, surveillance, vigilant, 
+                     vetted, flock, rekor, security camera, technology
+   Result: NO KEYWORDS FOUND
+   Content: Routine board meeting minutes (development, financial matters)
+
+2. 2021-04-20 Plantation Midtown Advisory Board Agenda & Minutes (Entry 38274, 6 pages)
+   File: midtown_board_2021-04-20_38274.pdf
+   Keywords searched: license plate, lpr, alpr, camera, surveillance, vigilant, 
+                     vetted, flock, rekor, security camera, technology
+   Result: NO KEYWORDS FOUND
+   Content: Routine board meeting agenda and minutes
+
+3. 2019-11-14 Midtown Advisory Board Agenda Minutes Packet (Entry 32752, 11 pages)
+   File: midtown_board_2019-11-14_32752.pdf
+   Keywords searched: license plate, lpr, alpr, camera, surveillance, vigilant, 
+                     vetted, flock, rekor, security camera, technology
+   Result: NO KEYWORDS FOUND
+   Content: Meeting agenda and minutes (development, marketing, financial items)
+
+4. 2019-07-10 Midtown Advisory Board Agenda Minutes Packet (Entry 32755, 18 pages)
+   File: midtown_board_2019-07-10_32755.pdf
+   Keywords searched: license plate, lpr, alpr, camera, surveillance, vigilant, 
+                     vetted, flock, rekor, security camera, technology
+   Result: NO KEYWORDS FOUND
+   Content: Meeting agenda and minutes (development, community issues)
+
+CONCLUSION: None of the Midtown Advisory Board minutes sampled contain discussion 
+of ALPR, LPR, license plate readers, or camera surveillance systems.
+
+================================================================================
+FY2025 BUDGET RESOLUTION ANALYSIS
+================================================================================
+
+DOCUMENT: RESO 2024-048 FY2025_2nd_PH_-_Budget_Reso-PMDD (Entry 19233, 2 pages)
+File: FY2025_Budget_Reso_PMDD_19233.pdf
+Adoption Date: September 18, 2024
+
+CONTENT EXTRACTED:
+Resolution approves final FY2025 budget for Midtown Development District for 
+fiscal year October 1, 2024 through September 30, 2025.
+
+Key language:
+- "City Council acting as the Board of Directors of the Plantation Midtown 
+  Development District"
+- "approved the tentative budget estimates of revenue and expenditures...for 
+  the ensuing operating fiscal year beginning October 1, 2024 through 
+  September 30, 2025"
+- Budget "open for inspection in the Office of the City Clerk"
+- "budgets will...be amended at the fund level by the resolution approving 
+  the weekly expenditure report"
+
+RESULT: The resolution is a formal approval document. It does NOT contain 
+specific line item descriptions. Therefore, it does not disclose whether 
+FY2025 funding includes ALPR/camera system maintenance or expansion.
+
+CRITICAL GAP: While FY2024 budget promised Midtown ALPR funding, the FY2025 
+resolution does not confirm whether this was implemented or continued.
+
+================================================================================
+FY2024 MIDTOWN BUDGET RESOLUTION
+================================================================================
+
+DOCUMENT: RESO 2023-067 FY2024_Final_Budget_Reso-_PMDD (Entry 9854)
+Adoption Date: September 2023
+Type: Final budget approval resolution (similar structure to FY2025)
+
+RESULT: Document is also a formal resolution without specific expenditure 
+details. The actual budget spreadsheets/tables are not included in the 
+Laserfiche portal entry.
+
+NOTE: The DETAILED FY2024 budget narrative that contains the ALPR statement 
+("The Midtown District will be funding the implantation of an ALPR system 
+in Midtown during FY24") is found in the city-wide CAFR/Comprehensive Annual 
+Financial Report (Entry 9878), not in the district-specific resolution.
+
+================================================================================
+COMPLETE TEXT: FY2024 BUDGET ALPR STATEMENT
+================================================================================
+
+From: FY2024 Adopted Budget (Entry 9878)
+Page: 28
+Section: Technology & Customer Service
+
+---FULL PAGE 28 TEXT---
+
+21
+CITY OF PLANTATION
+Technology & Customer Service
+The pandemic underscored the need to provide platforms that allow stakeholders to interact with the
+City via modern technology.
+The City has implemented a number of these processes and is currently in the process of implementing
+the following:
+ Online Plan Review
+The city went live with ePermit Hub to digitize permitting November 2022. Staff continues
+to improve the application to enhance the user experience.
+ Enterprise Resource Planning (ERP)
+The backbone of the city's financial reporting system will reach end of life in 2027. An internal
+ERP Working Group was established to facilitate selection of software that will best service
+the organization's needs. A priority of the working group is to integrate currently disparate
+platforms to foster improved workflow and coordination between departments. The new
+ERP is also anticipated to offer more flexible access and greater continuity of operation
+during storm events. As previously mentioned, $750,000 of ARPA funding has been allocated
+to facilitate implementation.
+ Automated License Plate Readers (ALPR)
+The city has implemented an ALPR system through our the SR7/Gateway corridor funded by
+the Gateway Special District. ALPR's are an invaluable tool for law enforcement to combat
+crime. The Midtown District will be funding the implantation of an ALPR system in Midtown
+during FY24.
+ Advanced Metering Infrastructure (AMI)
+The $12M project to upgrade all municipal water meters from Automatic Meter Reading
+(AMR) to AMI was initiated in FY2020. Impacts from Covid-19 have delayed the anticipated
+completion of this project which is expected to complete in FY24. This project will facilitate
+convenience for customers, increase revenues for the utility, and provide enhanced
+opportunities for resource conservation.
+
+---END PAGE 28---
+
+================================================================================
+KEY FINDINGS
+================================================================================
+
+1. MIDTOWN ALPR COMMITMENT EXISTS IN FY2024 BUDGET
+   ✓ CONFIRMED: "The Midtown District will be funding the implantation of an 
+     ALPR system in Midtown during FY24."
+   ✓ Location: FY2024 Adopted Budget, page 28
+   ✓ Official source: City of Plantation CAFR (Comprehensive Annual Financial Report)
+   ✓ Fiscal year: October 1, 2023 - September 30, 2024
+
+2. NO MIDTOWN ADVISORY BOARD MEETING MINUTES FOUND FROM 2022 ONWARD
+   ✗ No Midtown Board minutes in repository from 2022-2025
+   ✗ Most recent available: 2021-07-15
+   ✗ Board appears to have been inactive or meetings were not documented
+
+3. NO DISCUSSION OF ALPR IN AVAILABLE MIDTOWN BOARD MINUTES
+   ✗ Four board meeting minutes analyzed (2019-2021)
+   ✗ Zero mentions of ALPR, LPR, license plate readers, or cameras
+   ✗ Minutes focus on development, marketing, financial, and community matters
+
+4. MIDTOWN BOARD NOT DIRECTLY INVOLVED IN ALPR FUNDING DECISION
+   ✗ No evidence of advisory board oversight/approval of ALPR project
+   ✗ No board discussion of ALPR in available meeting minutes
+   ✗ Decision appears to be made at City Council/Administration level
+   ✗ Midtown Board is subordinate to City Council (Council acts as Board of Directors)
+
+5. CRITICAL DOCUMENTATION GAP: IMPLEMENTATION STATUS UNKNOWN
+   ? FY2024 budget promises ALPR funding for Midtown "during FY24"
+   ? No evidence in repository of whether system was actually implemented
+   ? No FY2025 budget language confirming continuation or completion
+   ? No board meeting minutes discussing implementation
+
+================================================================================
+TIMELINE OF ALPR IN MIDTOWN
+================================================================================
+
+June 14, 2017:
+- City Council approves (2) LPR mobile trailers ($79,410)
+- Vendor: Vetted Security Solutions
+- Database: Vigilant Solutions
+- Scope: City-wide (not Midtown-specific)
+
+November 15, 2017:
+- City Council approves JAG grant for park LPR installations ($21,743)
+- Purpose: "two City parks" (parks not identified)
+- Scope: City-wide (not Midtown-specific)
+
+Fall 2023 (September 2023):
+- City Council adopts FY2024 budget
+- FY2024 budget narrative states: "The Midtown District will be funding the 
+  implantation of an ALPR system in Midtown during FY24"
+- This is FIRST reference to Midtown-specific ALPR in Laserfiche portal
+
+FY2024 (October 2023 - September 2024):
+- Supposed implementation period for Midtown ALPR
+- No meeting minutes available to confirm progress
+- No board discussion documented
+
+Fall 2024 (September 2024):
+- City Council adopts FY2025 budget
+- FY2025 resolution approved but no detailed narrative provided in Laserfiche
+- No confirmation of whether FY2024 Midtown ALPR was completed or funded
+
+================================================================================
+MIDTOWN ADVISORY BOARD STATUS
+================================================================================
+
+Historical Meeting Record:
+- 2000-2006: Regular meetings (documented in indices)
+- 2006-2009: Gap in documentation
+- 2009-2021: Regular meetings documented (varying frequency)
+- 2021-2025: NO MEETINGS DOCUMENTED
+
+Latest Verified Meeting:
+- Date: July 15, 2021
+- Type: Advisory Board Minutes
+- Entry: 60175
+- Status: No meeting documented since this date
+
+Governance Structure:
+- The Midtown Advisory Board does NOT act independently
+- City Council "acting as the Board of Directors of the Plantation Midtown 
+  Development District" makes final decisions
+- Advisory Board is consultative/advisory only
+- City Council can override or proceed without board input
+
+================================================================================
+POSSIBLE EXPLANATIONS FOR DOCUMENTATION GAP
+================================================================================
+
+1. MIDTOWN ADVISORY BOARD WAS DORMANT (2022-2025)
+   - No meetings held
+   - City Council proceeded without advisory board input
+   - FY2024 ALPR commitment made by City Council, not requested by board
+
+2. MEETINGS HELD BUT NOT DOCUMENTED IN LASERFICHE
+   - Minutes might exist but not yet digitized/uploaded
+   - Minutes might be filed in separate system
+   - Requires direct contact with city for verification
+
+3. ALPR IMPLEMENTED AT CITY COUNCIL LEVEL WITHOUT BOARD DISCUSSION
+   - City Council has authority to make decisions for districts
+   - Midtown Board is advisory only
+   - Board may not have had input into ALPR procurement
+
+4. ALPR PROJECT STATUS UNKNOWN
+   - FY2024 budget promised implementation "during FY24"
+   - No documentation of whether project was completed
+   - No public records in Laserfiche showing implementation details
+
+================================================================================
+DOCUMENTS DOWNLOADED AND ANALYZED
+================================================================================
+
+TASK 1 - FY2025 BUDGET RESOLUTION:
+- File: FY2025_Budget_Reso_PMDD_19233.pdf
+- Pages: 2
+- Content: Formal budget approval resolution (no detailed expenditure list)
+- Status: Analyzed - contains no ALPR language
+
+TASK 2 - MIDTOWN ADVISORY BOARD MINUTES:
+- midtown_board_2021-07-15_60175.pdf (4 pages)
+- midtown_board_2021-04-20_38274.pdf (6 pages)
+- midtown_board_2019-11-14_32752.pdf (11 pages)
+- midtown_board_2019-07-10_32755.pdf (18 pages)
+- Status: All analyzed - NO ALPR discussion found
+
+TASK 3 - SUPPORTING DOCUMENTS:
+- FY2024_Budget_Reso_PMDD_9854.pdf (2 pages) - Formal resolution
+- FY2024_Adopted_Budget_9878.pdf (741 pages) - Contains critical ALPR statement
+- FY2025_Budget_Reso_PMDD_19236.pdf (2 pages) - Formal resolution
+
+================================================================================
+SEARCH STATISTICS
+================================================================================
+
+Searches Conducted:
+- "Midtown Advisory Board" - 853 total hits
+- "Midtown Board Minutes" - 1,162 total hits
+- "2022 Midtown" - 185 total hits
+- "2023 Midtown" - 184 total hits
+- "2024 Midtown" - 173 total hits
+- "2025 Midtown" - 176 total hits
+- "FY2024 ALPR" - 4 total hits (all city-wide, not Midtown-specific)
+- "implantation ALPR" - 1 total hit (FY2024 budget only)
+
+Result: Only ONE document in entire repository explicitly states Midtown will 
+        fund ALPR: FY2024 Adopted Budget (Entry 9878), page 28
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+1. VERIFY IMPLEMENTATION STATUS
+   - Contact City of Plantation Police Department
+   - Request ALPR deployment report for Midtown
+   - Confirm if system was installed September 2023 - September 2024
+
+2. OBTAIN MISSING MEETING MINUTES
+   - Contact City Clerk's office
+   - Request Midtown Advisory Board minutes 2022-2024
+   - Determine if board even met during ALPR funding period
+
+3. OBTAIN DETAILED BUDGET DOCUMENTS
+   - Request budget attachments showing specific ALPR line items
+   - Confirm funding amount allocated to Midtown ALPR
+   - Determine vendor (if same as city-wide system)
+
+4. REQUEST OFFICIAL CORRESPONDENCE
+   - Police Department memos on ALPR deployment
+   - City Council agendas discussing Midtown ALPR
+   - Any public notices or board communications about system
+
+5. CLARIFY GOVERNANCE QUESTION
+   - Confirm whether Midtown Advisory Board approved/discussed ALPR
+   - Or whether City Council made decision unilaterally
+   - Determine if residents/board had opportunity for input
+
+================================================================================
+FINAL CONCLUSION
+================================================================================
+
+THE FY2024 CITY BUDGET EXPLICITLY STATES MIDTOWN WILL FUND ALPR IMPLEMENTATION:
+"The Midtown District will be funding the implantation of an ALPR system in 
+Midtown during FY24" (page 28 of FY2024 Adopted Budget)
+
+HOWEVER:
+- No Midtown Advisory Board meeting minutes are available from 2022 onward to 
+  document whether the board discussed or approved this commitment
+- The available board minutes (2019-2021) contain no discussion of ALPR, cameras, 
+  or surveillance technology
+- The decision appears to have been made at City Council level without (or 
+  before) board input
+- Implementation status of the promised Midtown ALPR system is unknown and not 
+  documented in Laserfiche repository
+
+STATUS: UNCONFIRMED WHETHER BOARD DISCUSSED OR APPROVED MIDTOWN ALPR
+
+================================================================================
+DOCUMENT SAVED: MIDTOWN_BOARD_2022_2024.txt
+Location: /sessions/focused-eloquent-brahmagupta/mnt/alpr-records/plantation/originals/
+Date Completed: March 14, 2026
+================================================================================

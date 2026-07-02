@@ -1,0 +1,229 @@
+================================================================================
+CITY OF PLANTATION, FLORIDA
+AUTOMATED LICENSE PLATE READER (ALPR) INFRASTRUCTURE
+EXECUTIVE SUMMARY
+================================================================================
+
+INVESTIGATION COMPLETED: March 2026
+
+================================================================================
+CRITICAL FINDINGS
+================================================================================
+
+The City of Plantation has implemented and is expanding a comprehensive ALPR 
+surveillance infrastructure with at least THREE DISTINCT DEPLOYMENT AREAS:
+
+1. MOBILE UNITS (2017) - 2 LPR Speed Trailer Cameras
+   - $79,410.00 contract with Vetted Security Solutions
+   - Access to Vigilant Solutions database (24+ million detections/month)
+   - Informal competitive bid process used
+   - Deployment completed
+
+2. SR7/GATEWAY CORRIDOR (Pre-FY2024)
+   - Funded by Gateway Special District
+   - Implementation completed before FY2024 budget
+   - Status: OPERATIONAL
+
+3. MIDTOWN DISTRICT (FY2024)
+   - Funded by Midtown Special District
+   - Planning/deployment during FY2024
+   - Status: IN PROGRESS/PLANNED
+
+================================================================================
+KEY INTELLIGENCE
+================================================================================
+
+VENDOR ECOSYSTEM:
+- Vetted Security Solutions: Mobile LPR unit contractor
+- Vigilant Solutions: Central ALPR data platform provider
+  * Provides 24+ million law enforcement detections per month
+  * Appears to be regional/state-wide data sharing platform
+  * Annual cost $5,300 (appears in budgets FY2021-2023)
+
+FUNDING MODEL:
+- Initial procurement (2017): Impact Fees ($79,410)
+- Ongoing platform access (annual): General Fund ($5,300)
+- Expansion (2024+): Special District funds (amounts undisclosed)
+
+DATA INTEGRATION:
+- Real-time alerts to dispatch for stolen/felony vehicles
+- Historical investigative database access for detectives
+- Multi-agency data sharing capability (24M detections suggests regional pool)
+
+ESTIMATED EXPOSURE:
+- Minimum $100,610 identified in procurement/costs
+- Additional system costs for Gateway and Midtown corridors unknown
+- Ongoing annual subscriptions continuing
+
+================================================================================
+MOST SIGNIFICANT DOCUMENT
+================================================================================
+
+PRIMARY EVIDENCE: 2017-06-14 Council Agenda Packet (entryId: 18451)
+Pages 89-90 contain complete procurement details:
+
+"Request for authorization to issue a purchase order to Vetted Security 
+Solutions to 'Supply two (2) LPR Speed Trailers and the accompanying camera 
+data access/software for the City of Plantation Police Department' in an 
+amount not to exceed $79,410.00."
+
+This document describes:
+- Complete vendor selection process (Informal Competitive Bid WB No. 019-17)
+- System capabilities (24+ million detections, real-time alerts)
+- Data platform integration (Vigilant Solutions)
+- Procurement justification and funding source
+
+SECONDARY EVIDENCE: FY2017 CAFR (Official Financial Audit)
+Page 34 lists "2 LPR speed trailer cameras" as major FY2017 capital asset,
+confirming procurement completion and asset acquisition.
+
+================================================================================
+DATA & SURVEILLANCE CONCERNS
+================================================================================
+
+IDENTIFIED RISKS:
+1. Large-scale license plate data collection (24M+ detections per month)
+2. Centralized database with cross-agency access
+3. Real-time alert system integration with dispatch
+4. Multi-district expansion indicating city-wide coverage plans
+5. Missing data retention policies and access controls documentation
+
+UNANSWERED QUESTIONS:
+- Who has access to ALPR query data?
+- How long is data retained?
+- What agreements govern inter-agency data sharing?
+- Are there safeguards against misuse or abuse?
+- What is the exact geographic coverage?
+- How many cameras total across all three systems?
+- What was the cost of Gateway/Midtown ALPR systems?
+
+================================================================================
+PROCUREMENT TIMELINE
+================================================================================
+
+June 2017: City Council approves $79,410 purchase of 2 LPR speed trailers
+           Vendor: Vetted Security Solutions
+           Platform: Vigilant Solutions
+
+FY2017 (Sept 30, 2017): Capital assets include "2 LPR speed trailer cameras"
+                        (confirmed in CAFR)
+
+FY2021-2023: Annual $5,300 budgeted for Vigilant ALPR licensing/platform
+
+Pre-FY2024: SR7/Gateway Corridor ALPR system implemented
+            Funding: Gateway Special District
+
+FY2024: Midtown District ALPR system planned/deployed
+        Funding: Midtown Special District
+
+================================================================================
+DOCUMENTS SECURED
+================================================================================
+
+9 PDF Documents Downloaded (493 MB, ~7,000 pages):
+✓ FY2024 Adopted Budget (741 pages) - Contains current ALPR expansion plans
+✓ FY2021-2023 Adopted Budgets (564-733 pages each) - Annual vendor costs
+✓ 2017 CAFR (179 pages) - Official audit confirming LPR asset acquisition
+✓ 2017-06-14 Council Agenda (377 pages) - PRIMARY PROCUREMENT DOCUMENT
+✓ 2017-11-08 Council Agenda (862 pages) - Tech procurement details
+✓ 2017-11-15 Council Agenda (140 pages) - ALPR discussion
+✓ 2021-08-25 Council Agenda (2,143 pages) - Large packet, multiple sections
+
+4 Analysis Files Created:
+✓ COMPREHENSIVE_FINDINGS.txt - Detailed investigation report
+✓ FILE_MANIFEST.txt - Document index and guide
+✓ extracted_text.txt - Raw text extraction from key pages
+✓ focused_keyword_search.txt - Keyword search results
+
+================================================================================
+FINANCIAL SUMMARY
+================================================================================
+
+Documented ALPR Expenditures:
+
+    $79,410.00  - 2017 LPR Speed Trailers procurement
+    $5,300.00   - FY2021 Vigilant platform annual cost
+    $5,300.00   - FY2022 Vigilant platform annual cost
+    $5,300.00   - FY2023 Vigilant platform annual cost
+    ───────────
+    $100,610.00 - IDENTIFIED TOTAL
+
+Additional Undisclosed Costs:
+    - Gateway Corridor ALPR system (implementation cost unknown)
+    - Midtown District ALPR system (implementation cost unknown)
+    - FY2024+ ongoing annual platform subscriptions
+
+================================================================================
+UNRESOLVED LEADS
+================================================================================
+
+High Priority Investigation Items:
+
+1. ALPR Data Policies
+   - Obtain data retention, access control, and sharing policies
+   - Request inter-agency memoranda of understanding
+   - Verify deletion/destruction procedures
+
+2. Gateway Advisory Board Minutes (April 2021, August 2021)
+   - References to LPR cameras on traffic lights
+   - Funding and implementation discussions
+   - Estimated $19,868.54 for one ALPR installation
+
+3. 2017-11-15 Council Agenda Pages 25-35
+   - Complete ALPR procurement discussion (pages mentioned in search results)
+   - Detailed technical specifications and procurement justification
+
+4. Budget Details for Gateway/Midtown Systems
+   - Exact implementation costs
+   - Timeline and current status
+   - Equipment specifications
+
+5. Motorola Capital Lease (2017 CAFR, Page 35)
+   - $9.7M capital lease includes communications equipment
+   - Relationship to ALPR infrastructure unclear
+   - Potential video/camera system integration
+
+================================================================================
+METHODOLOGY NOTE
+================================================================================
+
+This investigation utilized:
+- Full-text search of Laserfiche document portal (r-a3d93a40)
+- 15 targeted keyword queries
+- PDF document download and text extraction
+- Cross-referencing between budgets and council meeting records
+- Official financial audit document analysis
+
+All findings are supported by official City of Plantation documents obtained
+through the public Laserfiche portal.
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+IMMEDIATE:
+1. Request FOIA disclosure of ALPR policies and procedures
+2. Obtain complete procurement contracts
+3. Request ALPR usage statistics and query logs
+4. Ask for surveillance camera deployment map/locations
+
+INVESTIGATION:
+1. Interview City Police procurement officer
+2. Contact Gateway/Midtown Special Districts for system details
+3. Obtain inter-agency data sharing agreements
+4. Request cost analyses for all three ALPR deployments
+
+FOLLOW-UP:
+1. Monitor FY2025+ budgets for additional ALPR expansion
+2. Track data retention policy changes
+3. Request audit of ALPR usage and access logs
+4. Assess privacy impact of multi-district coverage
+
+================================================================================
+REPORT STATUS: COMPLETE
+INVESTIGATION STATUS: ONGOING - Additional documentation available via FOIA
+
+All evidence materials stored in:
+/sessions/focused-eloquent-brahmagupta/mnt/alpr-records/plantation/originals/
+
+Generated: March 14, 2026

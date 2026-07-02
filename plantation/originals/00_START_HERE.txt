@@ -1,0 +1,301 @@
+================================================================================
+CITY OF PLANTATION ALPR INVESTIGATION ARCHIVE
+START HERE - INDEX OF CONTENTS
+================================================================================
+
+This archive contains complete documentation of surveillance infrastructure 
+investigation into the City of Plantation, FL ALPR (Automated License Plate 
+Reader) systems based on public Laserfiche portal documents.
+
+Investigation Completed: March 14, 2026
+Total Archive Size: ~493 MB (9 PDF documents, 6 text files)
+
+================================================================================
+QUICK START GUIDE
+================================================================================
+
+1. FIRST READ THIS FILE:
+   → EXECUTIVE_SUMMARY.txt
+     * Critical findings at a glance
+     * Key vendors and costs
+     * Recommendations
+     (Best overview - 3-5 min read)
+
+2. FOR DETAILED FINDINGS:
+   → COMPREHENSIVE_FINDINGS.txt
+     * Complete search results (15 queries)
+     * All 4 procurements identified
+     * Financial breakdown
+     * Technology details
+     * Unresolved leads
+     (Complete analysis - 10-15 min read)
+
+3. FOR DOCUMENT GUIDE:
+   → FILE_MANIFEST.txt
+     * Index of all documents
+     * Key evidence locations
+     * Where to find specific information
+
+4. FOR SOURCE DOCUMENTS:
+   → See "DOWNLOADED PDFs" section below
+
+5. FOR EXTRACTED TEXT:
+   → extracted_text.txt
+   → focused_keyword_search.txt
+
+================================================================================
+PRIMARY EVIDENCE DOCUMENT
+================================================================================
+
+**MOST IMPORTANT FILE:**
+2017-06-14_Council_Agenda_Packet_18451.pdf - Pages 89-90
+
+Contains complete procurement details:
+- Vendor: Vetted Security Solutions
+- Amount: $79,410.00
+- System: 2 LPR Speed Trailers + Vigilant Solutions database access
+- Procurement: Informal Competitive Bid (370 suppliers notified)
+- Data: 24+ million monthly detections from Vigilant
+
+This single document proves:
+- Intentional ALPR procurement by City Council
+- Formal competitive bidding process
+- Real-time alert system to dispatch
+- Multi-agency data sharing platform
+
+================================================================================
+DOWNLOADED PDFs (9 files - 493 MB)
+================================================================================
+
+BUDGET DOCUMENTS (4 files):
+1. FY2024_Adopted_Budget_9878.pdf (83 MB, 741 pages)
+   ├─ Page 28: Current ALPR system description + expansion plans
+   └─ Evidence: Gateway Corridor ALPR (operational)
+                Midtown ALPR (FY2024)
+
+2. FY2023_Adopted_Budget_9879.pdf (20 MB, 703 pages)
+   ├─ Page 264: "Vigilant ALPR / Vetted Security LLC Solutions" $5,300
+   └─ Evidence: Ongoing annual platform costs
+
+3. FY2022_Adopted_Budget_7725.pdf (84 MB, 733 pages)
+   ├─ Page 278: "Vigilant ALPR / Vetted Security LLC Solutions" $5,300
+   └─ Evidence: Consistent annual costs
+
+4. FY2021_Adopted_Budget_7724.pdf (21 MB, 564 pages)
+   ├─ Page 212: "Vigilant ALPR/ Vetted Security LLC Solutions" $5,300
+   └─ Evidence: First documented annual platform cost
+
+COUNCIL AGENDAS (4 files):
+5. 2017-06-14_Council_Agenda_Packet_18451.pdf (14 MB, 377 pages)
+   ├─ *** PRIMARY PROCUREMENT DOCUMENT ***
+   ├─ Pages 89-90: LPR Speed Trailers procurement ($79,410)
+   ├─ Pages 93-100: ALPR system specifications
+   └─ Vendor: Vetted Security Solutions
+   
+6. 2017-11-08_Council_Agenda_Packet_18462.pdf (20 MB, 862 pages)
+   ├─ Pages 285-295: Technology procurement pricing details
+   └─ Various IT/surveillance vendor information
+
+7. 2017-11-15_Council_Agenda_18459.pdf (8.0 MB, 140 pages)
+   ├─ Pages 25-35: ALPR discussion and deployment
+   └─ Evidence: $19,868.54 ALPR installation cost reference
+
+8. 2021-08-25_Council_Agenda_Packet_19194.pdf (242 MB, 2,143 pages)
+   ├─ Pages 695-715, 1015-1025, 1883-1895: LPR/surveillance content
+   └─ Large comprehensive packet
+
+OFFICIAL AUDIT (1 file):
+9. 2017_CAFR_7900.pdf (2.7 MB, 179 pages)
+   ├─ Page 34: *** OFFICIAL CONFIRMATION: "2 LPR speed trailer cameras" ***
+   ├─ Page 35: Motorola capital lease ($9.7M technology infrastructure)
+   └─ Authority: Official government financial audit (unbiased source)
+
+================================================================================
+ANALYSIS/REPORT FILES (6 files)
+================================================================================
+
+1. EXECUTIVE_SUMMARY.txt (This level of detail, 5-10 min read)
+   - Critical findings summary
+   - Key vendors and costs
+   - Surveillance concerns identified
+   - Recommendations
+
+2. COMPREHENSIVE_FINDINGS.txt (Detailed findings report)
+   - All 15 Laserfiche search queries results
+   - 4 separate procurements detailed
+   - Complete vendor identification
+   - Technology infrastructure details
+   - Unresolved leads
+
+3. FILE_MANIFEST.txt (Document index and guide)
+   - What each document contains
+   - Where to find specific information
+   - Key evidence locations
+   - Investigation recommendations
+
+4. extracted_text.txt (Raw extracted text from PDFs)
+   - Text from key pages
+   - Original document content
+   - Reference material
+
+5. focused_keyword_search.txt (Keyword search results)
+   - ALPR, LPR, surveillance references found
+   - Page numbers and context
+   - Related information
+
+6. 00_START_HERE.txt (This file)
+   - Navigation guide
+   - Quick reference
+   - File descriptions
+
+================================================================================
+KEY FINDINGS AT A GLANCE
+================================================================================
+
+VENDORS IDENTIFIED:
+✓ Vetted Security Solutions - Equipment ($79,410 in 2017)
+✓ Vigilant Solutions - Data platform ($5,300/year ongoing)
+✓ Motorola - Technology infrastructure ($9.7M capital lease)
+
+DEPLOYMENTS:
+✓ Mobile LPR Units (2 speed trailers, 2017)
+✓ SR7/Gateway Corridor (operational by FY2024)
+✓ Midtown District (planned for FY2024)
+
+FINANCIAL:
+✓ Initial procurement: $79,410 (2017)
+✓ Ongoing annual costs: $5,300+ (FY2021-2023 documented)
+✓ Additional systems costs: TBD (not yet documented)
+✓ Total identified: $100,610 minimum + ongoing
+
+DATA INTEGRATION:
+✓ Vigilant Solutions central database
+✓ 24+ million detections per month access
+✓ Real-time dispatch alerts
+✓ Multi-agency data sharing
+
+PROCUREMENTS:
+✓ Informal competitive bid (370 suppliers notified)
+✓ Section 2-226(b) of City Code
+✓ Impact Fees for initial procurement
+
+================================================================================
+CRITICAL UNANSWERED QUESTIONS
+================================================================================
+
+1. Data Retention Policy - How long is LPR data stored?
+2. Access Controls - Who can query the ALPR database?
+3. Inter-agency Sharing - What are the data sharing agreements?
+4. Geographic Coverage - How many cameras total across all 3 systems?
+5. System Costs - What are Gateway/Midtown ALPR implementation costs?
+6. Usage Statistics - How often is ALPR data accessed/used?
+7. Privacy Safeguards - What prevents misuse of collected data?
+8. Expansion Plans - Are there plans for city-wide coverage?
+
+→ See "RECOMMENDATIONS FOR FURTHER INVESTIGATION" in other files
+
+================================================================================
+LASERFICHE SEARCHES EXECUTED (15 total)
+================================================================================
+
+Query Keyword         Hit Count    Most Relevant Document
+─────────────        ─────────    ──────────────────────
+"license plate"          316      Council agendas, Advisory Board Minutes
+"license plate reader"    77      2021 Gateway Board Minutes
+"ALPR"                     8      FY2024 Budget, FY2021-23 Budgets
+"Vigilant"               34      2017-06-14 Agenda, Budgets
+"surveillance camera"    80      Council agendas
+"real time crime"       592      Various agendas
+"Motorola"            1,471      Vehicle and tech equipment
+"Axon"                 36       Council agendas  
+"forfeiture"           699      Legal documents
+"JAG"                  152      Grant funding references
+"cooperative contract" 522      Procurement documents
+"Sourcewell"             1       Minimal reference
+"Flock"                10       False positives (birds)
+"Rekor"                 0       Not used by City
+"RTCC"                  1       Minimal reference
+
+TOTAL RELEVANT QUERIES: All 15 executed, 13 returned ALPR-related results
+
+================================================================================
+HOW TO USE THIS ARCHIVE
+================================================================================
+
+FOR QUICK OVERVIEW (5 minutes):
+1. Read EXECUTIVE_SUMMARY.txt
+2. Skim COMPREHENSIVE_FINDINGS.txt sections 1-3
+
+FOR DETAILED ANALYSIS (30 minutes):
+1. Read EXECUTIVE_SUMMARY.txt
+2. Read COMPREHENSIVE_FINDINGS.txt completely
+3. Review FILE_MANIFEST.txt for specific document locations
+
+FOR LEGAL/REGULATORY REVIEW (1+ hours):
+1. Read all analysis files
+2. Extract/review relevant pages from PDFs:
+   - 2017-06-14 Council Agenda: Pages 89-90, 93-100
+   - FY2024 Budget: Page 28
+   - 2017 CAFR: Pages 34-35
+
+FOR FOIA REQUESTS:
+1. Use FILE_MANIFEST.txt to identify missing documents
+2. Follow "Unresolved Leads" in COMPREHENSIVE_FINDINGS.txt
+3. Use "Recommendations" section for specific request items
+
+================================================================================
+DIRECTORY STRUCTURE
+================================================================================
+
+/sessions/focused-eloquent-brahmagupta/mnt/alpr-records/plantation/originals/
+├── 00_START_HERE.txt .......................... THIS FILE
+├── EXECUTIVE_SUMMARY.txt ..................... Critical findings overview
+├── COMPREHENSIVE_FINDINGS.txt ................ Detailed investigation report
+├── FILE_MANIFEST.txt ......................... Document index and guide
+├── extracted_text.txt ........................ Raw PDF text extraction
+├── focused_keyword_search.txt ................ Keyword search results
+├── FY2024_Adopted_Budget_9878.pdf ........... Current budget (ALPR expansion)
+├── FY2023_Adopted_Budget_9879.pdf ........... FY23 budget (Vigilant costs)
+├── FY2022_Adopted_Budget_7725.pdf ........... FY22 budget (Vigilant costs)
+├── FY2021_Adopted_Budget_7724.pdf ........... FY21 budget (Vigilant costs)
+├── 2017-06-14_Council_Agenda_Packet_18451.pdf  *** PRIMARY DOCUMENT ***
+├── 2017-11-08_Council_Agenda_Packet_18462.pdf  Tech procurement
+├── 2017-11-15_Council_Agenda_18459.pdf ........ ALPR discussion
+└── 2017_CAFR_7900.pdf ........................ Official audit confirmation
+
+================================================================================
+INVESTIGATION AUTHORITY
+================================================================================
+
+All documents obtained from public Laserfiche portal:
+Portal: https://portal.laserfiche.com/Portal/?repo=r-a3d93a40
+Repository: r-a3d93a40 (City of Plantation, Florida)
+Access: Public (no authentication required for document search/download)
+
+Investigation Methodology:
+- Full-text search of Laserfiche repository
+- 15 targeted keyword queries
+- PDF document download and analysis
+- Cross-reference verification between documents
+- Text extraction for evidence collection
+
+All findings supported by official City documents.
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+1. Review EXECUTIVE_SUMMARY.txt
+2. Read COMPREHENSIVE_FINDINGS.txt
+3. Reference specific PDFs for detailed evidence
+4. Use recommendations for follow-up FOIA requests
+5. Monitor FY2025+ budgets for ALPR expansion
+6. Track inter-agency data sharing agreements
+
+================================================================================
+ARCHIVE CREATED: March 14, 2026
+INVESTIGATION STATUS: COMPLETE (Additional FOIA follow-up recommended)
+
+For questions about specific documents, see FILE_MANIFEST.txt
+For detailed findings, see COMPREHENSIVE_FINDINGS.txt
+For quick summary, see EXECUTIVE_SUMMARY.txt

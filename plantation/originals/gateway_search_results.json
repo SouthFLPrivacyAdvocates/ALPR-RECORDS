@@ -1,0 +1,1577 @@
+{
+  "data": {
+    "command": "{LF:Basic ~= \"Gateway Advisory\", option=\"DFANLT\"}",
+    "columns": [
+      {
+        "displayName": "Name",
+        "name": "Name",
+        "type": 2,
+        "isNumeric": false,
+        "hidden": false,
+        "multiValue": false,
+        "width": 0
+      },
+      {
+        "displayName": "Page count",
+        "name": "PageCount",
+        "type": 10,
+        "isNumeric": false,
+        "hidden": false,
+        "multiValue": false,
+        "width": 0
+      },
+      {
+        "displayName": "Template name",
+        "name": "TemplateName",
+        "type": 4,
+        "isNumeric": false,
+        "hidden": false,
+        "multiValue": false,
+        "width": 0
+      },
+      {
+        "displayName": "Relevance",
+        "name": "RelevanceRanking",
+        "type": 93,
+        "isNumeric": false,
+        "hidden": true,
+        "multiValue": false,
+        "width": 0
+      },
+      {
+        "displayName": "Flags",
+        "name": "Flags",
+        "type": 7,
+        "isNumeric": false,
+        "hidden": true,
+        "multiValue": false,
+        "width": 0
+      },
+      {
+        "displayName": "Date created",
+        "name": "CreationDate",
+        "type": 8,
+        "isNumeric": false,
+        "hidden": true,
+        "multiValue": false,
+        "width": 0
+      },
+      {
+        "displayName": "Entry type",
+        "name": "EntryType",
+        "type": 39,
+        "isNumeric": false,
+        "hidden": true,
+        "multiValue": false,
+        "width": 0
+      },
+      {
+        "displayName": "ID",
+        "name": "Id",
+        "type": 1,
+        "isNumeric": false,
+        "hidden": true,
+        "multiValue": false,
+        "width": 0
+      },
+      {
+        "displayName": "Shortcut target",
+        "name": "LinkTo",
+        "type": 6,
+        "isNumeric": false,
+        "hidden": true,
+        "multiValue": false,
+        "width": 0
+      },
+      {
+        "displayName": "Relationship type",
+        "name": "LinkType",
+        "type": 15,
+        "isNumeric": false,
+        "hidden": true,
+        "multiValue": false,
+        "width": 0
+      },
+      {
+        "displayName": "Date modified",
+        "name": "LastModified",
+        "type": 9,
+        "isNumeric": false,
+        "hidden": true,
+        "multiValue": false,
+        "width": 0
+      },
+      {
+        "displayName": "Extension",
+        "name": "Extension",
+        "type": 13,
+        "isNumeric": false,
+        "hidden": true,
+        "multiValue": false,
+        "width": 0
+      }
+    ],
+    "results": [
+      {
+        "name": "1997-08-14 Gateway 7 Advisory Board Agenda & Minutes",
+        "entryId": 38095,
+        "type": -2,
+        "shortcutTargetId": 0,
+        "targetType": -2,
+        "pathToImage": "~/images/spacer.gif",
+        "iconClass": "DocumentBrowserNameImage ElectronicFileIcon EdocPDF",
+        "extension": "pdf",
+        "multiValueFields": null,
+        "isEdoc": true,
+        "entryProperties": "Advisory Board Agendas and Minutes - 6 pages ",
+        "contexthits": [
+          {
+            "HitType": 10,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 11,
+            "Context": "Plantation Gateway Advisory Board",
+            "Highlight1Offset": 11,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 0,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "Meeting Body",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 0,
+            "Context": "GATEWAY 7 DEVELOPMENT DISTRICT  ADVISORY BOARD  PLANTATION GENERAL HOSPITAL  CLA",
+            "Highlight1Offset": 0,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 32,
+            "Context": "VELOPMENT DISTRICT  ADVISORY BOARD  PLANTATION GENERAL HOSPITAL  CLASSROOM 3  12",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 8,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 209,
+            "Context": "JULY 10,  1997  *3. GATEWAY 7 BOARD OF DIRECTORS MEETING  A. OSCAR NEWMAN PLAN  ",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 466,
+            "Context": "HOSPITAL AREA)  *6. GATEWAY 7 DEVELOPMENT DISTRICT FINANCIAL REPORT  7. INSTALLA",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          }
+        ],
+        "metadata": [
+          {
+            "name": "Description",
+            "values": [
+              "1997-08-14 Gateway 7 Advisory Board Agenda & Minutes"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Body",
+            "values": [
+              "Plantation Gateway Advisory Board"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Date",
+            "values": [
+              "8/14/1997"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting DocType",
+            "values": [
+              "Agenda & Minutes"
+            ],
+            "isMvfg": false
+          }
+        ],
+        "thumbnailPageCount": 5,
+        "mediaMimeType": "",
+        "mediaHandlerUrl": null,
+        "tags": [],
+        "data": [
+          "1997-08-14 Gateway 7 Advisory Board Agenda & Minutes",
+          "6",
+          "Advisory Board Agendas and Minutes",
+          "1",
+          "17",
+          "4/1/2025 2:18:01 PM",
+          "Electronic Document",
+          "38095",
+          "",
+          "-2",
+          "4/1/2025 2:20:42 PM",
+          "pdf"
+        ]
+      },
+      {
+        "name": "Gateway Advisory Board Index 2015-2021",
+        "entryId": 37785,
+        "type": -2,
+        "shortcutTargetId": 0,
+        "targetType": -2,
+        "pathToImage": "~/images/spacer.gif",
+        "iconClass": "DocumentBrowserNameImage ElectronicFileIcon EdocPDF",
+        "extension": "pdf",
+        "multiValueFields": null,
+        "isEdoc": true,
+        "entryProperties": "Advisory Board Agendas and Minutes - 8 pages ",
+        "contexthits": [
+          {
+            "HitType": 10,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 11,
+            "Context": "Plantation Gateway Advisory Board",
+            "Highlight1Offset": 11,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 0,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "Meeting Body",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 90,
+            "Context": "rch 12, 2015  CRA - GATEWAY FINANCE  FP&L PROJECT STATUS  DISCUSSION OF COUNTY I",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 663,
+            "Context": "Y PRESENTATION 652  GATEWAY PLAN UPDATE 653  PRIVATE DEVELOPMENT UPDATE 653  NE ",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 857,
+            "Context": "015 03-10-2016 654  GATEWAY PLAN UPDATE 654  NE QUADRANT IMPROVEMENTS PROJECT ST",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 1039,
+            "Context": "55  \u2022 LETTER TO THE GATEWAY ADVISORY BOARD 655  \u2022 AMENDED CALENDAR OF BOARD MEET",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          }
+        ],
+        "metadata": [
+          {
+            "name": "Description",
+            "values": [
+              "Gateway Advisory Board Index 2015-2021"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Body",
+            "values": [
+              "Plantation Gateway Advisory Board"
+            ],
+            "isMvfg": false
+          }
+        ],
+        "thumbnailPageCount": 5,
+        "mediaMimeType": "",
+        "mediaHandlerUrl": null,
+        "tags": [],
+        "data": [
+          "Gateway Advisory Board Index 2015-2021",
+          "8",
+          "Advisory Board Agendas and Minutes",
+          "2",
+          "17",
+          "3/27/2025 5:42:54 PM",
+          "Electronic Document",
+          "37785",
+          "",
+          "-2",
+          "3/27/2025 5:43:25 PM",
+          "pdf"
+        ]
+      },
+      {
+        "name": "Gateway Advisory Board Index 2015-2021",
+        "entryId": 37786,
+        "type": -2,
+        "shortcutTargetId": 0,
+        "targetType": -2,
+        "pathToImage": "~/images/spacer.gif",
+        "iconClass": "DocumentBrowserNameImage ElectronicFileIcon EdocPDF",
+        "extension": "pdf",
+        "multiValueFields": null,
+        "isEdoc": true,
+        "entryProperties": "Advisory Board Agendas and Minutes - 8 pages ",
+        "contexthits": [
+          {
+            "HitType": 10,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 11,
+            "Context": "Plantation Gateway Advisory Board",
+            "Highlight1Offset": 11,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 0,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "Meeting Body",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 90,
+            "Context": "rch 12, 2015  CRA - GATEWAY FINANCE  FP&L PROJECT STATUS  DISCUSSION OF COUNTY I",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 663,
+            "Context": "Y PRESENTATION 652  GATEWAY PLAN UPDATE 653  PRIVATE DEVELOPMENT UPDATE 653  NE ",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 857,
+            "Context": "015 03-10-2016 654  GATEWAY PLAN UPDATE 654  NE QUADRANT IMPROVEMENTS PROJECT ST",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 1039,
+            "Context": "55  \u2022 LETTER TO THE GATEWAY ADVISORY BOARD 655  \u2022 AMENDED CALENDAR OF BOARD MEET",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          }
+        ],
+        "metadata": [
+          {
+            "name": "Description",
+            "values": [
+              "Gateway Advisory Board Index 2015-2021"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Body",
+            "values": [
+              "Plantation Gateway Advisory Board"
+            ],
+            "isMvfg": false
+          }
+        ],
+        "thumbnailPageCount": 5,
+        "mediaMimeType": "",
+        "mediaHandlerUrl": null,
+        "tags": [],
+        "data": [
+          "Gateway Advisory Board Index 2015-2021",
+          "8",
+          "Advisory Board Agendas and Minutes",
+          "3",
+          "17",
+          "3/27/2025 5:43:48 PM",
+          "Electronic Document",
+          "37786",
+          "",
+          "-2",
+          "3/27/2025 5:44:12 PM",
+          "pdf"
+        ]
+      },
+      {
+        "name": "Gateway Advisory Board Index 2015-2021",
+        "entryId": 37787,
+        "type": -2,
+        "shortcutTargetId": 0,
+        "targetType": -2,
+        "pathToImage": "~/images/spacer.gif",
+        "iconClass": "DocumentBrowserNameImage ElectronicFileIcon EdocPDF",
+        "extension": "pdf",
+        "multiValueFields": null,
+        "isEdoc": true,
+        "entryProperties": "Advisory Board Agendas and Minutes - 8 pages ",
+        "contexthits": [
+          {
+            "HitType": 10,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 11,
+            "Context": "Plantation Gateway Advisory Board",
+            "Highlight1Offset": 11,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 0,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "Meeting Body",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 90,
+            "Context": "rch 12, 2015  CRA - GATEWAY FINANCE  FP&L PROJECT STATUS  DISCUSSION OF COUNTY I",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 663,
+            "Context": "Y PRESENTATION 652  GATEWAY PLAN UPDATE 653  PRIVATE DEVELOPMENT UPDATE 653  NE ",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 857,
+            "Context": "015 03-10-2016 654  GATEWAY PLAN UPDATE 654  NE QUADRANT IMPROVEMENTS PROJECT ST",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 1039,
+            "Context": "55  \u2022 LETTER TO THE GATEWAY ADVISORY BOARD 655  \u2022 AMENDED CALENDAR OF BOARD MEET",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          }
+        ],
+        "metadata": [
+          {
+            "name": "Description",
+            "values": [
+              "Gateway Advisory Board Index 2015-2021"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Body",
+            "values": [
+              "Plantation Gateway Advisory Board"
+            ],
+            "isMvfg": false
+          }
+        ],
+        "thumbnailPageCount": 5,
+        "mediaMimeType": "",
+        "mediaHandlerUrl": null,
+        "tags": [],
+        "data": [
+          "Gateway Advisory Board Index 2015-2021",
+          "8",
+          "Advisory Board Agendas and Minutes",
+          "4",
+          "17",
+          "3/27/2025 5:44:24 PM",
+          "Electronic Document",
+          "37787",
+          "",
+          "-2",
+          "3/27/2025 5:44:48 PM",
+          "pdf"
+        ]
+      },
+      {
+        "name": "Gateway Advisory Board Index 2015-2021",
+        "entryId": 37788,
+        "type": -2,
+        "shortcutTargetId": 0,
+        "targetType": -2,
+        "pathToImage": "~/images/spacer.gif",
+        "iconClass": "DocumentBrowserNameImage ElectronicFileIcon EdocPDF",
+        "extension": "pdf",
+        "multiValueFields": null,
+        "isEdoc": true,
+        "entryProperties": "Advisory Board Agendas and Minutes - 8 pages ",
+        "contexthits": [
+          {
+            "HitType": 10,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 11,
+            "Context": "Plantation Gateway Advisory Board",
+            "Highlight1Offset": 11,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 0,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "Meeting Body",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 90,
+            "Context": "rch 12, 2015  CRA - GATEWAY FINANCE  FP&L PROJECT STATUS  DISCUSSION OF COUNTY I",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 663,
+            "Context": "Y PRESENTATION 652  GATEWAY PLAN UPDATE 653  PRIVATE DEVELOPMENT UPDATE 653  NE ",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 857,
+            "Context": "015 03-10-2016 654  GATEWAY PLAN UPDATE 654  NE QUADRANT IMPROVEMENTS PROJECT ST",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 1039,
+            "Context": "55  \u2022 LETTER TO THE GATEWAY ADVISORY BOARD 655  \u2022 AMENDED CALENDAR OF BOARD MEET",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          }
+        ],
+        "metadata": [
+          {
+            "name": "Description",
+            "values": [
+              "Gateway Advisory Board Index 2015-2021"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Body",
+            "values": [
+              "Plantation Gateway Advisory Board"
+            ],
+            "isMvfg": false
+          }
+        ],
+        "thumbnailPageCount": 5,
+        "mediaMimeType": "",
+        "mediaHandlerUrl": null,
+        "tags": [],
+        "data": [
+          "Gateway Advisory Board Index 2015-2021",
+          "8",
+          "Advisory Board Agendas and Minutes",
+          "5",
+          "17",
+          "3/27/2025 5:45:01 PM",
+          "Electronic Document",
+          "37788",
+          "",
+          "-2",
+          "3/27/2025 5:45:27 PM",
+          "pdf"
+        ]
+      },
+      {
+        "name": "Gateway Advisory Board Index 2015-2021",
+        "entryId": 37789,
+        "type": -2,
+        "shortcutTargetId": 0,
+        "targetType": -2,
+        "pathToImage": "~/images/spacer.gif",
+        "iconClass": "DocumentBrowserNameImage ElectronicFileIcon EdocPDF",
+        "extension": "pdf",
+        "multiValueFields": null,
+        "isEdoc": true,
+        "entryProperties": "Advisory Board Agendas and Minutes - 8 pages ",
+        "contexthits": [
+          {
+            "HitType": 10,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 11,
+            "Context": "Plantation Gateway Advisory Board",
+            "Highlight1Offset": 11,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 0,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "Meeting Body",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 90,
+            "Context": "rch 12, 2015  CRA - GATEWAY FINANCE  FP&L PROJECT STATUS  DISCUSSION OF COUNTY I",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 663,
+            "Context": "Y PRESENTATION 652  GATEWAY PLAN UPDATE 653  PRIVATE DEVELOPMENT UPDATE 653  NE ",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 857,
+            "Context": "015 03-10-2016 654  GATEWAY PLAN UPDATE 654  NE QUADRANT IMPROVEMENTS PROJECT ST",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 1039,
+            "Context": "55  \u2022 LETTER TO THE GATEWAY ADVISORY BOARD 655  \u2022 AMENDED CALENDAR OF BOARD MEET",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          }
+        ],
+        "metadata": [
+          {
+            "name": "Description",
+            "values": [
+              "Gateway Advisory Board Index 2015-2021"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Body",
+            "values": [
+              "Plantation Gateway Advisory Board"
+            ],
+            "isMvfg": false
+          }
+        ],
+        "thumbnailPageCount": 5,
+        "mediaMimeType": "",
+        "mediaHandlerUrl": null,
+        "tags": [],
+        "data": [
+          "Gateway Advisory Board Index 2015-2021",
+          "8",
+          "Advisory Board Agendas and Minutes",
+          "6",
+          "17",
+          "3/27/2025 5:45:38 PM",
+          "Electronic Document",
+          "37789",
+          "",
+          "-2",
+          "3/27/2025 5:46:11 PM",
+          "pdf"
+        ]
+      },
+      {
+        "name": "Gateway Advisory Board Index 2015-2021",
+        "entryId": 37790,
+        "type": -2,
+        "shortcutTargetId": 0,
+        "targetType": -2,
+        "pathToImage": "~/images/spacer.gif",
+        "iconClass": "DocumentBrowserNameImage ElectronicFileIcon EdocPDF",
+        "extension": "pdf",
+        "multiValueFields": null,
+        "isEdoc": true,
+        "entryProperties": "Advisory Board Agendas and Minutes - 8 pages ",
+        "contexthits": [
+          {
+            "HitType": 10,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 11,
+            "Context": "Plantation Gateway Advisory Board",
+            "Highlight1Offset": 11,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 0,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "Meeting Body",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 90,
+            "Context": "rch 12, 2015  CRA - GATEWAY FINANCE  FP&L PROJECT STATUS  DISCUSSION OF COUNTY I",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 663,
+            "Context": "Y PRESENTATION 652  GATEWAY PLAN UPDATE 653  PRIVATE DEVELOPMENT UPDATE 653  NE ",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 857,
+            "Context": "015 03-10-2016 654  GATEWAY PLAN UPDATE 654  NE QUADRANT IMPROVEMENTS PROJECT ST",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 1039,
+            "Context": "55  \u2022 LETTER TO THE GATEWAY ADVISORY BOARD 655  \u2022 AMENDED CALENDAR OF BOARD MEET",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          }
+        ],
+        "metadata": [
+          {
+            "name": "Description",
+            "values": [
+              "Gateway Advisory Board Index 2015-2021"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Body",
+            "values": [
+              "Plantation Gateway Advisory Board"
+            ],
+            "isMvfg": false
+          }
+        ],
+        "thumbnailPageCount": 5,
+        "mediaMimeType": "",
+        "mediaHandlerUrl": null,
+        "tags": [],
+        "data": [
+          "Gateway Advisory Board Index 2015-2021",
+          "8",
+          "Advisory Board Agendas and Minutes",
+          "7",
+          "17",
+          "3/27/2025 5:46:25 PM",
+          "Electronic Document",
+          "37790",
+          "",
+          "-2",
+          "3/27/2025 5:46:50 PM",
+          "pdf"
+        ]
+      },
+      {
+        "name": "Gateway Advisory Board Index 2015-2021",
+        "entryId": 37791,
+        "type": -2,
+        "shortcutTargetId": 0,
+        "targetType": -2,
+        "pathToImage": "~/images/spacer.gif",
+        "iconClass": "DocumentBrowserNameImage ElectronicFileIcon EdocPDF",
+        "extension": "pdf",
+        "multiValueFields": null,
+        "isEdoc": true,
+        "entryProperties": "Advisory Board Agendas and Minutes - 8 pages ",
+        "contexthits": [
+          {
+            "HitType": 10,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 11,
+            "Context": "Plantation Gateway Advisory Board",
+            "Highlight1Offset": 11,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 0,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "Meeting Body",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 90,
+            "Context": "rch 12, 2015  CRA - GATEWAY FINANCE  FP&L PROJECT STATUS  DISCUSSION OF COUNTY I",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 663,
+            "Context": "Y PRESENTATION 652  GATEWAY PLAN UPDATE 653  PRIVATE DEVELOPMENT UPDATE 653  NE ",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 857,
+            "Context": "015 03-10-2016 654  GATEWAY PLAN UPDATE 654  NE QUADRANT IMPROVEMENTS PROJECT ST",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 1039,
+            "Context": "55  \u2022 LETTER TO THE GATEWAY ADVISORY BOARD 655  \u2022 AMENDED CALENDAR OF BOARD MEET",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          }
+        ],
+        "metadata": [
+          {
+            "name": "Description",
+            "values": [
+              "Gateway Advisory Board Index 2015-2021"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Body",
+            "values": [
+              "Plantation Gateway Advisory Board"
+            ],
+            "isMvfg": false
+          }
+        ],
+        "thumbnailPageCount": 5,
+        "mediaMimeType": "",
+        "mediaHandlerUrl": null,
+        "tags": [],
+        "data": [
+          "Gateway Advisory Board Index 2015-2021",
+          "8",
+          "Advisory Board Agendas and Minutes",
+          "8",
+          "17",
+          "3/27/2025 5:47:02 PM",
+          "Electronic Document",
+          "37791",
+          "",
+          "-2",
+          "3/27/2025 5:47:28 PM",
+          "pdf"
+        ]
+      },
+      {
+        "name": "1995-10-18 Gateway 7 Agenda & Minutes",
+        "entryId": 37670,
+        "type": -2,
+        "shortcutTargetId": 0,
+        "targetType": -2,
+        "pathToImage": "~/images/spacer.gif",
+        "iconClass": "DocumentBrowserNameImage ElectronicFileIcon EdocPDF",
+        "extension": "pdf",
+        "multiValueFields": null,
+        "isEdoc": true,
+        "entryProperties": "Advisory Board Agendas and Minutes - 6 pages ",
+        "contexthits": [
+          {
+            "HitType": 10,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 11,
+            "Context": "Plantation Gateway Advisory Board",
+            "Highlight1Offset": 11,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 0,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "Meeting Body",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 42,
+            "Context": "ARD OF DIRECTORS OF GATEWAY 7 DEVELOPMENT DISTRICT  CITY HALL  WEDNESDAY  6:00 P",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 653,
+            "Context": " review/approval of Advisory Board  recommendation for reimbursement policy for ",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 8,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 713,
+            "Context": "ursement policy for Gateway 7  District. Improvements.  4. Consideration of Busi",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 812,
+            "Context": "f Directors of the  Gateway 7 Development. District.  /e/a_ \"96G \"   Minutes of ",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          }
+        ],
+        "metadata": [
+          {
+            "name": "Description",
+            "values": [
+              "1995-10-18 Gateway 7 Agenda & Minutes"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Body",
+            "values": [
+              "Plantation Gateway Advisory Board"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Date",
+            "values": [
+              "10/18/1995"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting DocType",
+            "values": [
+              "Agenda & Minutes"
+            ],
+            "isMvfg": false
+          }
+        ],
+        "thumbnailPageCount": 5,
+        "mediaMimeType": "",
+        "mediaHandlerUrl": null,
+        "tags": [],
+        "data": [
+          "1995-10-18 Gateway 7 Agenda & Minutes",
+          "6",
+          "Advisory Board Agendas and Minutes",
+          "9",
+          "17",
+          "3/27/2025 1:01:10 PM",
+          "Electronic Document",
+          "37670",
+          "",
+          "-2",
+          "3/27/2025 1:01:59 PM",
+          "pdf"
+        ]
+      },
+      {
+        "name": "Gateway 7 Advisory Board Index 2010",
+        "entryId": 37587,
+        "type": -2,
+        "shortcutTargetId": 0,
+        "targetType": -2,
+        "pathToImage": "~/images/spacer.gif",
+        "iconClass": "DocumentBrowserNameImage ElectronicFileIcon EdocPDF",
+        "extension": "pdf",
+        "multiValueFields": null,
+        "isEdoc": true,
+        "entryProperties": "Advisory Board Agendas and Minutes - 3 pages ",
+        "contexthits": [
+          {
+            "HitType": 10,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 11,
+            "Context": "Plantation Gateway Advisory Board",
+            "Highlight1Offset": 11,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 0,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "Meeting Body",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 11,
+            "Context": "PLANTATION GATEWAY ADVISORY BOARD  INDEX  FINANCIAL REPORT (July 2009)  OLD BUSI",
+            "Highlight1Offset": 11,
+            "Highlight1Length": 16,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 89,
+            "Context": ")  OLD BUSINESS  a. Gateway 7 Compliance  b. Public Safety Grant Update  NEW BUS",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 170,
+            "Context": "NESS  a. Plantation Gateway Hospital Project Updates  Walk-in clinic at Grove Ea",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          },
+          {
+            "HitType": 0,
+            "IsAnnotationHit": false,
+            "AnnotationId": 0,
+            "PageNumber": 1,
+            "PageOffset": 374,
+            "Context": "0  OLD BUSINESS  a. Gateway 7 Compliance  b. Public Safety Grant Update  c. Lett",
+            "Highlight1Offset": 20,
+            "Highlight1Length": 7,
+            "Highlight2Offset": 0,
+            "Highlight2Length": 0,
+            "HitWidth": 1,
+            "EdocHitCount": 0,
+            "FieldHitCount": 0,
+            "FieldName": "",
+            "ContextStartTimeInSeconds": null,
+            "HitStartTimeInSeconds": null
+          }
+        ],
+        "metadata": [
+          {
+            "name": "Description",
+            "values": [
+              "Gateway 7 Advisory Board Index 2010"
+            ],
+            "isMvfg": false
+          },
+          {
+            "name": "Meeting Body",
+            "values": [
+              "Plantation Gateway Advisory Board"
+            ],
+            "isMvfg": false
+          }
+        ],
+        "thumbnailPageCount": 3,
+        "mediaMimeType": "",
+        "mediaHandlerUrl": null,
+        "tags": [],
+        "data": [
+          "Gateway 7 Advisory Board Index 2010",
+          "3",
+          "Advisory Board Agendas and Minutes",
+          "10",
+          "17",
+          "3/25/2025 9:18:09 PM",
+          "Electronic Document",
+          "37587",
+          "",
+          "-2",
+          "3/25/2025 9:18:18 PM",
+          "pdf"
+        ]
+      }
+    ],
+    "failed": false,
+    "errMsg": null,
+    "entryPropsDisplay": 0,
+    "contextHitDisplay": 0,
+    "metadataDisplay": 0,
+    "userSelectedFieldsDisplay": 0,
+    "thumbnailsDisplay": 1,
+    "showUserPropertiesAsList": false,
+    "showMetadataAsList": false,
+    "showEmptyUserProperties": false,
+    "sortColumns": [
+      {
+        "localizedName": "Relevance",
+        "name": "RelevanceRanking"
+      },
+      {
+        "localizedName": "Name",
+        "name": "Name"
+      },
+      {
+        "localizedName": "Date created",
+        "name": "CreationDate"
+      },
+      {
+        "localizedName": "Date modified",
+        "name": "LastModified"
+      }
+    ],
+    "sortAscending": false,
+    "hitCount": 1624,
+    "propertiesOrder": [
+      "E",
+      "U",
+      "C",
+      "T",
+      "M"
+    ],
+    "openIfOneResult": true,
+    "showColumnPicker": true,
+    "displayRelevanceColumn": false,
+    "searchUUID": "a308eb82-f284-4b67-b7c9-3ef97203482d"
+  },
+  "__breach": "15IhEh41rgfvx/NTPx"
+}
