@@ -13,8 +13,8 @@ as downloaded). Working copies in `procurement/` under descriptive names:
 |---|---|---|
 | Company 10 PurchaseOrder 10490 Email Final Document.pdf | City PO 10490 Flock 40 Falcons Yr1of5 99999.20 2024-10-23.pdf | e67612b4f6df2649030f3b0f529b353d969d472b21a2246129a95b81d4c643b5 |
 | Company 10 PurchaseOrder 14582 Email Final Document.pdf | City PO 14582 Flock 22 Falcons 68530 2025-08-27.pdf | f6c1cef8279d78e5635499adcca2899d0322920695f86cb317222b2cabc949ba |
-| CLK-1456-2026 PO_10490.pdf | CLK-1456 PO10490 backup OMNIA contract + Insight quote 227700036 5yr 499996.pdf | 55c1a11e432be02b68f95ad079fef0c2d4d4ccebd9e15fabb9fe2cecbbde8e3b |
-| CLK-1456-2026 PO_14582.pdf | CLK-1456 PO14582 backup OMNIA + Insight quote 228724081.pdf | bacebe74f34022a1b04c7cb110f4dab5242753a1439634426cb7f72459592928 |
+| CLK-1456-2026 PO_10490.pdf | CLK-1456 PO10490 backup OMNIA contract and Insight quote 227700036 5yr 499996.pdf | 55c1a11e432be02b68f95ad079fef0c2d4d4ccebd9e15fabb9fe2cecbbde8e3b |
+| CLK-1456-2026 PO_14582.pdf | CLK-1456 PO14582 backup OMNIA and Insight quote 228724081.pdf | bacebe74f34022a1b04c7cb110f4dab5242753a1439634426cb7f72459592928 |
 
 ## CLK-681-2026 (received ~May 2026)
 
